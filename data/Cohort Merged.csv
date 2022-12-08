@@ -1,0 +1,905 @@
+Name,Ash,Calcium,Calories,Carbohydrate,Copper,Fat,Iron,Magnesium,Potassium,Protein,Saturated_fatty_acids,Sodium,Vitamin_A_RAE,Vitamin_B6,Water,Zinc,Fatty_acids_total_trans,Manganese,Vitamin_D,Glycemic_Load,Completeness_Score,Amino_Acid_Score,Category,Sub_Category,cluster,Cohort
+broccoli cooked chinese,0.7,88.0,19.0,3.35,0.05,0.634,0.49,15.84,229.68,1.0,0.097,6.16,72.16,0.062,82.32,0.34,0.0,0.232,0.0,1.0,93.0,,Foundation Foods,Tomatoes,3,Packaged
+broccoli raw chinese,0.83,105.0,26.0,4.67,0.06,0.76,0.59,19.0,274.0,1.2,0.116,7.0,86.0,0.074,92.55,0.41,,,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+catsup low sodium,0.5,2.55,17.0,4.66,0.01,0.017,0.06,2.21,47.77,0.18,0.002,3.4,4.42,0.027,11.65,0.03,0.0,0.014,0.0,26.0,47.0,,Branded Foods,Powdered_Drinks,1,Whole Nutrient
+babyfood pear juice,0.07,3.74,13.0,3.7,0.02,0.0,0.0,2.5,40.56,0.0,0.0,2.5,0.0,0.003,27.42,0.02,,,0.0,1.0,25.0,0.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+dennys chicken strips,5.68,21.34,572.0,42.74,0.13,28.13,1.4,58.2,647.96,37.19,5.015,1548.12,27.16,0.906,80.26,1.38,0.242,0.442,,,,,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+bread toasted egg,0.57,28.92,89.0,14.91,0.05,1.871,0.95,5.95,35.72,2.98,0.458,118.22,19.56,0.018,8.02,0.24,,0.156,0.14,11.0,35.0,64.0,Foundation Foods,Tomatoes,0,Confectionaries
+chrysanthemum raw garland,0.42,29.25,6.0,0.76,0.03,0.14,0.57,8.0,141.75,0.84,,29.5,29.0,0.044,22.85,0.18,0.0,0.236,0.0,0.0,88.0,,Branded Foods,Crusts_AND_Dough,2,Frozen & Preserved
+onions raw welsh,0.7,18.0,34.0,6.5,0.07,0.4,1.22,23.0,212.0,1.9,0.067,17.0,,0.072,90.5,0.52,0.0,0.137,0.0,1.0,71.0,42.0,Branded Foods,,3,Packaged
+whey fluid sweet,1.3,115.62,66.0,12.64,0.01,0.886,0.15,19.68,396.06,2.09,0.566,132.84,7.38,0.076,229.08,0.32,,0.002,,5.0,42.0,105.0,Branded Foods,,5,Unhealthy & Over-indulgent
+egg dried white,1.48,17.36,107.0,2.18,0.03,0.0,0.04,24.64,315.0,22.71,0.0,358.4,0.0,0.01,1.62,0.03,,0.002,0.0,1.0,23.0,125.0,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+bratwurst cooked veal,0.67,9.24,286.0,0.0,0.07,26.628,0.62,13.44,194.04,11.75,12.55,50.4,0.0,0.258,44.95,1.72,,0.041,,0.0,22.0,139.0,Foundation Foods,Tomatoes,1,Whole Nutrient
+broccoli raw leaves,0.92,48.0,28.0,5.06,0.04,0.35,0.88,25.0,325.0,2.98,0.054,27.0,,0.159,90.69,0.4,0.0,0.229,0.0,1.0,79.0,72.0,Foundation Foods,Tomatoes,0,Confectionaries
+whey fluid acid,1.5,253.38,59.0,12.6,0.01,0.221,0.2,24.6,351.78,1.87,0.14,118.08,4.92,0.103,229.81,1.06,,0.005,,5.0,47.0,110.0,Branded Foods,,5,Unhealthy & Over-indulgent
+ostrich cooked oyster,0.7,5.1,135.0,0.0,0.15,3.374,4.17,24.65,347.65,24.49,1.437,68.85,0.0,0.468,57.42,4.2,,0.02,,0.0,49.0,127.0,Branded Foods,,4,Keto & Strength
+egg substitute powder,0.58,32.27,44.0,2.16,0.02,1.287,0.31,6.43,73.66,5.49,0.373,79.2,36.53,0.014,0.38,0.18,,0.008,0.0,1.0,45.0,,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+ice cream sandwich,0.77,60.2,166.0,26.0,0.18,5.999,0.18,20.3,80.5,3.0,1.622,90.3,60.2,0.02,34.23,0.42,,0.267,0.0,17.0,12.0,,Branded Foods,,3,Packaged
+salami turkey cooked,0.47,11.2,48.0,0.43,0.05,2.579,0.35,6.16,60.48,5.38,0.779,309.96,0.56,0.12,19.26,0.65,0.0,0.006,0.17,0.0,45.0,115.0,Branded Foods,,2,Frozen & Preserved
+seaweed raw laver,0.98,18.2,9.1,1.33,0.07,0.073,0.47,0.52,92.56,1.51,0.016,12.48,67.6,0.041,22.11,0.27,0.0,0.257,0.0,1.0,84.0,75.0,Branded Foods,,0,Confectionaries
+seaweed dried spirulina,6.98,134.4,325.0,26.77,6.83,8.646,31.92,218.4,1526.56,64.37,2.968,1173.76,32.48,0.408,5.24,2.24,0.0,2.128,0.0,10.0,69.0,103.0,Branded Foods,,2,Frozen & Preserved
+fiddlehead ferns raw,0.83,32.0,34.0,5.54,0.32,0.4,1.31,34.0,370.0,4.55,,1.0,181.0,,88.68,0.83,0.0,0.51,0.0,1.0,66.0,,Branded Foods,Honey,1,Whole Nutrient
+sweetener agave syrup,0.01,0.07,21.0,5.27,0.0,0.031,0.01,0.07,0.28,0.01,0.0,0.28,0.55,0.016,1.58,0.0,,0.0,0.0,,,,Branded Foods,,1,Whole Nutrient
+peppers dried ancho,1.0,10.37,48.0,8.74,0.09,1.394,1.86,19.21,409.87,2.02,0.139,7.31,173.74,0.601,3.85,0.24,0.0,0.217,0.0,2.0,63.0,85.0,Branded Foods,,1,Whole Nutrient
+seaweed raw agar,0.14,5.4,2.6,0.68,0.01,0.003,0.19,6.7,22.6,0.05,0.001,0.9,0.0,0.003,9.13,0.06,0.0,0.037,0.0,0.0,58.0,,Branded Foods,,3,Packaged
+crackers water biscuits,0.27,0.0,54.0,10.19,0.02,1.0,0.0,2.8,13.86,1.0,0.0,79.94,0.0,0.006,1.54,0.09,0.0,,0.0,,,,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+potatoes skin raw,0.61,11.4,22.0,4.73,0.16,0.038,1.23,8.74,156.94,0.98,0.01,3.8,0.0,0.091,31.65,0.13,0.0,0.229,0.0,29.0,51.0,112.0,Branded Foods,,1,Whole Nutrient
+danish pastry cheese,0.43,9.92,106.0,10.55,0.03,6.209,0.51,4.25,27.78,2.27,1.926,118.22,9.92,0.011,8.9,0.2,,0.1,0.0,14.0,19.0,105.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+onions dehydrated flakes,0.17,12.85,17.0,4.16,0.02,0.023,0.08,4.6,81.1,0.45,0.004,1.05,0.05,0.08,0.2,0.09,0.0,0.069,0.0,2.0,54.0,64.0,Branded Foods,,1,Whole Nutrient
+malabar spinach cooked,0.46,54.56,10.0,1.19,0.05,0.343,0.65,21.12,112.64,1.31,,24.2,25.52,0.038,40.7,0.13,0.0,0.112,0.0,0.0,85.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+fat beef tallow,0.0,0.0,115.0,0.0,0.0,12.8,0.0,0.0,0.0,0.0,6.374,0.0,0.0,0.0,0.0,0.0,,,0.09,0.0,0.0,0.0,Branded Foods,Honey,1,Whole Nutrient
+soybeans raw green,4.35,504.32,376.0,28.29,0.33,17.408,9.09,166.4,1587.2,33.15,2.012,38.4,23.04,0.166,172.8,2.53,0.0,1.4,0.0,11.0,69.0,85.0,Branded Foods,,1,Whole Nutrient
+roast beef spread,1.72,13.11,127.0,2.13,0.06,9.28,1.17,13.68,147.63,8.7,3.648,412.68,0.0,0.085,35.17,3.47,,,,2.0,33.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+babyfood apple juice,0.06,1.27,15.0,3.71,0.01,0.032,0.18,0.95,28.85,0.0,0.006,2.54,0.32,0.009,27.9,0.01,,,0.0,1.0,24.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+chicory raw witloof,0.25,10.07,9.0,2.12,0.03,0.053,0.13,5.3,111.83,0.48,0.013,1.06,0.53,0.022,50.1,0.08,0.0,0.053,0.0,0.0,71.0,18.0,Branded Foods,Canned_Tuna,1,Whole Nutrient
+canadian bacon unprepared,2.87,5.1,94.0,1.14,0.05,2.227,0.37,17.0,580.55,17.26,0.765,638.35,0.0,0.205,61.49,1.05,0.006,0.013,0.09,,,,Branded Foods,Powdered_Drinks,2,Frozen & Preserved
+ostrich raw tenderloin,0.62,5.1,105.0,0.0,0.12,2.711,4.15,18.7,272.0,18.76,0.994,73.1,0.0,0.441,63.33,3.29,,0.015,,0.0,49.0,128.0,Branded Foods,,4,Keto & Strength
+seaweed dried agar,3.93,625.0,306.0,80.88,0.61,0.3,21.4,770.0,1125.0,6.21,0.061,102.0,0.0,0.303,8.68,5.8,0.0,4.3,0.0,12.0,59.0,,Branded Foods,,3,Packaged
+seaweed raw kelp,0.66,16.8,4.3,0.96,0.01,0.056,0.28,12.1,8.9,0.17,0.025,23.3,0.6,0.0,8.16,0.12,0.0,0.02,0.0,0.0,80.0,79.0,Branded Foods,,2,Frozen & Preserved
+olive loaf pork,1.2,30.52,66.0,2.58,0.01,4.62,0.15,5.32,83.16,3.3,1.638,269.92,16.8,0.064,16.3,0.39,,0.01,0.31,1.0,35.0,126.0,Branded Foods,,2,Frozen & Preserved
+brussels sprouts raw,1.21,36.96,38.0,7.88,0.06,0.264,1.23,20.24,342.32,2.97,0.055,22.0,33.44,0.193,75.68,0.37,0.0,0.297,0.0,3.0,90.0,61.0,Foundation Foods,Tomatoes,3,Packaged
+candies sesame crunch,0.74,181.16,146.0,14.26,0.27,9.441,1.21,71.16,87.03,3.29,1.322,47.34,0.0,0.139,0.62,1.07,,0.456,0.0,0.0,39.0,,Branded Foods,Powdered_Drinks,4,Keto & Strength
+bologna pork chicken,1.13,54.88,94.0,1.17,0.01,8.571,0.31,4.48,45.36,2.89,2.762,347.2,3.64,0.053,14.24,0.29,0.079,0.012,,0.0,27.0,112.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+cabbage cooked napa,0.19,31.61,13.0,2.43,0.1,0.185,0.81,8.72,94.83,1.2,,11.99,14.17,0.04,105.0,0.15,0.0,0.221,0.0,2.0,70.0,,Branded Foods,Gravy_Mix,0,Confectionaries
+vinespinach raw basella,1.4,109.0,19.0,3.4,0.11,0.3,1.2,65.0,510.0,1.8,,24.0,400.0,0.24,93.1,0.43,0.0,0.735,0.0,1.0,76.0,94.0,Branded Foods,,0,Confectionaries
+mushrooms grilled portabella,1.27,3.63,35.0,5.37,0.47,0.702,0.48,15.73,528.77,3.97,0.077,13.31,0.0,0.148,109.7,0.79,0.0,0.081,0.36,3.0,63.0,46.0,Branded Foods,,3,Packaged
+chicken boiled feet,0.0,74.8,183.0,0.17,0.09,12.41,0.77,4.25,26.35,16.49,3.332,56.95,25.5,0.009,55.93,0.59,,,0.17,0.0,25.0,,Branded Foods,Canned_Tuna,4,Keto & Strength
+beverages orange carbonated,0.03,1.55,15.0,3.81,0.0,0.0,0.02,0.31,0.62,0.0,0.0,3.72,0.0,0.0,27.16,0.03,0.0,0.004,,1.0,3.0,0.0,Foundation Foods,Tomatoes,1,Whole Nutrient
+tostada shells corn,0.33,9.35,58.0,7.92,0.02,2.876,0.19,9.35,29.15,0.76,0.862,80.81,,0.045,0.41,0.15,0.02,0.045,,,,,Branded Foods,,0,Confectionaries
+cabbage salted mustard,1.37,85.76,36.0,7.21,0.04,0.128,0.9,19.2,314.88,1.41,0.017,917.76,62.72,0.384,117.89,0.38,0.0,0.279,0.0,2.0,76.0,,Branded Foods,Gravy_Mix,2,Frozen & Preserved
+restaurant bunuelos fried yeast bread latino,1.31,150.5,323.0,34.0,0.03,18.368,1.25,13.3,72.8,5.61,4.784,292.6,,0.044,10.71,0.64,0.545,0.274,,,,,Branded Foods,,0,Confectionaries
+duck raw meat and skin domesticated,0.74,10.2,315.0,0.0,0.23,28.577,2.12,15.3,261.8,13.48,8.313,62.05,14.45,0.331,42.21,1.46,,0.017,,0.0,20.0,137.0,Branded Foods,,1,Whole Nutrient
+goose raw meat and skin domesticated,0.74,10.2,315.0,0.0,0.23,28.577,2.12,15.3,261.8,13.48,8.313,62.05,14.45,0.331,42.21,1.46,,0.017,,0.0,25.0,152.0,Branded Foods,,1,Whole Nutrient
+ham and cheese loaf or roll,0.95,16.24,67.0,1.12,0.02,5.236,0.25,4.48,82.32,3.81,1.95,280.0,0.0,0.073,16.88,0.56,,,0.31,1.0,33.0,181.0,Branded Foods,,2,Frozen & Preserved
+beverages sugar free amp energy drink,1.49,0.0,4.8,2.47,0.01,0.0,0.0,7.2,4.8,0.0,0.0,74.4,0.0,0.199,236.04,0.0,0.0,,0.0,,,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+babyfood strained with egg yolks cereal,0.14,6.8,14.0,1.98,0.01,0.51,0.13,0.85,11.06,0.54,0.173,9.36,11.34,0.006,25.17,0.08,,,,4.0,38.0,131.0,Standard Reference Foods,Baked_Products,3,Packaged
+ice creams chocolate low carbohydrate regular,0.58,63.22,137.0,15.54,0.08,7.366,0.54,16.82,144.42,2.2,3.944,44.08,68.44,0.032,32.31,0.34,,0.081,0.12,3.0,35.0,,Branded Foods,,3,Packaged
+crackers low salt regular standard snacktype,0.4,17.04,71.0,8.66,0.03,3.593,0.51,3.83,50.41,1.05,0.536,30.67,0.0,0.008,0.5,0.1,,0.079,0.0,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+babyfood strained corn and sweet potatoes,0.17,5.1,19.0,4.32,0.01,0.079,0.09,2.83,43.66,0.36,0.015,3.97,35.72,0.017,23.42,0.05,,0.0,0.0,2.0,47.0,103.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+75oz doritos nacho by frito lay,,19.93,90.0,16.0,,3.0,0.36,,69.96,2.0,0.5,170.02,,0.08,,0.3,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+kohlrabi with salt drained boiled cooked,1.67,102.0,25.0,3.55,0.14,0.81,3.64,57.0,491.0,2.09,0.197,324.0,219.0,0.088,91.88,0.22,0.0,0.385,0.0,5.0,74.0,47.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+borage with salt drained boiled cooked,1.67,102.0,25.0,3.55,0.14,0.81,3.64,57.0,491.0,2.09,0.197,324.0,219.0,0.088,91.88,0.22,0.0,0.385,0.0,1.0,75.0,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+pancakes prepared incomplete dry mix wholewheat,0.79,70.88,59.0,8.33,0.02,1.843,0.88,13.04,79.1,2.41,0.496,162.16,18.14,0.031,14.97,0.29,,0.438,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+doughnuts sugared or glazed chocolate caketype,0.51,60.39,118.0,16.27,0.05,5.642,0.64,9.64,30.05,1.28,1.455,60.95,3.4,0.008,4.62,0.16,,0.105,0.0,,,,Branded Foods,Honey,3,Packaged
+babyfood strained applesauce and pineapple fruit,0.06,1.13,10.0,2.86,0.01,0.028,0.03,0.85,22.11,0.03,0.003,0.57,0.0,0.011,25.37,0.01,,,,1.0,32.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+candies soft fruit and nut squares,0.17,7.14,164.0,31.0,0.13,3.998,0.39,10.5,34.44,0.97,0.377,55.02,0.0,0.034,5.83,0.22,,0.226,0.0,14.0,10.0,,Branded Foods,Powdered_Drinks,3,Packaged
+turnip greens solids and liquids canned,1.44,138.06,16.0,2.83,0.1,0.351,1.77,23.4,164.97,1.59,0.082,324.09,209.43,0.043,110.79,0.27,0.0,0.324,0.0,1.0,81.0,127.0,Branded Foods,,2,Frozen & Preserved
+candies not chocolate covered coconut bar,0.52,20.21,226.0,26.26,0.17,12.995,0.36,12.69,138.18,1.0,12.004,60.16,0.0,0.021,6.23,0.48,,0.582,0.0,,,,Branded Foods,Powdered_Drinks,1,Whole Nutrient
+beverages diet lemon decaffeinated instant tea,0.12,0.34,5.4,1.37,0.0,0.01,0.14,2.0,41.09,0.05,0.0,6.59,0.0,0.002,0.06,0.01,0.0,0.486,0.0,,,,Foundation Foods,Tomatoes,0,Confectionaries
+babyfood junior apple and blueberry fruit,0.05,1.42,18.0,4.71,0.02,0.057,0.11,0.85,18.43,0.06,0.007,0.28,0.57,0.012,23.47,0.01,,,0.0,6.0,33.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+pancakes incomplete dry mix whole wheat,1.35,60.04,133.0,28.16,0.11,0.502,2.7,31.92,139.84,4.0,0.0,620.16,0.0,0.043,3.99,0.62,0.0,,0.0,68.0,51.0,66.0,Branded Foods,,2,Frozen & Preserved
+beverages no pulp light orange juice,0.46,0.0,50.0,13.01,0.04,0.0,0.0,24.0,451.2,0.5,0.0,9.6,24.0,0.12,226.06,0.05,0.0,,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+kohlrabi with salt drained boiled cooked,1.82,41.25,48.0,11.04,0.22,0.181,0.66,31.35,561.0,2.97,0.023,424.05,3.3,0.254,149.0,0.51,0.0,0.234,0.0,5.0,74.0,47.0,Branded Foods,,2,Frozen & Preserved
+kohlrabi without salt drained boiled cooked,1.82,41.25,48.0,11.04,0.22,0.181,0.66,31.35,561.0,2.97,0.023,424.05,3.3,0.254,149.0,0.51,0.0,0.234,0.0,5.0,74.0,47.0,Branded Foods,,2,Frozen & Preserved
+borage with salt drained boiled cooked,1.82,41.25,48.0,11.04,0.22,0.181,0.66,31.35,561.0,2.97,0.023,424.05,3.3,0.254,149.0,0.51,0.0,0.234,0.0,1.0,75.0,,Branded Foods,,2,Frozen & Preserved
+chicken breast tenders microwaved cooked breaded,1.59,11.9,214.0,14.93,0.27,10.957,0.85,22.1,191.25,13.9,2.72,379.1,0.0,0.031,43.64,0.65,,0.2,,,,,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+kale without salt drained boiled cooked,1.82,41.25,48.0,11.04,0.22,0.181,0.66,31.35,561.0,2.97,0.023,34.65,3.3,0.254,149.0,0.51,0.0,0.234,0.0,3.0,88.0,91.0,Branded Foods,,3,Packaged
+kohlrabi with salt drained boiled cooked,1.82,41.25,48.0,11.04,0.22,0.181,0.66,31.35,561.0,2.97,0.023,34.65,3.3,0.254,149.0,0.51,0.0,0.234,0.0,5.0,74.0,47.0,Branded Foods,,3,Packaged
+kohlrabi without salt drained boiled cooked,1.82,41.25,48.0,11.04,0.22,0.181,0.66,31.35,561.0,2.97,0.023,34.65,3.3,0.254,149.0,0.51,0.0,0.234,0.0,5.0,74.0,47.0,Branded Foods,,3,Packaged
+turkey roasted cooked dark meat whole,0.95,14.45,147.0,0.0,0.11,5.134,1.22,22.95,192.95,23.55,1.536,88.4,4.25,0.372,55.45,2.98,0.068,0.014,0.26,,,,Branded Foods,,4,Keto & Strength
+cookies baked refrigerated dough chocolate chip,0.34,7.94,139.0,19.33,0.06,6.407,0.71,7.65,56.7,1.39,2.2,65.77,5.1,0.001,0.85,0.16,,0.134,,5.0,12.0,89.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+cookies baked refrigerated dough peanut butter,0.6,31.47,143.0,16.24,0.05,7.796,0.53,11.62,95.82,2.58,1.757,123.61,3.97,0.018,1.13,0.21,,0.131,,4.0,15.0,80.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+tomato products with onions sauce canned,5.41,41.65,103.0,24.35,0.44,0.465,2.28,46.55,1011.85,3.82,0.073,1349.95,105.35,0.654,210.92,0.56,0.0,0.737,0.0,9.0,77.0,57.0,Branded Foods,,2,Frozen & Preserved
+babyfood toddler beef with vegetables meat,0.82,19.69,124.0,15.61,0.14,3.759,0.9,19.69,300.72,6.26,1.516,46.54,102.03,0.125,152.56,1.56,,,0.0,8.0,50.0,,Standard Reference Foods,Baked_Products,3,Packaged
+alcoholic beverage 63 proof coffee liqueur,0.03,0.35,107.0,11.21,0.01,0.104,0.02,1.04,10.44,0.03,0.037,2.78,0.0,0.0,14.41,0.01,0.0,0.006,,5.0,0.0,,,,1,Whole Nutrient
+kale without salt drained boiled cooked,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.206,18.88,172.28,0.074,105.99,0.32,0.0,0.64,0.0,3.0,88.0,91.0,Branded Foods,,3,Packaged
+kohlrabi without salt drained boiled cooked,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.206,18.88,172.28,0.074,105.99,0.32,0.0,0.64,0.0,5.0,74.0,47.0,Branded Foods,,3,Packaged
+dock without salt drained boiled cooked,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.206,18.88,172.28,0.074,105.99,0.32,0.0,0.64,0.0,0.0,84.0,,Branded Foods,,3,Packaged
+babyfood banana with orange medley gerber,0.7,0.0,78.0,23.06,0.11,0.0,0.26,20.34,299.45,1.2,0.0,11.3,31.64,0.262,88.04,0.14,,0.176,0.0,,,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+bread salvadoran sweet cheese quesadilla salvadorena,1.34,40.15,206.0,26.31,0.02,9.416,0.54,6.05,192.5,3.92,2.537,280.5,77.55,0.022,14.01,0.44,1.115,0.132,0.17,,,,Foundation Foods,Tomatoes,0,Confectionaries
+applebees from kids menu chicken tenders,0.98,8.05,104.0,6.43,0.02,5.652,0.32,10.5,117.95,6.74,0.998,267.05,3.5,0.169,15.2,0.25,0.041,0.091,,,,,,,5,Unhealthy & Over-indulgent
+yogurt chobani lemon blend nonfat greek,0.68,96.0,78.0,10.66,,0.15,0.03,,,8.62,0.09,44.0,0.0,,79.9,,0.007,,,,,,Branded Foods,,3,Packaged
+frozen yogurts flavors other than chocolate,1.04,174.0,221.0,37.58,0.02,6.264,0.8,17.4,271.44,5.22,4.047,109.62,85.26,0.07,123.89,0.49,,,0.17,19.0,25.0,,Branded Foods,,3,Packaged
+beans solids and liquids canned shellie,2.87,71.05,74.0,15.17,0.2,0.465,2.43,36.75,267.05,4.31,0.056,818.3,26.95,0.12,222.19,0.66,0.0,0.936,0.0,6.0,85.0,,Standard Reference Foods,Baked_Products,2,Frozen & Preserved
+salad dressing regular commercial peppercorn dressing,0.27,2.95,76.0,0.47,0.0,8.228,0.05,0.27,23.58,0.16,1.411,147.8,1.34,0.009,4.27,0.02,,,0.01,0.0,6.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+squash canned italian style zucchini summer,3.18,38.59,66.0,15.55,0.22,0.25,1.54,31.78,621.98,2.34,0.052,848.98,61.29,0.345,205.68,0.59,0.0,0.545,0.0,6.0,69.0,90.0,Branded Foods,,2,Frozen & Preserved
+babyfood strained vegetables and turkey dinner,0.9,69.12,123.0,19.51,0.23,2.304,0.95,33.28,261.12,5.94,0.604,51.2,563.2,0.113,227.38,1.79,,0.358,0.0,3.0,47.0,,Standard Reference Foods,Baked_Products,3,Packaged
+mung beans raw sprouted mature seeds,0.46,13.52,31.0,6.18,0.17,0.187,0.95,21.84,154.96,3.16,0.048,6.24,1.04,0.092,94.02,0.43,0.0,0.196,0.0,3.0,78.0,67.0,Branded Foods,,1,Whole Nutrient
+turkey panbroiled crumbles fat free ground,1.21,5.1,128.0,0.0,0.06,2.304,0.87,29.75,303.45,26.94,0.609,51.85,7.65,0.918,55.9,1.87,0.02,0.005,0.17,,,,Branded Foods,,4,Keto & Strength
+restaurant spaghetti and meatballs family style,2.0,60.3,228.0,20.78,0.14,11.417,1.73,30.82,276.04,10.51,4.159,470.34,37.52,0.192,89.3,1.39,0.291,0.371,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+cheese reduced fat dry grated parmesan,8.03,1109.0,265.0,1.37,0.24,20.0,0.9,38.0,125.0,20.0,13.317,1529.0,160.0,0.049,50.6,3.87,,0.085,0.4,1.0,41.0,,Branded Foods,Other_Condiments,2,Frozen & Preserved
+beverages sweetened lemon readytodrink black tea,0.08,10.84,122.0,29.27,0.02,0.596,0.0,2.71,37.94,0.0,0.0,8.13,0.0,0.0,241.05,0.03,,0.306,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+pie prepared from recipe vanilla cream,0.34,25.52,79.0,9.24,0.01,4.082,0.29,3.69,35.72,1.36,1.143,73.71,23.53,0.014,13.32,0.15,,0.036,0.34,22.0,21.0,109.0,Branded Foods,,0,Confectionaries
+wonton wrappers includes egg roll wrappers,0.54,13.32,83.0,16.41,0.04,0.425,0.95,5.67,23.25,2.78,0.075,162.16,1.13,0.009,8.16,0.2,,0.181,,11.0,33.0,41.0,Branded Foods,,5,Unhealthy & Over-indulgent
+sausage hot beef with chicken polish,2.31,6.6,142.0,1.98,0.05,10.67,0.48,7.7,130.35,9.68,4.405,847.0,0.0,0.104,30.36,1.06,,0.027,,2.0,28.0,111.0,Branded Foods,,2,Frozen & Preserved
+alcoholic beverage burgundy red table wine,0.1,,25.0,1.09,,0.0,,,,0.02,,,,,25.26,,0.0,,,0.0,0.0,,,,2,Frozen & Preserved
+tomato juice without salt added canned,2.65,24.3,41.0,8.58,0.1,0.705,0.95,26.73,527.31,2.07,0.046,24.3,55.89,0.17,229.0,0.27,0.0,0.165,0.0,3.0,81.0,42.0,Branded Foods,,3,Packaged
+alcoholic beverage mouvedre red table wine,0.09,,26.0,0.78,,0.0,,,,0.02,,,,,25.23,,0.0,,,0.0,0.0,,,,2,Frozen & Preserved
+alcoholic beverage chardonnay white table wine,0.06,2.64,25.0,0.63,0.0,0.0,0.08,2.93,20.8,0.02,,1.47,,0.015,25.45,0.04,0.0,0.034,,,,,,,1,Whole Nutrient
+cheese nonfat or fat free cheddar,1.02,250.04,44.0,2.0,0.01,0.0,0.0,4.48,18.48,9.0,0.0,280.0,16.8,0.013,15.96,0.51,0.0,,0.03,,,,Branded Foods,Other_Condiments,2,Frozen & Preserved
+tomato products spanish style sauce canned,4.83,41.48,81.0,17.67,0.39,0.659,8.49,46.36,900.36,3.51,0.093,1151.68,119.56,0.432,217.36,0.83,0.0,0.527,0.0,7.0,79.0,44.0,Branded Foods,,2,Frozen & Preserved
+salad dressing reduced fat ranch dressing,0.44,6.0,29.0,3.2,0.02,1.863,0.1,0.9,19.8,0.19,0.188,168.0,2.7,0.004,9.31,0.09,0.009,0.008,0.0,1.0,20.0,,Branded Foods,,2,Frozen & Preserved
+beverages sugar free rockstar energy drink,1.49,31.2,9.6,1.68,0.01,0.192,0.05,7.2,7.2,0.6,0.0,124.8,0.0,1.999,236.04,0.0,0.0,,0.0,,,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+cookies special dietary commercially prepared oatmeal,0.2,15.31,127.0,19.82,0.04,5.103,1.15,4.82,49.61,1.36,0.763,77.4,0.28,0.007,1.84,0.14,,0.181,0.0,3.0,19.0,76.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+babyfood dry with honey oatmeal cereal,0.11,27.7,9.4,1.66,0.01,0.168,1.61,3.5,6.22,0.32,,1.13,0.02,0.004,0.14,0.09,,,,1.0,47.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+pancakes prepared complete dry mix plain,0.74,35.72,55.0,10.4,0.03,0.709,0.44,5.67,49.61,1.47,0.144,178.04,2.83,0.026,15.03,0.11,,0.077,,8.0,35.0,79.0,Branded Foods,,5,Unhealthy & Over-indulgent
+puddings instant dry mix coconut cream,3.37,7.92,411.0,82.67,0.15,9.9,0.71,16.83,95.04,0.89,9.9,1029.6,0.0,0.041,2.18,0.3,,0.484,0.0,62.0,12.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+candies milk chocolate coated coffee beans,0.5,47.91,156.0,15.66,0.14,9.407,0.65,18.14,117.09,2.1,5.142,19.84,14.46,0.009,0.69,0.57,0.0,0.152,0.0,8.0,20.0,,Branded Foods,Powdered_Drinks,1,Whole Nutrient
+cookies made with rice cereal chocolate,0.71,19.84,273.0,39.22,0.11,11.997,1.54,23.56,140.74,2.0,7.0,130.2,0.0,0.203,8.07,0.42,0.0,,0.0,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+waffles toasted ready toheat frozen plain,0.94,87.03,88.0,13.97,0.01,2.724,1.96,6.8,40.82,2.04,0.464,132.39,112.83,0.296,8.67,0.15,,0.085,0.0,,,,Branded Foods,,0,Confectionaries
+beverages canned clam and tomato juice,0.26,2.42,15.0,3.31,0.01,0.06,0.05,1.51,26.88,0.18,0.0,109.32,2.11,0.018,26.39,0.02,,0.01,,,,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+cookies special dietary peanut butter sandwich,0.4,12.19,152.0,14.4,0.08,9.639,0.72,14.46,83.35,2.83,1.4,116.8,0.0,0.022,1.05,0.29,,0.2,,3.0,16.0,72.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+leeks raw bulb and lower leafportion,0.93,52.51,54.0,12.59,0.11,0.267,1.87,24.92,160.2,1.33,0.036,17.8,73.87,0.207,73.87,0.11,0.0,0.428,0.0,,,,Branded Foods,,3,Packaged
+butterbur with salt drained boiled cooked,0.88,59.0,8.0,2.16,0.06,0.02,0.1,8.0,354.0,0.23,,240.0,1.0,0.052,96.7,0.09,0.0,0.156,0.0,0.0,46.0,,Branded Foods,Gravy_Mix,2,Frozen & Preserved
+egg pasteurized salted frozen raw whole,2.88,15.4,39.0,0.23,0.02,2.82,0.48,2.52,35.84,3.07,0.89,1025.64,41.72,0.063,18.99,0.36,0.025,0.009,0.42,,,,Branded Foods,Honey,2,Frozen & Preserved
+cake dry mix enriched white puddingtype,0.62,21.83,120.0,22.94,0.02,2.693,0.39,2.55,20.41,1.11,0.678,188.53,0.0,0.005,0.99,0.07,,0.079,0.0,,,,Branded Foods,Powdered_Drinks,5,Unhealthy & Over-indulgent
+cauliflower with salt drained boiled cooked,0.37,9.92,14.0,2.55,0.01,0.279,0.2,5.58,88.04,1.14,0.043,150.04,0.62,0.107,57.66,0.11,0.0,0.082,0.0,1.0,74.0,102.0,Branded Foods,Powdered_Drinks,2,Frozen & Preserved
+babyfood junior cherry vanilla pudding dessert,0.06,1.42,20.0,5.22,0.01,0.057,0.05,0.57,9.36,0.06,0.016,0.0,5.1,0.003,22.96,0.01,,,0.0,9.0,15.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+duck raw meat and skin domesticated,0.58,9.35,343.0,0.0,0.2,33.439,2.04,12.75,177.65,9.77,11.237,53.55,42.5,0.161,41.23,1.16,,0.014,0.59,0.0,20.0,137.0,Branded Foods,Honey,1,Whole Nutrient
+goose raw meat and skin domesticated,0.58,9.35,343.0,0.0,0.2,33.439,2.04,12.75,177.65,9.77,11.237,53.55,42.5,0.161,41.23,1.16,,0.014,0.59,0.0,25.0,152.0,Branded Foods,Honey,1,Whole Nutrient
+kale without salt drained boiled cooked,1.01,38.0,20.0,2.93,0.11,0.64,2.08,89.0,321.0,1.83,,3.0,174.0,0.1,93.6,0.17,0.0,0.303,0.0,3.0,88.0,91.0,Branded Foods,Honey,1,Whole Nutrient
+dock without salt drained boiled cooked,1.01,38.0,20.0,2.93,0.11,0.64,2.08,89.0,321.0,1.83,,3.0,174.0,0.1,93.6,0.17,0.0,0.303,0.0,0.0,84.0,,Branded Foods,Honey,1,Whole Nutrient
+doughnuts sugared or glazed plain caketype,0.43,17.01,121.0,14.4,0.03,6.492,0.3,4.82,28.92,1.47,1.68,113.97,0.85,0.008,5.56,0.12,,0.095,,,,,Branded Foods,Honey,0,Confectionaries
+sesbania flower with salt steamed cooked,0.43,22.88,22.0,5.3,,0.052,0.58,12.48,111.28,1.19,,256.88,0.0,,97.03,,0.0,,0.0,2.0,54.0,88.0,Branded Foods,,2,Frozen & Preserved
+sesbania flower without salt steamed cooked,0.43,22.88,22.0,5.3,,0.052,0.58,12.48,111.28,1.19,,256.88,0.0,,97.03,,0.0,,0.0,2.0,54.0,88.0,Branded Foods,,2,Frozen & Preserved
+potatoes unprepared dry mix au gratin,2.11,80.86,82.0,19.32,0.06,0.962,0.42,16.64,257.4,2.31,0.604,544.7,14.04,0.039,1.29,0.23,,0.153,0.0,75.0,47.0,,Branded Foods,,2,Frozen & Preserved
+bologna low fat beef and pork,4.42,15.18,317.0,3.59,0.11,26.634,0.91,16.56,215.28,15.87,10.085,1529.04,0.0,0.248,87.49,2.07,,,0.69,1.0,26.0,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+sesbania flower with salt steamed cooked,0.29,22.88,23.0,5.44,,0.052,0.58,12.48,111.28,1.19,,11.44,0.0,,97.03,,0.0,,0.0,2.0,54.0,88.0,Branded Foods,,3,Packaged
+sesbania flower without salt steamed cooked,0.29,22.88,23.0,5.44,,0.052,0.58,12.48,111.28,1.19,,11.44,0.0,,97.03,,0.0,,0.0,2.0,54.0,88.0,Branded Foods,,3,Packaged
+babyfood fruit filling fortified cereal bar,1.26,200.07,65.0,13.04,0.02,1.007,2.5,3.61,34.2,1.03,0.086,29.83,2.66,0.21,2.66,0.11,0.004,0.088,0.0,,,,Standard Reference Foods,Baked_Products,3,Packaged
+babyfood junior turkey and rice dinner,0.08,3.84,9.0,1.53,0.0,0.147,0.07,1.44,13.76,0.38,0.038,3.68,15.04,0.008,13.86,0.08,,0.019,0.0,1.0,52.0,,Standard Reference Foods,Baked_Products,3,Packaged
+turnip greens and turnips unprepared frozen,0.79,108.3,20.0,3.22,0.05,0.18,1.55,17.1,77.9,2.34,0.03,17.1,289.75,0.07,88.47,0.15,0.0,0.209,0.0,3.0,84.0,112.0,Branded Foods,,0,Confectionaries
+beets solids and liquids canned pickled,2.18,24.97,148.0,36.96,0.26,0.182,0.93,34.05,261.05,1.82,0.03,338.23,4.54,0.114,185.87,0.59,0.0,0.499,0.0,12.0,38.0,71.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+shortening frying heavy duty palm hydrogenated,0.0,0.0,113.0,0.0,,12.8,0.0,0.0,0.0,0.0,6.08,0.0,0.0,0.0,0.0,0.0,,,,0.0,3.0,0.0,Branded Foods,,1,Whole Nutrient
+50oz lays regular by frito lay,,0.0,80.0,8.0,,5.0,0.0,8.04,170.05,1.0,0.501,79.95,,0.08,,,0.0,,,,,,,,0,Confectionaries
+salad dressing reduced calorie italian dressing,0.42,0.84,28.0,0.94,0.0,2.8,0.02,0.28,4.62,0.04,0.403,150.36,0.0,0.004,9.8,0.01,,0.003,0.0,2.0,6.0,,Branded Foods,,2,Frozen & Preserved
+olive garden chicken parmigiana without pasta,7.72,288.8,641.0,37.33,0.19,34.139,1.76,76.0,842.08,46.6,6.424,1900.0,112.48,0.556,178.2,2.61,0.289,0.392,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+crackers egg and onion matzo,0.26,5.11,56.0,10.95,0.01,0.554,0.62,4.26,11.79,1.42,0.133,40.47,0.99,0.016,1.02,0.1,,0.116,,14.0,33.0,55.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+potatoes with salt flesh baked,0.59,3.05,57.0,13.15,0.13,0.061,0.21,15.25,238.51,1.2,0.016,147.01,0.0,0.184,46.01,0.18,0.0,0.098,0.0,6.0,42.0,109.0,Branded Foods,,5,Unhealthy & Over-indulgent
+chicken panbrowned cooked crumbles ground,1.33,6.8,161.0,0.0,0.05,9.282,0.79,23.8,575.45,19.79,2.643,63.75,0.0,0.457,55.18,1.63,0.074,0.014,,,,,Branded Foods,Canned_Tuna,4,Keto & Strength
+duck raw meat only domesticated,1.45,15.07,185.0,1.29,0.35,8.152,3.29,26.03,371.27,25.04,3.178,101.38,32.88,0.466,101.06,2.6,,0.026,0.14,0.0,58.0,147.0,Branded Foods,Honey,4,Keto & Strength
+candies milk chocolate coated raisins,2.7,154.8,702.0,123.12,0.67,26.64,3.08,81.0,925.2,7.38,18.49,64.8,52.2,0.133,20.16,2.25,,0.644,0.0,68.0,18.0,,Branded Foods,Powdered_Drinks,1,Whole Nutrient
+cheese part skim milk ricotta,1.43,337.28,171.0,6.37,0.04,9.808,0.55,18.6,155.0,14.12,6.109,122.76,132.68,0.025,92.27,1.66,,0.012,0.12,9.0,38.0,135.0,Branded Foods,Other_Condiments,0,Confectionaries
+babyfood apple and prune juice,0.08,1.87,14.0,3.54,0.02,0.062,0.12,1.87,28.08,0.03,0.012,0.0,0.0,0.011,27.49,0.01,,,0.0,2.0,24.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood apple and grape juice,0.08,1.87,14.0,3.54,0.02,0.062,0.12,1.87,28.08,0.03,0.012,0.0,0.0,0.011,27.49,0.01,,,0.0,1.0,23.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+pie crust dry mix standardtype,0.57,17.29,147.0,14.77,0.02,8.902,0.63,4.25,18.14,1.96,2.261,213.48,0.0,0.018,2.15,0.11,,0.089,,,,,Branded Foods,,0,Confectionaries
+restaurant hash browns family style,1.96,15.98,185.0,24.99,0.06,8.451,0.53,24.44,391.04,2.34,1.588,439.92,,0.191,56.26,0.27,0.045,0.158,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+alcoholic beverage canned whiskey sour,0.03,0.0,37.0,4.13,0.0,0.0,0.0,0.31,3.39,0.0,,13.55,0.31,0.0,23.69,0.02,0.0,0.002,,1.0,3.0,0.0,,,3,Packaged
+pepperoni sliced beef and pork,4.03,16.15,428.0,1.0,0.08,39.338,1.13,15.3,232.9,16.36,15.052,1344.7,0.0,0.308,24.27,2.07,1.298,0.913,1.1,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey raw all classes gizzard,1.05,18.08,125.0,0.0,0.25,3.808,3.14,21.47,209.05,21.24,1.05,166.11,51.98,0.224,87.54,3.42,0.035,0.096,0.56,0.0,52.0,,Branded Foods,,0,Confectionaries
+english muffins whole grain white,0.91,79.8,140.0,28.6,0.09,0.998,1.44,18.81,74.1,4.0,0.0,220.02,0.0,0.032,22.5,0.55,0.0,,0.0,,,,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+leavening agents compressed bakers yeast,0.31,3.23,18.0,3.08,0.03,0.323,0.55,6.8,102.17,1.43,0.041,5.1,0.0,0.073,11.73,1.69,,0.034,0.0,1.0,64.0,132.0,Branded Foods,,3,Packaged
+babyfood toddler macaroni and cheese,1.13,115.26,93.0,12.66,0.05,2.938,0.68,10.17,20.34,3.96,1.729,298.32,21.47,0.057,92.32,0.49,0.0,,0.0,2.0,37.0,,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+sweeteners packets equal aspartame tabletop,0.0,0.0,13.0,3.12,0.0,0.0,0.0,0.0,0.14,0.08,0.0,0.0,0.0,0.0,0.31,0.0,,0.0,0.0,,,,Branded Foods,,1,Whole Nutrient
+babyfood strained chicken noodle dinner,0.06,4.32,12.0,1.25,0.01,0.515,0.08,2.08,22.88,0.56,0.055,4.0,17.6,0.011,13.61,0.07,,0.032,0.02,1.0,55.0,,Standard Reference Foods,Baked_Products,4,Keto & Strength
+alcoholic beverage canned tequila sunrise,0.03,0.0,34.0,3.51,0.01,0.031,0.01,2.18,3.11,0.09,,17.73,1.55,0.016,24.51,0.19,0.0,0.004,,1.0,16.0,,,,3,Packaged
+candies with peanut butter honeycombed,0.46,8.4,189.0,26.96,0.07,8.072,0.28,26.4,88.0,3.49,2.294,69.6,0.0,0.069,1.02,0.41,0.012,0.262,0.0,,,,Branded Foods,Powdered_Drinks,3,Packaged
+beverages protein powder whey based,3.38,150.08,113.0,2.0,0.02,0.499,0.36,62.4,160.0,25.0,0.25,49.92,0.0,0.194,1.1,1.98,0.0,,0.0,,,,Foundation Foods,Tomatoes,4,Keto & Strength
+taro shoots without salt cooked,0.98,19.6,20.0,4.48,0.13,0.112,0.57,11.2,481.6,1.02,0.022,2.8,4.2,0.157,133.42,0.76,0.0,0.182,0.0,2.0,67.0,,Branded Foods,,1,Whole Nutrient
+puddings instant dry mix vanilla,3.86,11.88,373.0,91.97,0.09,0.594,0.01,0.99,11.88,0.0,0.428,1386.0,0.99,0.002,2.57,0.06,,0.0,0.0,65.0,4.0,0.0,Branded Foods,,2,Frozen & Preserved
+babyfood sweet potatoes strained vegetables,1.79,35.84,128.0,29.57,0.18,0.224,0.83,29.12,589.12,2.46,0.047,49.28,721.28,0.208,189.95,0.47,,,0.0,11.0,54.0,78.0,Standard Reference Foods,Baked_Products,3,Packaged
+lima beans raw immature seeds,2.95,53.04,176.0,31.47,0.5,1.342,4.9,90.48,728.52,10.67,0.309,12.48,15.6,0.318,109.57,1.22,0.0,1.895,0.0,13.0,70.0,88.0,Branded Foods,,1,Whole Nutrient
+oil salad or cooking soybean,0.0,0.0,120.0,0.0,0.0,13.6,0.01,0.0,0.0,0.0,2.128,0.0,0.0,0.0,0.0,0.0,0.072,0.0,0.0,0.0,4.0,0.0,Branded Foods,,1,Whole Nutrient
+leavening agents lowsodium baking powder,2.32,216.6,4.9,2.35,0.0,0.02,0.41,1.45,505.0,0.01,0.004,4.5,0.0,0.0,0.31,0.04,,0.021,0.0,,,,Branded Foods,,0,Confectionaries
+babyfood apple and prune juice,0.09,2.81,22.0,5.65,0.02,0.031,0.3,2.18,46.18,0.06,0.006,2.5,0.31,0.011,25.37,0.02,,,0.0,2.0,24.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood apple and grape juice,0.09,2.81,22.0,5.65,0.02,0.031,0.3,2.18,46.18,0.06,0.006,2.5,0.31,0.011,25.37,0.02,,,0.0,1.0,23.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+emu broiled cooked top loin,1.08,7.65,129.0,0.0,0.24,2.661,4.31,25.5,317.9,24.71,0.675,49.3,0.0,0.724,57.26,2.91,,0.026,,0.0,51.0,94.0,Branded Foods,Honey,4,Keto & Strength
+restaurant prepared beef empanadas latino,1.45,17.8,298.0,27.76,0.09,16.349,2.4,18.69,169.1,10.07,4.589,391.6,16.02,0.132,33.38,1.66,0.735,0.238,0.18,,,,Branded Foods,,0,Confectionaries
+babyfood orange and pineapple juice,0.12,3.12,13.0,3.15,0.01,0.062,0.06,1.56,43.06,0.12,,0.94,1.25,0.012,27.74,0.01,,,,1.0,34.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood orange and apple juice,0.12,3.12,13.0,3.15,0.01,0.062,0.06,1.56,43.06,0.12,,0.94,1.25,0.012,27.74,0.01,,,,1.0,30.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+bread toasted commercially prepared white,0.6,33.74,82.0,15.45,0.04,1.134,0.94,7.37,37.14,2.55,0.217,152.24,0.0,0.018,8.62,0.19,,0.119,0.0,14.0,35.0,53.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+lemonade prepared with water powder,0.04,1.32,4.6,1.18,0.0,0.013,0.0,3.3,1.98,0.0,0.0,1.98,0.0,0.0,31.77,0.0,0.0,0.0,0.0,0.0,22.0,,Branded Foods,,3,Packaged
+oil approx 65 linoleic sunflower,0.0,0.0,120.0,0.0,0.0,13.6,0.0,0.0,0.0,0.0,1.401,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,3.0,0.0,Branded Foods,,1,Whole Nutrient
+succotash raw corn and limas,1.26,18.0,99.0,19.59,0.19,1.02,1.83,48.0,369.0,5.03,0.19,4.0,15.0,0.13,73.1,0.61,0.0,0.688,0.0,2.0,68.0,98.0,Branded Foods,,1,Whole Nutrient
+cream pressurized cream topping whipped,0.46,60.6,154.0,7.49,0.01,13.332,0.03,6.6,88.2,1.92,8.299,4.8,112.8,0.025,36.8,0.22,,0.001,0.24,3.0,15.0,137.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+beverages breakfast blend brewed coffee,0.15,4.96,5.0,0.42,0.01,0.0,0.05,9.92,124.0,0.74,0.0,2.48,0.0,0.0,246.69,0.05,,0.079,0.0,,,,Foundation Foods,Tomatoes,4,Keto & Strength
+peas and onions unprepared frozen,0.48,15.87,48.0,9.32,0.07,0.221,1.06,14.49,140.07,2.75,0.039,42.09,18.63,0.099,56.23,0.33,0.0,0.189,0.0,4.0,74.0,86.0,Branded Foods,,0,Confectionaries
+alcoholic beverage all regular beer,0.05,1.19,13.0,1.05,0.0,0.0,0.01,1.78,8.02,0.14,0.0,1.19,0.0,0.014,27.31,0.0,0.0,0.002,0.0,0.0,13.0,0.0,,,1,Whole Nutrient
+lettuce raw cos or romaine,0.27,15.51,8.0,1.55,0.02,0.141,0.46,6.58,116.09,0.58,0.018,3.76,204.92,0.035,44.47,0.11,0.0,0.073,0.0,0.0,88.0,68.0,Branded Foods,,3,Packaged
+turkey raw heart all classes,1.12,20.34,158.0,0.45,0.55,8.407,4.18,23.73,202.27,18.87,2.173,145.77,92.66,0.541,84.15,3.63,0.095,0.115,0.45,0.0,57.0,,Branded Foods,,0,Confectionaries
+ice cream chocolate soft serve,0.77,112.66,191.0,19.09,0.03,11.18,0.18,10.32,152.22,3.53,6.416,52.46,139.32,0.041,51.43,0.45,,0.004,0.6,11.0,17.0,,Branded Foods,,4,Keto & Strength
+emu broiled cooked inside drums,1.1,5.1,133.0,0.0,0.23,1.708,6.18,28.05,265.2,27.52,0.556,100.3,2.55,0.807,54.66,4.33,,0.029,,0.0,50.0,94.0,Branded Foods,Honey,0,Confectionaries
+alcoholic beverage dry dessert wine,0.09,2.36,45.0,3.44,0.01,0.0,0.07,2.65,27.14,0.06,0.0,2.65,0.0,0.0,21.4,0.02,0.0,0.035,,1.0,5.0,,,,1,Whole Nutrient
+salami beef and pork cooked,0.57,1.84,41.0,0.3,0.04,3.186,0.19,2.34,38.87,2.69,1.146,214.02,0.0,0.056,5.56,0.36,0.072,0.12,0.12,0.0,35.0,75.0,Branded Foods,,2,Frozen & Preserved
+babyfood junior meat sticks meat,0.14,3.4,18.0,0.11,0.01,1.46,0.14,1.1,11.4,1.34,0.582,26.7,2.1,0.008,6.95,0.19,,,0.02,0.0,31.0,115.0,Standard Reference Foods,Baked_Products,0,Confectionaries
+babyfood junior green beans vegetables,0.96,156.0,58.0,13.92,0.12,0.24,2.59,52.8,307.2,2.88,0.055,12.0,57.6,0.084,222.0,0.46,,,0.0,5.0,82.0,93.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+quail raw meat only breast,1.08,8.5,105.0,0.0,0.37,2.542,1.96,23.8,221.0,19.2,0.74,46.75,9.35,0.451,60.92,2.3,,0.015,,0.0,55.0,156.0,Branded Foods,,4,Keto & Strength
+egg pasteurized frozen raw whole,0.25,17.36,41.0,0.28,0.01,2.786,0.49,2.52,37.8,3.45,0.947,35.84,47.88,0.053,21.23,0.37,0.015,0.009,0.73,,,,Branded Foods,Honey,0,Confectionaries
+cake prepared from recipe sponge,0.37,11.91,84.0,16.36,0.02,1.219,0.45,2.55,39.97,2.07,0.369,64.64,21.83,0.017,8.33,0.17,,0.047,,23.0,21.0,112.0,Branded Foods,Powdered_Drinks,0,Confectionaries
+restaurant lasagna with meat italian,10.28,900.29,845.0,51.92,0.32,48.853,3.61,100.54,1165.35,49.49,22.58,2129.62,370.17,0.558,296.46,6.03,1.426,0.635,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+beef jellied luncheon meat cured,0.95,2.8,31.0,0.0,0.03,0.924,0.97,5.04,112.56,5.32,0.395,370.16,0.0,0.07,20.89,0.99,,0.015,,0.0,49.0,103.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+beverages whey protein powder isolate,9.26,600.28,309.0,25.0,1.0,0.998,1.08,200.38,749.92,50.0,0.5,319.92,749.92,1.0,0.74,7.5,0.0,0.998,0.0,,,,Foundation Foods,Tomatoes,0,Confectionaries
+cake sponge cremefilled snack cakes,0.39,6.8,106.0,18.15,0.04,3.272,0.39,2.27,20.13,0.98,1.173,133.25,1.42,0.0,5.56,0.17,0.46,0.086,0.03,,,,Branded Foods,Powdered_Drinks,0,Confectionaries
+potatoes homeprepared with butter scalloped,4.24,139.65,216.0,26.41,0.4,9.016,1.4,46.55,926.1,7.03,5.525,820.75,,0.436,198.3,0.98,,0.407,0.0,,,,Branded Foods,,2,Frozen & Preserved
+babyfood strained green beans vegetables,1.18,93.6,65.0,15.1,0.07,0.408,1.61,48.0,350.4,2.88,0.094,16.8,43.2,0.091,220.44,0.53,,0.636,0.0,5.0,73.0,100.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood strained tutti frutti fruit,0.05,2.25,9.9,2.32,0.0,0.045,0.03,0.6,6.9,0.06,0.013,3.75,1.05,0.003,12.53,0.12,,,0.0,1.0,27.0,,Standard Reference Foods,Baked_Products,3,Packaged
+restaurant beef and vegetables chinese,8.61,126.28,603.0,41.84,0.28,30.422,6.37,86.1,1170.96,40.64,5.614,2347.66,361.62,0.924,452.43,8.61,0.333,0.844,0.57,,,,Branded Foods,,2,Frozen & Preserved
+alcoholic beverage canned pina colada,0.1,0.33,77.0,9.0,0.03,2.478,0.01,1.96,27.06,0.2,2.142,23.15,0.33,0.006,17.9,0.07,0.0,0.104,,4.0,5.0,,,,3,Packaged
+squab raw meat only pigeon,2.94,32.63,356.0,0.0,1.49,18.825,11.32,62.75,594.87,43.92,4.92,128.01,70.28,1.33,182.73,6.78,,0.048,,0.0,56.0,156.0,Branded Foods,,4,Keto & Strength
+cookies higher fat vanilla wafers,0.33,10.8,137.0,21.78,0.02,4.923,0.84,3.6,29.7,1.47,1.274,97.5,0.0,0.017,1.49,0.11,0.18,0.087,0.0,3.0,13.0,75.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+crackers low sodium toast thins,0.51,0.0,137.0,20.97,0.1,5.0,1.08,31.62,94.86,2.0,1.0,54.87,0.0,0.095,2.52,0.6,0.0,,0.0,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+babyfood strained apple yogurt dessert,0.03,0.9,14.0,2.92,0.01,0.24,0.0,2.25,10.5,0.12,0.155,3.0,0.45,0.003,11.69,0.04,,,0.0,1.0,24.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+sweeteners splenda packets sucralose tabletop,0.0,0.0,3.4,0.91,0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.09,0.0,,0.0,0.0,1.0,0.0,0.0,Branded Foods,,1,Whole Nutrient
+turkey sticks fried battered breaded,1.6,8.96,179.0,10.88,0.05,10.816,1.41,9.6,166.4,9.09,2.803,536.32,7.68,0.128,31.62,0.93,,0.053,,5.0,27.0,145.0,Branded Foods,,5,Unhealthy & Over-indulgent
+candies with almonds milk chocolate,0.7,91.84,216.0,21.89,0.17,14.104,0.67,36.9,182.04,3.69,7.257,30.34,21.32,0.018,0.61,0.55,,0.256,0.0,10.0,17.0,,Branded Foods,Powdered_Drinks,1,Whole Nutrient
+babyfood orange and pineapple juice,0.12,2.5,15.0,3.65,0.01,0.031,0.13,2.81,43.99,0.16,0.003,0.62,0.62,0.019,27.24,0.01,,,,1.0,34.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood orange and apple juice,0.12,2.5,15.0,3.65,0.01,0.031,0.13,2.81,43.99,0.16,0.003,0.62,0.62,0.019,27.24,0.01,,,,1.0,30.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+salad dressing regular caesar dressing,0.35,7.06,80.0,0.49,0.0,8.504,0.16,0.29,4.26,0.32,1.292,177.72,1.32,0.004,5.04,0.02,,0.006,0.01,0.0,8.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+syrups reducedcalorie pancake table blends,0.4,7.3,120.0,32.52,0.01,0.0,0.02,1.46,2.19,0.0,0.0,129.94,0.0,0.002,40.08,0.15,,0.016,0.0,,,,Branded Foods,,0,Confectionaries
+turkey raw light meat whole,0.88,9.35,97.0,0.12,0.06,1.258,0.62,23.8,205.7,20.11,0.246,96.05,5.1,0.691,63.66,1.09,0.011,0.009,0.09,,,,Branded Foods,,0,Confectionaries
+beverages regular brewed green tea,0.0,0.0,2.5,0.0,0.01,0.0,0.05,2.45,19.6,0.54,0.0,2.45,0.0,0.012,244.83,0.02,,0.451,0.0,,,,Foundation Foods,Tomatoes,0,Confectionaries
+beverages strawberry fast food shake,0.21,26.55,27.0,4.44,0.01,0.658,0.03,3.06,42.77,0.8,0.407,19.5,6.11,0.01,17.41,0.08,0.0,0.004,0.0,,,,Foundation Foods,Tomatoes,3,Packaged
+potatoes unprepared dry mix scalloped,1.95,16.12,93.0,19.22,0.07,1.193,0.52,15.34,235.3,2.02,0.312,410.28,0.0,0.047,1.62,0.24,,0.162,0.0,68.0,37.0,,Branded Foods,,2,Frozen & Preserved
+cookies regular dry mix brownies,0.37,5.39,123.0,21.72,0.08,4.224,0.56,11.34,62.09,1.13,0.714,85.9,0.28,0.019,0.79,0.18,,0.1,,304.0,12.0,81.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+babyfood strained carrots and beef,0.1,3.3,8.9,0.85,0.01,0.375,0.07,1.95,33.9,0.51,0.144,10.35,108.45,0.015,13.1,0.12,,0.021,0.0,0.0,66.0,,Standard Reference Foods,Baked_Products,0,Confectionaries
+stew squash navajo corn mutton,11.0,115.14,312.0,22.03,0.19,13.15,3.67,63.63,602.97,26.12,5.257,148.47,0.0,0.327,230.67,5.67,,0.264,,1.0,49.0,94.0,Branded Foods,,4,Keto & Strength
+frostings dry mix creamy vanilla,1.23,12.33,1685.0,385.52,0.14,20.139,0.0,8.22,28.77,1.23,,53.43,0.0,0.004,2.88,0.04,,0.049,,268.0,0.0,39.0,Branded Foods,,1,Whole Nutrient
+babyfood strained banana no tapioca,0.11,0.6,14.0,3.2,0.01,0.03,0.04,3.9,43.5,0.15,0.011,0.3,0.0,0.039,11.51,0.01,,,0.0,1.0,32.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+oil salad or cooking olive,0.0,0.14,119.0,0.0,0.0,13.5,0.08,0.0,0.14,0.0,1.864,0.27,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5.0,0.0,Branded Foods,,1,Whole Nutrient
+sweeteners brown granulated sugar substitute,0.02,4.39,1.7,0.42,0.0,0.0,0.0,0.03,0.2,0.01,,2.86,,0.0,0.05,0.0,,0.0,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+pork unheated patties ham cured,0.83,2.27,89.0,0.48,0.02,7.992,0.3,2.83,67.76,3.62,2.872,308.45,0.0,0.045,15.42,0.45,,0.007,,1.0,22.0,136.0,Branded Foods,,2,Frozen & Preserved
+cheese with fruit creamed cottage,1.36,59.89,110.0,5.21,0.05,4.351,0.18,7.91,101.7,12.08,2.611,388.72,42.94,0.077,89.99,0.37,,0.003,0.0,8.0,37.0,157.0,Branded Foods,Other_Condiments,2,Frozen & Preserved
+peppers raw red hot chili,0.39,6.3,18.0,3.96,0.06,0.198,0.46,10.35,144.9,0.84,0.019,4.05,21.6,0.228,39.61,0.12,0.0,0.084,0.0,2.0,82.0,93.0,Branded Foods,,1,Whole Nutrient
+beverages bottled cranberryapple juice drink,0.08,0.92,19.0,4.85,0.0,0.034,0.02,0.31,5.2,0.0,0.004,0.61,0.0,0.0,25.64,0.01,0.0,0.009,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+puddings regular dry mix lemon,2.04,4.25,309.0,78.03,0.02,0.425,0.14,3.4,4.25,0.09,,430.1,0.0,0.004,4.42,0.02,,0.021,,3.0,6.0,,Branded Foods,,0,Confectionaries
+cookies softtype commercially prepared oatmeal,0.68,25.52,116.0,18.63,0.16,4.167,0.79,8.51,38.27,1.73,1.029,98.94,1.42,0.024,3.12,0.12,,0.119,,,,,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+cheese food american cold pack,1.26,140.9,94.0,2.36,0.01,6.934,0.24,8.51,102.91,5.57,4.353,273.86,,0.04,12.22,0.85,,0.003,,9.0,36.0,120.0,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+taro with salt cooked tahitian,2.53,204.13,60.0,9.38,0.1,0.932,2.14,69.87,853.51,5.7,0.19,397.3,120.56,0.16,118.45,0.14,0.0,0.23,0.0,6.0,69.0,,Branded Foods,,2,Frozen & Preserved
+cranberry juice cocktail frozen concentrate,0.04,3.98,73.0,18.62,0.01,0.0,0.11,1.81,17.74,0.02,0.0,1.45,0.72,0.018,17.52,0.03,0.0,0.051,,10.0,14.0,,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+pumpkin leaves with salt drained boiled cooked,0.82,30.53,15.0,2.41,0.09,0.156,2.27,26.98,310.98,1.93,0.081,173.24,56.8,0.139,65.68,0.14,0.0,0.252,0.0,0.0,88.0,90.0,Branded Foods,,2,Frozen & Preserved
+squash unprepared frozen crookneck and straightneck summer,0.75,23.4,26.0,6.24,0.11,0.182,0.62,29.9,271.7,1.08,0.038,6.5,18.2,0.114,121.76,0.48,0.0,0.211,0.0,2.0,82.0,89.0,Branded Foods,,1,Whole Nutrient
+canada goose raw skinless breast meat only,1.2,3.4,113.0,0.0,0.38,3.417,5.02,24.65,285.6,20.66,0.518,42.5,9.35,0.915,60.16,1.43,0.007,0.043,,,,,Branded Foods,Powdered_Drinks,4,Keto & Strength
+beverages decaffeinated ready to drink black tea,0.07,26.4,91.0,21.0,0.02,0.0,0.0,4.8,64.8,0.0,0.0,19.2,0.0,0.0,218.93,0.02,,,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+pork raw or unheated breakfast strips cured,2.55,6.8,330.0,0.59,0.05,31.586,0.8,10.2,173.4,9.98,10.973,838.95,0.0,0.178,40.3,1.41,,0.025,,0.0,27.0,127.0,Branded Foods,,5,Unhealthy & Over-indulgent
+salad dressing without salt soybean oil mayonnaise,0.01,2.48,99.0,0.37,,10.957,0.07,,4.69,0.15,1.628,4.14,11.59,,2.3,,,,,0.0,2.0,,Branded Foods,,1,Whole Nutrient
+bread toasted includes sourdough french or vienna,0.65,13.32,90.0,17.56,0.04,0.607,1.1,8.79,39.69,3.69,0.142,204.12,0.0,0.027,5.84,0.3,,0.162,0.0,11.0,37.0,49.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+beverages frozen concentrate citrus fruit juice drink,0.39,8.8,57.0,14.15,0.03,0.035,1.39,7.04,138.34,0.42,0.002,1.06,2.46,0.023,20.2,0.04,0.0,0.09,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+whale subcutaneous fat blubber alaska native bowhead,0.2,,870.0,0.0,,96.5,0.5,,,0.4,,,,,2.9,,,,,0.0,0.0,,Branded Foods,,4,Keto & Strength
+babyfood finger snacks cereal fortified baked product,0.06,6.8,7.2,1.3,0.0,0.168,0.38,0.46,1.94,0.11,0.028,0.0,0.0,0.001,0.06,0.07,,,0.0,,,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+sweet rolls refrigerated dough with frosting cinnamon,0.68,8.79,94.0,14.63,0.02,3.459,0.69,3.12,16.44,1.42,0.873,216.88,0.0,0.009,8.19,0.09,,0.118,,10.0,22.0,50.0,Branded Foods,,5,Unhealthy & Over-indulgent
+beverages prepared with water powder lemonadeflavor drink,0.04,1.27,8.6,2.19,0.0,0.022,0.0,4.13,0.95,0.0,0.0,4.13,0.0,0.0,29.53,0.0,0.0,0.0,0.0,,,,Foundation Foods,Tomatoes,3,Packaged
+kale with salt drained boiled cooked frozen,1.01,51.1,54.0,11.29,0.12,0.993,0.77,16.06,280.32,0.85,0.193,430.7,1235.16,0.123,131.87,0.51,0.0,0.244,0.0,4.0,87.0,92.0,Branded Foods,Powdered_Drinks,2,Frozen & Preserved
+carrots with salt drained boiled cooked frozen,1.01,51.1,54.0,11.29,0.12,0.993,0.77,16.06,280.32,0.85,0.193,430.7,1235.16,0.123,131.87,0.51,0.0,0.244,0.0,2.0,76.0,172.0,Branded Foods,Powdered_Drinks,2,Frozen & Preserved
+beans unprepared all styles frozen yellow snap,0.64,50.82,40.0,9.17,0.06,0.254,1.04,26.62,225.06,2.18,0.057,3.63,8.47,0.051,108.75,0.31,0.0,0.466,0.0,4.0,78.0,89.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+cookies regular sugar wafers with creme filling,0.22,9.72,181.0,25.43,0.02,8.366,1.34,5.76,42.12,1.38,4.284,37.08,0.0,0.015,0.6,0.15,,0.152,0.0,4.0,9.0,69.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+mushroom raw exposed to ultraviolet light white,0.59,2.1,15.0,2.28,0.22,0.238,0.35,6.3,222.6,2.16,0.035,3.5,,0.073,64.72,0.36,,0.033,18.34,,,,Branded Foods,,1,Whole Nutrient
+frozen novelties prepackaged sundae ice cream type,0.56,88.8,141.0,21.93,0.04,4.44,0.18,14.06,156.14,3.18,2.287,70.3,96.94,0.037,43.88,0.4,,0.008,0.07,4.0,26.0,,Branded Foods,,3,Packaged
+turkey raw meat only wing retail parts,1.16,4.52,131.0,0.0,0.09,4.17,1.6,24.86,303.97,23.28,0.884,84.75,21.47,0.545,85.45,3.33,0.035,0.007,0.56,,,,Branded Foods,,4,Keto & Strength
+turkey raw meat only thigh retail parts,1.16,4.52,131.0,0.0,0.09,4.17,1.6,24.86,303.97,23.28,0.884,84.75,21.47,0.545,85.45,3.33,0.035,0.007,0.56,,,,Branded Foods,,4,Keto & Strength
+pickles sweet with cauliflower onion mustard chowchow,5.05,56.35,296.0,65.27,0.23,2.205,3.43,51.45,490.0,3.67,0.365,1291.15,12.25,0.025,168.81,0.56,0.0,0.208,0.0,31.0,32.0,,Branded Foods,,2,Frozen & Preserved
+tomato products without salt added puree canned,3.2,45.0,95.0,22.45,0.72,0.525,4.45,57.5,1097.5,4.12,0.072,70.0,65.0,0.315,219.7,0.9,0.0,0.422,0.0,8.0,83.0,46.0,Branded Foods,,3,Packaged
+turkey simmered cooked meat only neck whole,0.95,49.3,138.0,0.0,0.13,6.256,1.0,15.3,96.9,19.11,1.884,209.1,0.0,0.319,59.05,3.43,,0.045,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+peas with salt drained boiled cooked ediblepodded,1.81,67.2,64.0,10.34,0.12,0.368,3.15,41.6,384.0,5.23,0.07,384.0,83.2,0.23,142.26,0.59,0.0,0.269,0.0,,,,Branded Foods,,2,Frozen & Preserved
+potatoes no salt added drained solids canned,0.9,9.0,108.0,24.48,0.1,0.36,2.27,25.2,412.2,2.52,0.092,9.0,0.0,0.342,151.74,0.5,0.0,0.216,0.0,9.0,52.0,,Branded Foods,,1,Whole Nutrient
+cookies with creme filling vanilla sandwich glutenfree,0.26,6.16,217.0,32.83,0.02,9.007,0.15,5.72,46.2,1.17,3.083,88.44,,,0.73,0.1,0.025,0.099,,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+sweet potatoes unprepared frozen crosscut french fried,0.93,33.15,178.0,21.69,,9.435,0.37,,207.4,1.45,0.79,181.9,,,51.5,,0.178,,,,,,Branded Foods,,0,Confectionaries
+turkey raw skin light and dark whole,0.59,14.69,460.0,0.18,0.06,43.991,0.96,12.43,140.12,14.64,11.786,70.06,96.05,0.188,54.67,1.24,0.629,0.014,1.24,,,,Branded Foods,,1,Whole Nutrient
+crackers with cheese filling sandwich standard snacktype,0.57,36.49,68.0,8.76,0.01,2.996,0.34,5.11,60.92,1.32,0.87,138.88,2.41,0.007,0.55,0.09,,0.041,0.0,,,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+turkey raw meat only wing retail parts,1.06,6.78,127.0,0.0,0.05,2.814,0.68,21.47,250.86,25.4,0.518,77.97,5.65,0.797,84.81,2.95,0.023,0.006,0.23,,,,Branded Foods,,4,Keto & Strength
+turkey raw meat only thigh retail parts,1.06,6.78,127.0,0.0,0.05,2.814,0.68,21.47,250.86,25.4,0.518,77.97,5.65,0.797,84.81,2.95,0.023,0.006,0.23,,,,Branded Foods,,4,Keto & Strength
+kale with salt drained boiled cooked frozen,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.186,297.36,172.28,0.074,105.99,0.32,0.0,0.64,0.0,4.0,87.0,92.0,Branded Foods,,2,Frozen & Preserved
+carrots with salt drained boiled cooked frozen,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.186,297.36,172.28,0.074,105.99,0.32,0.0,0.64,0.0,2.0,76.0,172.0,Branded Foods,,2,Frozen & Preserved
+kale without salt drained boiled cooked frozen,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.186,297.36,172.28,0.074,105.99,0.32,0.0,0.64,0.0,4.0,87.0,92.0,Branded Foods,,2,Frozen & Preserved
+ginger root with artificial sweetener canned pickled,0.61,18.5,5.0,1.21,0.0,0.025,0.07,1.0,9.0,0.08,0.009,226.5,0.0,0.009,23.07,0.01,0.007,0.117,0.0,,,,Branded Foods,,2,Frozen & Preserved
+lotus root without salt drained boiled cooked,0.55,15.6,40.0,9.61,0.13,0.042,0.54,13.2,217.8,0.95,0.013,27.0,0.0,0.131,48.85,0.2,0.0,0.132,0.0,3.0,55.0,48.0,Branded Foods,,3,Packaged
+carrabbas italian grill spaghetti with pomodoro sauce,4.69,83.13,509.0,91.1,0.35,8.557,3.62,68.46,699.27,16.72,1.76,1066.02,44.01,0.421,367.97,1.61,0.044,1.007,,,,,Branded Foods,Powdered_Drinks,5,Unhealthy & Over-indulgent
+fish kippered alaska native sockeye red salmon,2.25,54.0,141.0,0.0,0.15,4.75,0.49,31.0,400.0,24.5,0.8,460.0,15.0,0.287,69.41,0.75,,0.037,2.0,0.0,45.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+cauliflower with salt drained boiled cooked frozen,1.82,30.6,31.0,5.69,0.04,0.396,0.74,16.2,250.2,2.9,0.061,457.2,0.0,0.158,169.2,0.23,0.0,0.27,0.0,1.0,76.0,104.0,Branded Foods,Powdered_Drinks,2,Frozen & Preserved
+bread commercially prepared plain chapati or roti,1.32,63.24,202.0,31.52,0.17,5.066,2.05,42.16,180.88,7.65,1.328,278.12,,0.184,22.44,1.07,0.023,0.851,,,,,Foundation Foods,Tomatoes,0,Confectionaries
+doritos cool ranch 8z by frito lay,,19.88,150.0,18.0,,8.0,0.0,15.96,,2.0,1.0,180.04,,0.08,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+tortillas shelf stable flour readytobake or fry,1.33,79.87,146.0,24.14,0.06,3.714,1.63,10.29,65.17,3.92,0.6,363.58,0.0,0.014,15.89,0.28,0.007,0.253,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+beverages reduced calorie with whitener instant coffee,0.05,0.31,8.7,1.02,0.0,0.495,0.0,0.03,15.45,0.03,0.427,0.0,0.02,0.0,0.1,0.0,,0.0,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+carrabbas italian grill spaghetti with meat sauce,6.34,80.55,655.0,84.36,0.47,21.05,4.78,80.55,1004.19,31.52,5.907,1449.9,75.18,0.65,393.73,3.76,0.365,1.004,,,,,Branded Foods,Powdered_Drinks,5,Unhealthy & Over-indulgent
+cookies regular with creme filling chocolate sandwich,0.55,7.56,167.0,25.56,0.12,6.89,4.37,16.92,84.24,1.88,2.034,139.68,0.36,0.008,1.12,0.27,0.04,0.252,0.0,5.0,24.0,17.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+pork unheated boneless separable fat ham cured,1.68,3.4,438.0,1.59,0.08,45.05,0.42,9.35,147.9,6.38,14.818,523.6,11.05,0.159,30.3,0.97,0.35,0.019,1.02,0.0,9.0,103.0,Branded Foods,,0,Confectionaries
+oscar mayer ham chopped with natural juice,1.02,2.52,50.0,1.02,0.07,3.122,0.36,6.44,72.8,4.56,1.136,349.72,0.0,,18.27,0.63,,,,1.0,22.0,,Branded Foods,,2,Frozen & Preserved
+ice creams no sugar added light vanilla,0.82,92.48,115.0,14.57,0.02,5.066,0.13,6.12,133.28,2.7,2.753,65.28,58.48,0.02,44.55,0.21,,0.004,0.07,4.0,27.0,,Branded Foods,,3,Packaged
+okra without salt drained boiled cooked frozen,1.1,32.4,32.0,3.46,0.19,0.756,1.01,18.0,309.6,5.31,0.173,5.4,72.0,0.036,169.38,0.74,0.0,0.252,0.0,6.0,90.0,79.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+asparagus without salt drained boiled cooked frozen,1.1,32.4,32.0,3.46,0.19,0.756,1.01,18.0,309.6,5.31,0.173,5.4,72.0,0.036,169.38,0.74,0.0,0.252,0.0,1.0,91.0,79.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+fritos regular 75 ounce by frito lay,,19.93,120.0,12.0,,8.001,0.0,8.06,,1.0,1.001,119.99,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+peas and onions solids and liquids canned,1.64,20.4,61.0,10.28,0.12,0.456,1.04,19.2,115.2,3.94,0.082,530.4,9.6,0.23,103.68,0.7,0.0,0.306,0.0,5.0,72.0,85.0,Branded Foods,,2,Frozen & Preserved
+babyfood prepared with whole milk rice cereal,0.31,62.37,33.0,4.34,0.03,1.162,3.44,9.92,57.83,1.42,0.64,13.04,6.24,0.017,21.12,0.26,,,,2.0,47.0,135.0,Standard Reference Foods,Baked_Products,3,Packaged
+babyfood prepared with whole milk oatmeal cereal,0.31,62.37,33.0,4.34,0.03,1.162,3.44,9.92,57.83,1.42,0.64,13.04,6.24,0.017,21.12,0.26,,,,2.0,53.0,122.0,Standard Reference Foods,Baked_Products,3,Packaged
+kale with salt drained boiled cooked frozen,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.186,18.88,172.28,0.074,105.99,0.32,0.0,0.64,0.0,4.0,87.0,92.0,Branded Foods,,3,Packaged
+kale without salt drained boiled cooked frozen,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.186,18.88,172.28,0.074,105.99,0.32,0.0,0.64,0.0,4.0,87.0,92.0,Branded Foods,,3,Packaged
+okra without salt drained boiled cooked frozen,0.86,177.0,42.0,6.25,0.08,1.428,0.99,29.5,169.92,3.47,0.186,18.88,172.28,0.074,105.99,0.32,0.0,0.64,0.0,6.0,90.0,79.0,Branded Foods,,3,Packaged
+chicken raw meat only light meat stewing,0.98,9.79,122.0,0.0,0.06,3.747,0.82,23.14,232.29,20.56,0.863,47.17,18.69,0.507,65.18,0.53,,0.016,,0.0,39.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+amaranth leaves with salt drained boiled cooked,2.79,275.88,28.0,5.43,0.21,0.238,2.98,72.6,846.12,2.79,0.066,339.24,183.48,0.234,120.77,1.16,0.0,1.137,0.0,4.0,76.0,101.0,,,2,Frozen & Preserved
+287oz fritos chili cheese by frito lay,,0.0,160.0,15.0,,9.999,0.0,,,2.0,1.501,269.92,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+beverages canned pineapple and grapefruit juice drink,0.06,2.19,15.0,3.63,0.01,0.031,0.1,1.88,19.09,0.06,0.002,4.38,0.0,0.013,27.51,0.02,0.0,0.129,0.0,,,,Foundation Foods,Tomatoes,3,Packaged
+caribou raw alaska native hind quarter meat,1.23,5.0,122.0,0.0,0.27,3.37,4.1,26.0,320.0,22.63,1.27,52.0,94.0,0.351,72.6,2.1,,0.037,,0.0,57.0,,Branded Foods,Powdered_Drinks,4,Keto & Strength
+alcoholic beverage late harvest white table wine,0.08,,35.0,4.12,,0.0,,,,0.02,,,,,23.95,,0.0,,,1.0,0.0,,,,2,Frozen & Preserved
+chicken meat only wing bbq rotisserie broiler,0.83,27.2,158.0,0.46,0.06,6.622,0.82,20.4,273.7,24.09,1.814,616.25,9.35,0.156,53.44,1.74,,,0.0,,,,Branded Foods,Canned_Tuna,2,Frozen & Preserved
+sausage reduced sodium and beef turkey pork,2.1,20.4,241.0,0.09,0.06,22.771,1.36,14.45,204.0,9.1,9.107,577.15,5.1,0.245,51.07,3.36,0.61,0.011,0.09,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+egg glucose reduced stabilized flakes dried white,1.2,23.53,100.0,1.18,0.07,0.011,0.07,18.99,295.41,21.81,0.0,327.73,0.0,0.007,4.14,0.04,,0.02,0.0,,,,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+yogurt chobani strawberry banana 2 fat greek,0.64,88.0,88.0,10.24,,1.71,0.2,,,8.0,1.03,32.0,15.0,,79.5,,0.07,,,,,,Branded Foods,,4,Keto & Strength
+margarinelike with salt tub vegetable oilbutter spread,0.28,3.36,51.0,0.14,0.0,5.6,0.01,0.28,5.04,0.14,1.013,110.04,114.66,0.001,7.84,0.0,,,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+babyfood prepared with whole milk rice cereal,0.25,47.63,24.0,2.92,0.01,0.958,1.03,7.09,42.81,0.98,0.508,11.91,11.91,0.02,23.24,0.14,,0.001,0.34,2.0,47.0,135.0,Standard Reference Foods,Baked_Products,3,Packaged
+babyfood prepared with whole milk oatmeal cereal,0.25,47.63,24.0,2.92,0.01,0.958,1.03,7.09,42.81,0.98,0.508,11.91,11.91,0.02,23.24,0.14,,0.001,0.34,2.0,53.0,122.0,Standard Reference Foods,Baked_Products,3,Packaged
+mushrooms grilled exposed to ultraviolet light portabella,1.27,3.63,35.0,5.37,0.47,0.702,0.48,15.73,528.77,3.97,0.034,13.31,,0.148,109.7,0.79,0.0,0.081,15.85,,,,Branded Foods,,3,Packaged
+beverages prepared with tap water brewed coffee,0.1,0.59,0.3,0.0,0.0,0.006,0.0,0.89,14.5,0.04,0.001,0.59,0.0,0.0,29.42,0.01,0.0,0.007,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+chicken back meat only bbq rotisserie broiler,1.19,28.05,180.0,0.26,0.06,11.79,0.7,15.3,223.55,18.57,3.071,478.55,12.75,0.103,53.52,1.48,,,0.0,,,,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+drumstick pods without salt drained boiled cooked,1.32,23.6,42.0,9.65,0.09,0.224,0.53,49.56,539.26,2.47,0.037,50.74,4.72,0.132,104.34,0.5,0.0,0.284,0.0,,,,Branded Foods,Honey,0,Confectionaries
+salad dressing low calorie mayonnaise and mayonnaisetype,0.29,2.03,38.0,3.47,0.0,2.755,0.04,0.29,3.48,0.13,0.429,121.36,3.04,0.003,7.87,0.03,,,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+chrysanthemum without salt drained boiled cooked garland,1.47,69.0,20.0,4.31,0.13,0.09,3.74,18.0,569.0,1.64,0.022,53.0,129.0,0.118,92.49,0.2,0.0,0.355,0.0,2.0,87.0,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+kale without salt drained boiled cooked frozen,0.54,68.08,27.0,5.9,0.07,0.221,0.48,36.8,169.28,1.5,0.058,2.76,13.8,0.034,83.83,0.45,0.0,0.776,0.0,4.0,87.0,92.0,Branded Foods,,1,Whole Nutrient
+okra without salt drained boiled cooked frozen,0.54,68.08,27.0,5.9,0.07,0.221,0.48,36.8,169.28,1.5,0.058,2.76,13.8,0.034,83.83,0.45,0.0,0.776,0.0,6.0,90.0,79.0,Branded Foods,,1,Whole Nutrient
+asparagus without salt drained boiled cooked frozen,0.54,68.08,27.0,5.9,0.07,0.221,0.48,36.8,169.28,1.5,0.058,2.76,13.8,0.034,83.83,0.45,0.0,0.776,0.0,1.0,91.0,79.0,Branded Foods,,1,Whole Nutrient
+tgi fridays classic sirloin steak 10 oz,2.53,12.32,345.0,0.83,0.2,13.781,5.05,49.28,667.04,54.6,4.314,408.32,19.36,1.301,104.26,9.75,0.493,0.046,,,,,Branded Foods,,0,Confectionaries
+biscuits prepared dry mix plain or buttermilk,0.94,52.45,95.0,13.72,0.03,3.43,0.58,7.09,53.3,2.07,0.791,270.74,7.37,0.019,8.19,0.17,,0.071,,8.0,27.0,72.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+chicken stewed cooked meat and skin stewing,1.0,11.05,242.0,0.0,0.09,16.04,1.16,17.0,154.7,22.85,4.344,62.05,33.15,0.212,45.11,1.5,,0.018,,0.0,27.0,130.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chayote with salt drained boiled cooked fruit,1.55,20.8,35.0,7.2,0.18,0.768,0.35,19.2,276.8,0.99,0.05,379.2,0.0,0.189,149.49,0.5,0.0,0.27,0.0,1.0,70.0,0.0,Branded Foods,Other_Condiments,2,Frozen & Preserved
+protein supplement powder muscle milk milk based,0.4,55.0,45.0,2.04,0.11,1.885,0.94,22.0,124.19,5.03,0.171,36.19,82.5,0.11,1.65,0.79,,,0.55,,,,Branded Foods,,0,Confectionaries
+cake nobake type prepared from mix cheesecake,0.57,48.76,78.0,10.06,0.01,3.6,0.13,5.39,59.82,1.56,1.897,107.73,27.22,0.015,12.53,0.13,,0.034,,,,,Branded Foods,Powdered_Drinks,0,Confectionaries
+crackers sandwichtype with peanut butter filling cheese,0.35,7.1,70.0,8.06,0.04,3.567,0.39,7.95,30.96,1.76,0.626,117.72,0.14,0.021,0.47,0.15,,0.117,0.0,,,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+babyfood toddler and vegetables rice turkey dinner,0.23,3.12,17.0,2.13,0.03,0.454,0.11,3.97,30.33,1.08,0.142,49.9,32.04,0.037,24.47,0.17,,0.065,0.0,7.0,59.0,,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+beverages prepared with water decaffeinated instant coffee,0.06,1.2,0.6,0.13,0.0,0.0,0.01,1.2,10.76,0.04,0.0,1.2,0.0,0.0,29.58,0.0,0.0,0.004,,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+milk with blend of hydrogenated vegetable oils fluid filled,1.95,312.32,154.0,11.57,0.02,8.442,0.12,31.72,339.16,8.13,1.874,139.08,4.88,0.098,213.91,0.88,,0.005,,8.0,38.0,138.0,Branded Foods,,0,Confectionaries
+babyfood junior without ascorbic acid prunes with tapioca fruit,0.22,4.25,20.0,5.3,0.02,0.028,0.09,2.83,45.93,0.17,0.002,0.57,2.83,0.024,22.71,0.03,,,,9.0,35.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+chicken roasted cooked meat only thigh broilers or fryers,0.88,7.65,152.0,0.0,0.06,6.928,0.96,20.4,228.65,21.05,1.964,90.1,6.8,0.393,56.95,1.63,0.037,0.014,0.17,0.0,34.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only back broilers or fryers,0.88,7.65,152.0,0.0,0.06,6.928,0.96,20.4,228.65,21.05,1.964,90.1,6.8,0.393,56.95,1.63,0.037,0.014,0.17,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only wing broilers or fryers,0.88,7.65,152.0,0.0,0.06,6.928,0.96,20.4,228.65,21.05,1.964,90.1,6.8,0.393,56.95,1.63,0.037,0.014,0.17,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only leg broilers or fryers,0.88,7.65,152.0,0.0,0.06,6.928,0.96,20.4,228.65,21.05,1.964,90.1,6.8,0.393,56.95,1.63,0.037,0.014,0.17,0.0,36.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+turkey roasted cooked meat and skin light meat whole,1.04,9.35,150.0,0.04,0.06,4.735,0.68,27.2,210.8,25.12,1.363,85.85,8.5,0.652,55.07,1.5,0.064,0.01,0.34,,,,Branded Foods,,4,Keto & Strength
+shortening pourable liquid fry shortening soy partially hydrogenated industrial,0.0,0.0,120.0,0.0,0.0,13.6,0.0,0.0,0.0,0.0,2.497,0.0,0.0,0.0,0.0,0.0,1.71,,,0.0,2.0,0.0,Branded Foods,,1,Whole Nutrient
+turkey raw with added solution meat and skin whole,1.37,15.82,180.0,0.17,0.08,10.283,0.76,23.73,238.43,21.5,1.921,203.4,25.99,0.61,80.52,1.9,0.184,0.009,0.45,,,,Branded Foods,,0,Confectionaries
+lima beans without salt drained boiled cooked immature seeds,3.5,54.4,209.0,40.19,0.52,0.544,4.17,125.8,969.0,11.58,0.124,28.9,25.5,0.328,114.19,1.34,0.0,2.128,0.0,16.0,68.0,89.0,Branded Foods,,1,Whole Nutrient
+beverages zero calories pomegranate with antioxidants yumberry bottled water,0.0,0.0,12.0,3.0,0.0,0.0,0.0,0.0,19.2,0.0,0.0,24.0,0.0,0.199,237.0,0.0,0.0,,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+babyfood strained without ascorbic acid plums with tapioca fruit,0.04,0.9,11.0,2.96,0.01,0.0,0.03,0.6,12.75,0.01,0.0,0.0,1.05,0.004,12.0,0.01,,,0.0,1.0,21.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+pork raw mechanically separated variety meats and byproducts fresh,0.44,89.3,86.0,0.0,0.02,7.524,1.2,4.54,84.48,4.26,2.784,14.18,0.85,0.105,16.12,0.69,,0.003,,,,,Branded Foods,,1,Whole Nutrient
+orville redenbachers butter popcorn 2322 oz by conagra brands,,0.0,170.0,17.0,,12.001,0.72,,210.0,2.0,5.999,260.05,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+andy capp hot fries 15 oz by conagra brands,,0.0,140.0,19.0,,6.0,0.0,,0.0,2.0,2.5,290.08,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+andy capp bbq fries 3 oz by conagra brands,,0.0,140.0,19.0,,6.0,0.0,,0.0,2.0,2.5,290.08,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+andy capp hot fries 3 oz by conagra brands,,0.0,140.0,19.0,,6.0,0.0,,0.0,2.0,2.5,290.08,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+pork braised cooked kidneys variety meats and byproducts fresh,1.45,10.15,215.0,0.58,0.74,7.322,8.45,34.8,298.7,34.22,1.943,50.75,10.15,0.566,98.72,4.48,,0.106,,,,,Branded Foods,,4,Keto & Strength
+pork braised cooked heart variety meats and byproducts fresh,1.45,10.15,215.0,0.58,0.74,7.322,8.45,34.8,298.7,34.22,1.943,50.75,10.15,0.566,98.72,4.48,,0.106,,,,,Branded Foods,,4,Keto & Strength
+pork roasted extra lean and regular boneless ham cured,5.75,11.2,231.0,0.7,0.17,10.724,1.96,26.6,506.8,30.76,3.654,1939.0,0.0,0.49,92.05,3.68,,0.064,1.12,1.0,41.0,125.0,Branded Foods,,2,Frozen & Preserved
+chicken roasted cooked meat only thigh broilers or fryers,0.88,10.2,148.0,0.0,0.05,6.63,0.92,20.4,228.65,20.59,1.792,84.15,5.95,0.361,57.54,1.79,0.028,0.016,0.09,0.0,34.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only back broilers or fryers,0.88,10.2,148.0,0.0,0.05,6.63,0.92,20.4,228.65,20.59,1.792,84.15,5.95,0.361,57.54,1.79,0.028,0.016,0.09,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only wing broilers or fryers,0.88,10.2,148.0,0.0,0.05,6.63,0.92,20.4,228.65,20.59,1.792,84.15,5.95,0.361,57.54,1.79,0.028,0.016,0.09,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only leg broilers or fryers,0.88,10.2,148.0,0.0,0.05,6.63,0.92,20.4,228.65,20.59,1.792,84.15,5.95,0.361,57.54,1.79,0.028,0.016,0.09,0.0,36.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+cheese spread reduced fat american or cheddar cheese base,1.09,116.97,37.0,2.25,0.01,1.865,0.08,5.67,52.5,2.82,1.186,231.42,38.85,0.021,12.98,0.38,0.069,0.005,0.0,,,,Branded Foods,Other_Condiments,2,Frozen & Preserved
+pork unheated canned extra lean and regular ham cured,3.03,5.1,122.0,0.0,0.07,6.341,0.77,13.6,283.9,15.27,2.083,1084.6,0.0,0.391,60.45,1.56,,0.02,0.51,0.0,40.0,140.0,Branded Foods,,2,Frozen & Preserved
+bread unenriched includes corn muffin mix dry mix cornbread,1.02,16.16,119.0,19.7,0.02,3.459,0.17,6.8,32.04,1.98,0.876,314.97,1.7,0.036,2.21,0.16,,0.089,,103.0,17.0,55.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+puddings prepared with 2 milk regular dry mix chocolate,1.23,143.36,142.0,25.29,0.12,2.637,0.44,26.88,199.68,4.2,1.65,130.56,60.16,0.041,94.64,0.73,0.093,0.136,1.28,3.0,34.0,132.0,Branded Foods,,0,Confectionaries
+beverages frozen concentrate with pulp breakfast type orangeflavor drink,0.46,45.89,61.0,15.14,0.01,0.176,0.09,0.71,153.55,0.04,0.028,8.47,0.0,0.0,19.49,0.02,0.0,0.01,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+pork roasted regular approximately 11 fat boneless ham cured,5.54,11.2,249.0,0.0,0.2,12.628,1.88,30.8,572.6,31.67,4.368,2100.0,0.0,0.434,90.36,3.46,,0.057,1.12,0.0,40.0,119.0,Branded Foods,,2,Frozen & Preserved
+toaster pastries frosted include apples blueberry cherry strawberry fruit,0.58,6.36,204.0,38.07,0.03,4.781,2.31,5.83,45.58,2.13,1.638,164.83,107.06,0.262,7.44,0.19,0.018,0.171,0.0,26.0,22.0,51.0,Branded Foods,,0,Confectionaries
+cowpeas blackeyes with salt drained boiled cooked immature seeds,1.07,211.2,160.0,33.53,0.22,0.627,1.85,85.8,689.7,5.23,0.158,6.6,66.0,0.107,124.54,1.7,0.0,0.944,0.0,13.0,67.0,116.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+cowpeas blackeyes without salt drained boiled cooked immature seeds,1.07,211.2,160.0,33.53,0.22,0.627,1.85,85.8,689.7,5.23,0.158,6.6,66.0,0.107,124.54,1.7,0.0,0.944,0.0,13.0,69.0,116.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+peas without salt drained boiled cooked sprouted mature seeds,0.99,26.0,98.0,17.08,0.02,0.51,1.67,41.0,268.0,7.05,0.09,3.0,5.0,0.128,74.37,0.78,0.0,0.325,0.0,3.0,54.0,,Branded Foods,,1,Whole Nutrient
+pork unheated separable lean only bonein slice ham cured,2.37,11.05,111.0,0.0,0.13,3.051,1.05,19.55,314.5,20.71,0.934,646.0,0.0,0.41,59.47,2.07,0.023,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean only bonein rump ham cured,2.37,11.05,111.0,0.0,0.13,3.051,1.05,19.55,314.5,20.71,0.934,646.0,0.0,0.41,59.47,2.07,0.023,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+chesters flamin hot popcorn 875 ounces by frito lay,,20.09,140.0,12.0,,8.0,0.36,,,2.0,0.999,330.09,,,,,0.0,,,,,,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+cake enriched commercially prepared cinnamon with crumb topping coffeecake,0.4,15.31,119.0,13.24,0.04,6.606,0.54,6.24,34.87,1.93,1.643,99.51,9.36,0.008,6.21,0.23,,0.128,,,,,Branded Foods,Powdered_Drinks,0,Confectionaries
+cheese large or small curd dry uncreamed nonfat cottage,2.48,124.7,104.0,9.66,0.04,0.42,0.22,15.95,198.65,14.99,0.245,539.4,2.9,0.023,117.46,0.68,,0.032,0.0,6.0,38.0,120.0,Branded Foods,Other_Condiments,2,Frozen & Preserved
+pie crust chilled vanilla wafer prepared from recipe cookietype,1.81,54.18,685.0,64.76,0.09,46.698,2.1,12.9,101.91,4.77,9.59,664.35,347.01,0.067,10.96,0.31,,0.23,0.65,,,,Branded Foods,,0,Confectionaries
+cake unenriched other than all butter commercially prepared pound,0.42,19.2,117.0,15.75,0.02,5.37,0.18,3.9,31.8,1.56,1.394,120.0,10.5,0.007,6.93,0.12,,0.026,,9.0,9.0,107.0,Branded Foods,Powdered_Drinks,0,Confectionaries
+cake enriched other than all butter commercially prepared pound,0.42,19.2,117.0,15.75,0.02,5.37,0.18,3.9,31.8,1.56,1.394,120.0,10.5,0.007,6.93,0.12,,0.026,,9.0,13.0,107.0,Branded Foods,Powdered_Drinks,0,Confectionaries
+pork raw separable lean and fat whole loin fresh,1.08,20.34,224.0,0.0,0.06,14.215,0.89,23.73,402.28,22.31,4.927,56.5,2.26,0.533,75.62,1.97,,0.012,0.56,0.0,35.0,145.0,Branded Foods,,4,Keto & Strength
+peas and onions without salt drained boiled cooked frozen,0.81,25.2,81.0,15.53,0.11,0.36,1.69,23.4,210.6,4.57,0.065,66.6,95.4,0.157,158.72,0.52,0.0,0.299,0.0,7.0,75.0,85.0,Branded Foods,,0,Confectionaries
+peas and carrots without salt drained boiled cooked frozen,0.81,25.2,81.0,15.53,0.11,0.36,1.69,23.4,210.6,4.57,0.065,66.6,95.4,0.157,158.72,0.52,0.0,0.299,0.0,10.0,82.0,97.0,Branded Foods,,0,Confectionaries
+beverages decaffeinated prepared with tap water brewed black tea,0.01,0.0,0.3,0.09,0.0,0.0,0.01,0.89,10.95,0.0,0.001,0.89,0.0,0.0,29.51,0.01,0.0,0.065,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+chicken roasted cooked meat only thigh broilers or fryers,0.12,2.08,26.0,0.0,0.01,1.057,0.15,2.73,27.3,3.96,0.294,11.96,2.34,0.077,8.16,0.28,,0.002,0.01,0.0,34.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only back broilers or fryers,0.12,2.08,26.0,0.0,0.01,1.057,0.15,2.73,27.3,3.96,0.294,11.96,2.34,0.077,8.16,0.28,,0.002,0.01,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only wing broilers or fryers,0.12,2.08,26.0,0.0,0.01,1.057,0.15,2.73,27.3,3.96,0.294,11.96,2.34,0.077,8.16,0.28,,0.002,0.01,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only leg broilers or fryers,0.12,2.08,26.0,0.0,0.01,1.057,0.15,2.73,27.3,3.96,0.294,11.96,2.34,0.077,8.16,0.28,,0.002,0.01,0.0,36.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+andy capp hot fries 15 oz by conagra brands,,0.0,190.0,31.0,,6.001,0.0,,124.95,3.0,2.499,459.85,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+andy capp hot fries 3 oz by conagra brands,,0.0,190.0,31.0,,6.001,0.0,,124.95,3.0,2.499,459.85,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+andy capp bbq fries 3 oz by conagra brands,,0.0,140.0,18.0,,7.0,0.0,,45.08,1.0,2.999,199.92,,,,,0.0,,,,,,,,0,Confectionaries
+andy capp hot fries 3 oz by conagra brands,,0.0,140.0,18.0,,7.0,0.0,,45.08,1.0,2.999,199.92,,,,,0.0,,,,,,,,0,Confectionaries
+corn no salt added vacuum pack canned yellow sweet,2.25,10.5,166.0,40.82,0.1,1.05,0.88,48.3,390.6,5.06,0.162,6.3,8.4,0.116,160.82,0.97,0.0,0.141,0.0,8.0,48.0,83.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+oil partially hydrogenated and cottonseed salad or cooking soybean,0.0,0.0,120.0,0.0,0.0,13.6,0.0,0.0,0.0,0.0,2.448,0.0,0.0,0.0,0.0,0.0,,,0.0,,,,Branded Foods,,1,Whole Nutrient
+pork raw leaf fat variety meats and byproducts fresh,0.03,0.28,243.0,0.0,0.0,26.694,0.03,0.28,8.79,0.5,12.823,1.42,0.0,0.009,1.16,0.05,,0.0,,,,,Branded Foods,,1,Whole Nutrient
+9z smart foods reduced fat white cheddar by fritolay,,19.88,130.0,18.0,,6.0,0.36,,59.92,3.0,1.0,250.04,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+pork braised cooked kidneys variety meats and byproducts fresh,1.82,18.2,211.0,0.0,0.96,6.58,7.41,25.2,200.2,35.56,2.114,112.0,109.2,0.644,96.18,5.81,,0.209,,,,,Branded Foods,,4,Keto & Strength
+pork braised cooked heart variety meats and byproducts fresh,1.82,18.2,211.0,0.0,0.96,6.58,7.41,25.2,200.2,35.56,2.114,112.0,109.2,0.644,96.18,5.81,,0.209,,,,,Branded Foods,,4,Keto & Strength
+cocoa processed with alkali hifat or breakfast dry powder,0.41,7.32,29.0,2.98,0.22,1.423,0.87,28.56,150.54,1.01,0.758,1.2,0.0,0.011,0.18,0.4,,,0.0,,,,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+agutuk fish with shortening alaskan ice cream alaska native,3.0,,470.0,10.5,0.03,43.5,0.2,16.0,206.0,9.0,8.6,24.0,34.0,,34.0,0.47,,,,0.0,8.0,,,,1,Whole Nutrient
+oil woks and light frying canola for salads industrial,0.0,0.0,120.0,0.0,0.0,13.6,0.0,0.0,0.0,0.0,1.055,0.0,0.0,0.0,0.0,0.0,0.241,0.0,,0.0,6.0,0.0,Branded Foods,,1,Whole Nutrient
+pie crust chilled graham cracker prepared from recipe cookietype,0.45,6.0,145.0,19.17,0.04,7.32,0.64,5.4,25.8,1.23,1.528,168.0,57.3,0.011,1.83,0.14,,0.136,,,,,Branded Foods,,0,Confectionaries
+danish pastry unenriched includes apple cinnamon raisin strawberry fruit,0.34,13.04,105.0,13.55,0.02,5.245,0.21,4.25,23.53,1.53,0.801,100.36,6.24,0.011,7.68,0.15,,0.072,,37.0,13.0,64.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+peas and onions without salt drained boiled cooked frozen,1.58,63.94,133.0,28.13,0.21,1.168,2.61,44.48,439.24,8.59,0.214,189.04,1323.28,0.242,238.52,1.25,0.0,0.562,0.0,7.0,75.0,85.0,Branded Foods,,0,Confectionaries
+peas and carrots without salt drained boiled cooked frozen,1.58,63.94,133.0,28.13,0.21,1.168,2.61,44.48,439.24,8.59,0.214,189.04,1323.28,0.242,238.52,1.25,0.0,0.562,0.0,10.0,82.0,97.0,Branded Foods,,0,Confectionaries
+seal in oil alaska native dried meat bearded oogruk,1.42,7.0,367.0,0.0,0.27,25.08,17.0,29.0,400.0,35.31,3.92,120.0,,0.091,35.48,3.1,,0.037,,0.0,43.0,103.0,Branded Foods,,4,Keto & Strength
+turkey roasted cooked meat and skin back all classes,0.88,17.85,161.0,0.0,0.04,6.299,1.19,22.95,244.8,24.4,1.785,53.55,0.0,0.408,53.74,1.73,,0.017,,0.0,34.0,139.0,Branded Foods,,4,Keto & Strength
+turkey roasted cooked meat and skin breast all classes,0.88,17.85,161.0,0.0,0.04,6.299,1.19,22.95,244.8,24.4,1.785,53.55,0.0,0.408,53.74,1.73,,0.017,,0.0,33.0,142.0,Branded Foods,,4,Keto & Strength
+margarinelike spread with yogurt with salt stick 70 fat,0.28,2.8,88.0,0.07,0.0,9.8,0.0,0.28,3.5,0.04,1.862,82.6,114.66,0.007,3.92,0.01,,,0.0,,,,Branded Foods,,0,Confectionaries
+babyfood fortified junior with applesauce and bananas mixed cereal,0.11,25.8,24.0,5.33,0.02,0.145,1.93,1.98,31.47,0.2,0.02,1.42,0.0,0.029,22.57,0.29,,,0.0,,,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+peas solids and liquids no salt added canned green,1.04,22.32,66.0,12.09,0.13,0.372,1.26,21.08,124.0,3.96,0.067,11.16,89.28,0.081,106.54,0.87,0.0,0.327,0.0,5.0,77.0,84.0,Branded Foods,,1,Whole Nutrient
+chicken roasted cooked meat only thigh broilers or fryers,0.92,20.4,203.0,0.0,0.07,11.186,1.18,18.7,201.45,23.96,3.06,81.6,0.0,0.289,49.94,2.25,,0.019,0.09,0.0,34.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only back broilers or fryers,0.92,20.4,203.0,0.0,0.07,11.186,1.18,18.7,201.45,23.96,3.06,81.6,0.0,0.289,49.94,2.25,,0.019,0.09,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only wing broilers or fryers,0.92,20.4,203.0,0.0,0.07,11.186,1.18,18.7,201.45,23.96,3.06,81.6,0.0,0.289,49.94,2.25,,0.019,0.09,0.0,32.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken roasted cooked meat only leg broilers or fryers,0.92,20.4,203.0,0.0,0.07,11.186,1.18,18.7,201.45,23.96,3.06,81.6,0.0,0.289,49.94,2.25,,0.019,0.09,0.0,36.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+puddings prepared with whole milk regular dry mix vanilla,1.26,138.6,158.0,26.49,0.04,4.06,0.06,12.6,166.6,3.92,2.3,218.4,56.0,0.039,104.29,0.46,,0.007,1.54,13.0,25.0,,Branded Foods,,0,Confectionaries
+breakfast bars coconut include granola bar raisins sugar oats,0.77,25.8,200.0,28.68,0.15,7.568,1.37,43.43,140.18,4.21,5.457,107.93,3.44,0.15,1.76,0.69,,,0.0,18.0,25.0,,Foundation Foods,Tomatoes,3,Packaged
+pork raw separable lean only whole leg ham fresh,1.19,6.78,154.0,0.0,0.08,6.113,1.14,28.25,416.97,23.14,2.113,62.15,2.26,0.565,82.38,2.57,,0.033,0.68,0.0,43.0,146.0,Branded Foods,,4,Keto & Strength
+act ii kettle corn 875 oz by conagra brands,,0.0,100.0,21.0,,2.499,0.72,,89.9,3.0,1.001,289.85,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+milk calcium fortified fat free or skim nonfat fluid,1.9,503.88,86.0,11.98,0.03,0.445,0.1,27.17,410.02,8.4,0.289,128.44,338.39,0.099,224.28,0.99,,,2.96,9.0,54.0,,Branded Foods,,0,Confectionaries
+milk with added calcium reduced fat commercial fluid chocolate,2.02,485.0,195.0,30.32,0.19,4.75,0.6,35.0,307.5,7.47,2.942,165.0,160.0,0.06,205.43,0.97,,0.155,,15.0,44.0,134.0,Branded Foods,,0,Confectionaries
+puddings prepared with whole milk instant dry mix banana,1.52,119.38,146.0,25.1,0.03,3.556,0.06,11.43,142.24,3.33,1.984,368.3,48.26,0.038,93.5,0.41,,0.006,1.4,3.0,25.0,138.0,Branded Foods,,5,Unhealthy & Over-indulgent
+ham deli meat 96fat free water added prepackaged sliced,0.46,0.65,14.0,0.09,0.01,0.525,0.08,2.47,60.19,2.19,0.16,122.85,0.0,0.051,9.73,0.2,0.002,0.002,0.08,,,,Branded Foods,,2,Frozen & Preserved
+cracker barrel from kids menu fried chicken tenderloin platter,3.17,12.36,303.0,20.85,0.07,15.872,0.6,29.87,339.9,19.23,2.915,897.13,2.06,0.457,43.89,0.69,0.13,0.274,,,,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+cookies unenriched higher fat regular commercially prepared chocolate chip,0.31,7.09,136.0,18.94,0.06,6.407,0.28,8.79,38.27,1.53,2.119,89.3,0.0,0.016,1.16,0.18,,0.127,,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+cake unenriched other than all butter commercially prepared pound,0.42,19.2,117.0,15.75,0.02,5.37,0.49,3.9,31.8,1.56,1.394,120.0,10.5,0.007,6.93,0.12,,0.026,,9.0,9.0,107.0,Branded Foods,Powdered_Drinks,0,Confectionaries
+cake enriched other than all butter commercially prepared pound,0.42,19.2,117.0,15.75,0.02,5.37,0.49,3.9,31.8,1.56,1.394,120.0,10.5,0.007,6.93,0.12,,0.026,,9.0,13.0,107.0,Branded Foods,Powdered_Drinks,0,Confectionaries
+cowpeas blackeyes with salt drained boiled cooked immature seeds,2.05,211.2,155.0,32.55,0.22,0.627,1.85,85.8,689.7,5.23,0.158,396.0,66.0,0.107,124.54,1.7,0.0,0.944,0.0,13.0,67.0,116.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+cowpeas blackeyes without salt drained boiled cooked immature seeds,2.05,211.2,155.0,32.55,0.22,0.627,1.85,85.8,689.7,5.23,0.158,396.0,66.0,0.107,124.54,1.7,0.0,0.944,0.0,13.0,69.0,116.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+babyfood prepared with whole milk with bananas rice cereal,0.23,44.23,24.0,2.97,0.01,0.941,1.03,5.67,51.03,1.01,0.51,13.32,12.19,0.024,23.19,0.13,,0.001,0.34,2.0,46.0,136.0,Standard Reference Foods,Baked_Products,3,Packaged
+beverages fortified with vitamin c aloe vera juice drink,0.05,19.2,36.0,9.0,0.0,0.0,0.36,0.0,0.0,0.0,0.0,19.2,0.0,0.0,230.95,0.0,0.0,,0.0,,,,Foundation Foods,Tomatoes,3,Packaged
+pork unheated separable lean only bonein slice ham cured,2.33,5.95,106.0,0.27,0.74,2.482,0.92,20.4,327.25,20.79,0.743,626.45,0.0,0.437,59.13,2.22,0.017,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean only bonein rump ham cured,2.33,5.95,106.0,0.27,0.74,2.482,0.92,20.4,327.25,20.79,0.743,626.45,0.0,0.437,59.13,2.22,0.017,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+margarinelike with salt tub 60 fat vegetable oil spread,0.22,2.94,75.0,0.12,0.0,8.373,0.0,0.28,4.2,0.02,1.692,86.1,114.66,0.525,5.26,0.0,0.513,,0.0,,,,Branded Foods,,0,Confectionaries
+orville redenbachers movie theatre butter popcorn 1741 oz by conagra brands,,0.0,150.0,18.0,,8.999,0.36,,60.06,2.0,4.501,330.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+orville redenbachers movie theatre butter popcorn 87 oz by conagra brands,,0.0,150.0,18.0,,8.999,0.36,,60.06,2.0,4.501,330.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+gardettos special request garlic rye chips by general mills sales inc,,0.0,170.0,15.0,,9.999,0.36,,,3.0,0.999,330.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey raw with added solution meat only from whole bird breast,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted with added solution meat only from whole bird breast,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted with added solution meat only from whole bird back,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+orville redenbachers movie theatre butter popcorn 1741 oz by conagra brands,,0.0,150.0,18.0,,8.999,0.36,,60.06,2.0,4.501,330.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+orville redenbachers movie theatre butter popcorn 87 oz by conagra brands,,0.0,150.0,18.0,,8.999,0.36,,60.06,2.0,4.501,330.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+pork unheated separable lean only boneless whole ham  water added cured,3.03,6.8,94.0,1.23,0.09,3.374,0.73,16.15,269.45,14.74,1.214,969.85,11.05,0.351,62.86,1.52,0.031,0.019,0.51,7.0,44.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean only bonein shank ham  water added cured,3.03,6.8,94.0,1.23,0.09,3.374,0.73,16.15,269.45,14.74,1.214,969.85,11.05,0.351,62.86,1.52,0.031,0.019,0.51,,,,Branded Foods,,2,Frozen & Preserved
+danish pastry enriched includes apple cinnamon raisin lemon raspberry strawberry fruit,0.34,13.04,105.0,13.55,0.02,5.245,0.5,4.25,23.53,1.53,1.378,126.16,4.25,0.012,7.68,0.15,,0.072,0.0,37.0,19.0,64.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+doritos toasted corn tortilla chips 11 ounce bag by frito lay,,40.04,140.0,18.0,,7.0,0.0,,,2.0,1.0,120.12,,0.08,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+cheetos crunchy cheddar and jalapeno flavored snacks 225z by frito lay,,19.88,160.0,13.0,,9.999,0.36,,,2.0,1.501,290.08,,0.04,,,0.0,,,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+bugles nacho cheese crispy corn snacks by general mills sales inc,,0.0,150.0,18.0,,6.999,0.0,,0.0,2.0,6.0,300.0,,,,,0.0,,,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+beverages prepared with whole milk powder cereal grain beverage coffee substitute,1.48,220.15,120.0,10.36,0.02,6.105,0.2,29.6,318.2,6.11,3.813,90.65,51.8,0.078,160.95,0.7,,0.03,,7.0,45.0,138.0,Foundation Foods,Tomatoes,0,Confectionaries
+muffins made with low fat 2 milk prepared from recipe corn,0.96,73.43,90.0,12.53,0.02,3.487,0.74,6.52,41.11,2.01,0.655,165.85,,0.026,9.36,0.17,,0.053,,15.0,29.0,84.0,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted cooked with added solution meat only breast retail parts,1.19,12.75,111.0,0.0,0.05,1.768,0.5,22.95,224.4,23.75,0.364,156.4,2.55,0.624,59.49,1.13,0.017,0.005,0.09,,,,Branded Foods,,0,Confectionaries
+candies milk chocolate peanut butter and soft nougats fast break reeses,1.13,34.16,265.0,34.5,0.1,13.115,0.54,26.88,159.04,4.85,4.609,184.8,,0.039,2.3,0.53,0.0,0.0,,21.0,13.0,,Branded Foods,Powdered_Drinks,3,Packaged
+gardettos deli style mustard pretzel mix by general mills sales inc,,0.0,130.0,23.0,,2.499,0.36,,,3.0,0.0,240.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+chicken grilled cooked meat only boneless skinless breast broiler or fryers,1.13,4.25,128.0,0.0,0.04,2.694,0.38,28.9,332.35,25.96,0.843,44.2,8.5,0.983,56.22,0.77,0.009,0.01,0.0,,,,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken braised cooked meat only boneless skinless breast broiler or fryers,1.13,4.25,128.0,0.0,0.04,2.694,0.38,28.9,332.35,25.96,0.843,44.2,8.5,0.983,56.22,0.77,0.009,0.01,0.0,,,,Branded Foods,Canned_Tuna,4,Keto & Strength
+lays dill pickle potato chips 95 ounce bag by frito lay,,0.0,160.0,15.0,,9.999,0.36,15.96,320.04,2.0,1.501,220.08,,0.2,,0.3,0.0,,,,,,Branded Foods,,0,Confectionaries
+beverages high vitamin c greater than 3 juice fruit juice drink,0.74,7.14,109.0,27.01,0.03,0.262,0.59,11.9,290.36,0.31,0.04,19.04,11.9,0.076,209.68,0.1,0.0,0.143,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+doritos nacho cheese tortilla chips 11 ounce bag by frito lay,,0.0,140.0,16.0,,8.0,0.0,,,2.0,1.0,210.0,,0.04,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+hk anderson garlic parmesan pretzel thins 72 oz by conagra brands,,0.0,120.0,21.0,,2.5,0.0,,35.0,3.0,0.0,339.92,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+squash with salt drained boiled cooked frozen includes skin zucchini summer,2.25,37.91,31.0,6.62,0.1,0.29,1.07,28.99,432.62,2.56,0.06,530.74,20.07,0.1,211.27,0.45,0.0,0.513,0.0,3.0,87.0,90.0,Branded Foods,,2,Frozen & Preserved
+gelatin desserts sodiumcitrate and salt with added ascorbic acid dry mix,0.59,2.55,324.0,76.92,0.1,0.0,0.13,1.7,5.95,6.63,0.0,417.35,0.0,0.009,0.85,0.01,,0.014,,,,,Branded Foods,,0,Confectionaries
+pork raw separable lean only blade steaks boston butt shoulder fresh,0.99,15.82,149.0,0.0,0.12,6.452,1.36,24.86,383.07,21.16,2.258,73.45,0.0,0.589,83.97,3.8,0.043,0.015,0.68,1.0,45.0,151.0,Branded Foods,,4,Keto & Strength
+infant formula not reconstituted powder with iron advance similac abbott nutrition,0.28,34.85,44.0,4.65,0.04,2.454,0.8,2.72,46.92,0.93,0.839,10.71,40.2,0.027,0.19,0.33,,0.002,0.67,3.0,56.0,,Branded Foods,,1,Whole Nutrient
+orville redenbachers all in one popcorn 5 oz by conagra brands,,0.0,150.0,18.0,,8.999,1.08,,90.09,3.0,1.0,299.97,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+bugles hot buffalo crispy corn snacks by general mills sales inc,,0.0,140.0,18.0,,6.999,0.0,,0.0,2.0,6.0,429.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+beverages diet peach ready to drink black and green tea snapple,,0.0,2.0,0.1,,0.0,0.0,,19.0,0.1,0.0,3.0,,,99.8,,0.0,,,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+turkey raw with added solution meat only from whole bird breast,1.6,15.82,115.0,0.16,0.06,1.876,0.61,28.25,273.46,24.34,0.606,232.78,6.78,0.876,86.35,1.47,0.027,0.008,0.11,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted with added solution meat only from whole bird breast,1.6,15.82,115.0,0.16,0.06,1.876,0.61,28.25,273.46,24.34,0.606,232.78,6.78,0.876,86.35,1.47,0.027,0.008,0.11,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted with added solution meat only from whole bird back,1.6,15.82,115.0,0.16,0.06,1.876,0.61,28.25,273.46,24.34,0.606,232.78,6.78,0.876,86.35,1.47,0.027,0.008,0.11,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+bugles sweet and salty caramel snacks by general mills sales inc,,0.0,150.0,19.0,,8.001,0.0,,0.0,1.0,5.001,189.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,0,Confectionaries
+pork roasted cooked separable lean only shank half leg ham fresh,1.02,11.9,149.0,0.0,0.1,4.955,0.78,20.4,319.6,24.39,1.561,71.4,0.85,0.406,55.49,2.27,0.032,0.016,0.34,0.0,38.0,146.0,Branded Foods,,4,Keto & Strength
+milk without added vitamin a and vitamin d instant nonfat dry,5.46,837.08,243.0,35.49,0.03,0.49,0.21,79.56,1159.4,23.87,0.32,373.32,2.72,0.235,2.69,3.0,,0.014,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+peppers solids and liquids excluding seeds pods canned green hot chili,1.02,5.11,15.0,3.72,0.07,0.073,0.36,10.22,136.51,0.66,0.007,856.29,26.28,0.112,67.53,0.12,0.0,0.101,0.0,1.0,80.0,87.0,Branded Foods,,2,Frozen & Preserved
+lays baked potato crisps 1025 ounce plastic bag by frito lay,,10.08,120.0,22.0,,3.5,0.3,,229.88,2.0,0.0,159.88,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+potatoes whole milk and margarine without milk prepared from granules mashed,2.39,73.5,227.0,30.24,0.05,10.353,0.4,39.9,304.5,4.3,2.696,552.3,92.4,0.021,162.71,0.5,,0.006,0.0,13.0,34.0,121.0,Branded Foods,,5,Unhealthy & Over-indulgent
+bread made with low fat 2 milk prepared from recipe cornbread,1.02,70.59,75.0,12.33,0.01,2.013,0.71,7.09,41.67,1.9,0.441,186.54,,0.032,11.08,0.17,,0.033,,17.0,33.0,87.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+beverages fortified ready to drink milk and soy based chocolate drink,2.3,300.99,239.0,41.0,0.5,4.005,4.5,99.54,580.65,10.0,1.0,149.31,374.46,0.699,179.69,4.5,0.0,35.0,5.92,,,,Foundation Foods,Tomatoes,3,Packaged
+chicken flour fried cooked meat and skin wing broilers or fryers,0.14,2.85,61.0,0.45,0.01,4.21,0.24,3.61,33.63,4.96,1.151,14.63,7.22,0.078,9.24,0.33,,0.005,,0.0,25.0,129.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken flour fried cooked meat and skin neck broilers or fryers,0.14,2.85,61.0,0.45,0.01,4.21,0.24,3.61,33.63,4.96,1.151,14.63,7.22,0.078,9.24,0.33,,0.005,,21.0,38.0,134.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+milk without added vitamin a and vitamin d 1 fat fluid,1.83,305.0,102.0,12.18,0.02,2.367,0.07,26.84,366.0,8.22,1.545,107.36,34.16,0.09,219.4,1.02,,0.007,0.0,,,,Branded Foods,,0,Confectionaries
+potatoes unprepared frozen salt added in processing all types french fried,1.5,8.01,131.0,22.08,0.08,4.147,0.55,18.69,363.12,1.99,0.894,295.48,0.0,0.158,59.28,0.31,,0.141,0.0,10.0,35.0,106.0,Branded Foods,,5,Unhealthy & Over-indulgent
+funyuns onion flavored rings snacks 6 ounces bag by frito lay,,5.88,140.0,19.0,,6.0,1.0,,40.88,2.0,1.0,280.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+milk with added vitamin a and vitamin d nonfat evaporated canned,0.48,92.51,25.0,3.62,0.01,0.064,0.09,8.61,105.91,2.41,0.039,36.69,37.64,0.018,25.33,0.29,,0.002,0.64,,,,Branded Foods,,0,Confectionaries
+pork roasted heated separable lean and fat bonein rump ham cured,2.53,5.95,150.0,0.54,0.93,7.548,1.24,19.55,314.5,20.36,2.422,702.1,0.85,0.379,54.25,2.47,0.054,0.024,0.68,,,,Branded Foods,,2,Frozen & Preserved
+pork raw separable lean only boneless top loin chops loin fresh,1.14,5.65,144.0,0.0,0.06,3.865,0.58,30.51,437.31,25.32,1.365,55.37,0.0,0.854,82.41,1.8,0.027,0.009,0.34,0.0,40.0,150.0,Branded Foods,,4,Keto & Strength
+beverages fortified with vitamin c unsweetened lemon decaffeinated instant green tea,0.02,0.09,17.0,4.25,0.0,0.0,0.01,0.14,7.61,0.0,0.0,0.0,0.0,0.001,0.23,0.0,0.0,,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+beverages prepared with water without added sodium powder fruit punchflavor drink,0.06,5.56,12.0,3.1,0.01,0.003,0.02,0.33,0.33,0.0,0.002,2.29,0.0,0.0,29.54,0.01,0.0,0.001,,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+oil high oleic 70 non trans high stability natreon canola vegetable,0.0,,124.0,0.0,,14.0,,,,0.0,0.912,0.0,,,0.0,,0.107,,0.0,0.0,3.0,0.0,Branded Foods,,1,Whole Nutrient
+turkey raw with added solution meat only from whole bird breast,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted with added solution meat only from whole bird breast,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted with added solution meat only from whole bird back,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+chicken roasted cooked meat and skin light meat broilers or fryers,0.73,11.85,175.0,0.0,0.04,8.572,0.9,19.75,179.33,22.93,2.409,59.25,26.07,0.411,47.8,0.97,,0.014,,0.0,30.0,133.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+lima beans with salt drained boiled cooked fordhook frozen immature seeds,2.21,51.0,175.0,32.84,0.29,0.578,3.09,71.4,516.8,10.32,0.131,491.3,17.0,0.207,124.07,1.26,0.0,1.102,0.0,22.0,62.0,88.0,Branded Foods,,5,Unhealthy & Over-indulgent
+lima beans without salt drained boiled cooked fordhook frozen immature seeds,2.21,51.0,175.0,32.84,0.29,0.578,3.09,71.4,516.8,10.32,0.131,491.3,17.0,0.207,124.07,1.26,0.0,1.102,0.0,22.0,64.0,88.0,Branded Foods,,5,Unhealthy & Over-indulgent
+doritos tapatio tortilla chips 10 ounce plastic bag by frito lay,,0.0,140.0,16.0,,8.0,0.36,,,2.0,1.5,170.08,,0.04,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+chex mix honey nut snack mix by general mills sales inc,,0.0,210.0,37.0,,5.998,0.72,,,3.0,1.0,229.81,,,,,0.0,,,,,,Branded Foods,Canned_Tuna,0,Confectionaries
+chicken flour fried cooked meat and skin wing broilers or fryers,0.07,3.41,37.0,0.47,0.01,2.597,0.27,2.09,19.8,2.64,0.695,9.02,6.27,0.028,5.22,0.34,,0.006,,0.0,25.0,129.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken flour fried cooked meat and skin neck broilers or fryers,0.07,3.41,37.0,0.47,0.01,2.597,0.27,2.09,19.8,2.64,0.695,9.02,6.27,0.028,5.22,0.34,,0.006,,21.0,38.0,134.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+lima beans with salt drained boiled cooked fordhook frozen immature seeds,2.21,51.0,175.0,32.84,0.29,0.578,3.09,71.4,516.8,10.32,0.131,117.3,17.0,0.207,124.07,1.26,0.0,1.102,0.0,22.0,62.0,88.0,Branded Foods,,3,Packaged
+lima beans without salt drained boiled cooked fordhook frozen immature seeds,2.21,51.0,175.0,32.84,0.29,0.578,3.09,71.4,516.8,10.32,0.131,117.3,17.0,0.207,124.07,1.26,0.0,1.102,0.0,22.0,64.0,88.0,Branded Foods,,3,Packaged
+oil roasting nuts oil sprays principal uses candy coatings coconut industrial,0.0,0.0,120.0,0.0,0.0,13.6,0.01,0.0,0.0,0.0,11.696,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,Branded Foods,,1,Whole Nutrient
+chicken grilled cooked meat only boneless skinless breast broiler or fryers,1.01,5.1,133.0,0.0,0.04,2.754,0.42,27.2,291.55,27.25,0.858,39.95,8.5,0.783,55.52,0.82,0.011,0.01,0.0,,,,Branded Foods,Canned_Tuna,4,Keto & Strength
+chicken braised cooked meat only boneless skinless breast broiler or fryers,1.01,5.1,133.0,0.0,0.04,2.754,0.42,27.2,291.55,27.25,0.858,39.95,8.5,0.783,55.52,0.82,0.011,0.01,0.0,,,,Branded Foods,Canned_Tuna,4,Keto & Strength
+bugles bold bbq crispy corn snacks by general mills sales inc,,0.0,150.0,18.0,,6.999,0.0,,0.0,2.0,6.0,240.0,,,,,0.0,,,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+crunch n munch hot and sweet 6 oz by conagra brands,,0.0,140.0,24.0,,3.5,0.0,,44.95,2.0,1.001,330.15,,,,,0.0,,,,,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+pork unheated separable lean only boneless whole ham  water added cured,2.63,5.95,77.0,0.6,0.08,1.59,0.65,15.3,194.65,15.85,0.503,884.0,7.65,0.209,65.05,1.69,0.01,0.019,,7.0,44.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean only bonein shank ham  water added cured,2.63,5.95,77.0,0.6,0.08,1.59,0.65,15.3,194.65,15.85,0.503,884.0,7.65,0.209,65.05,1.69,0.01,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+infant formula with ara and dha ready to feed with iron prosobee mead johnson,0.41,73.14,68.0,6.86,0.05,3.71,1.25,5.3,83.74,1.74,1.569,25.44,62.54,0.041,93.28,0.84,,,1.06,3.0,59.0,,Branded Foods,,3,Packaged
+milk with added vitamin a and vitamin d fat free or skim fluid nonfat,1.84,298.9,86.0,11.91,0.03,0.441,0.07,26.95,382.2,8.26,0.287,102.9,4.9,0.091,222.56,1.03,,0.007,0.0,,,,Branded Foods,,0,Confectionaries
+milk without added vitamin a and vitamin d fat free or skim fluid nonfat,1.84,298.9,86.0,11.91,0.03,0.441,0.07,26.95,382.2,8.26,0.287,102.9,4.9,0.091,222.56,1.03,,0.007,0.0,,,,Branded Foods,,0,Confectionaries
+pork raw with added solution separable lean only boneless top loin chops loin fresh,1.9,7.91,132.0,0.25,0.05,3.932,0.46,25.99,606.81,23.83,1.189,314.14,0.0,0.562,83.09,1.45,0.011,0.012,0.34,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+cracker jackd sweet  salty salted caramel popcorn 3125 ounce plastic bag by frito lay,,19.88,140.0,19.0,,6.0,0.36,,,1.0,2.999,379.96,,,,,0.0,,,,,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+cheetos crunchy flamin hot cheese flavored snacks 375 ounce plastic bag by frito lay,,0.0,160.0,13.0,,11.001,0.36,,,1.0,1.501,250.04,,0.04,,,0.0,,,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+beverages low calorie with high vitamin c with other added vitamins powder fruitflavored drink,0.15,16.0,4.5,1.82,0.0,0.003,0.0,4.9,50.36,0.01,0.0,0.28,119.94,0.16,0.03,0.0,0.0,0.0,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+infant formula not reconstituted with ara and dha powder with iron pregestimil mead johnson,0.28,41.36,46.0,4.59,0.03,2.464,0.79,3.52,48.4,1.23,1.452,21.12,46.64,0.026,0.23,0.44,,,0.55,,,,Branded Foods,,3,Packaged
+beverages added vitamin c with lowcalorie sweetener reduced calorie vegetable and fruit juice drink,0.31,19.04,9.5,2.62,0.03,0.0,0.71,2.38,57.12,0.0,0.0,33.32,249.9,0.01,235.1,0.02,0.0,0.012,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+cheetos puffs party size cheese flavored snacks 16 ounce plastic bag by frito lay,,19.88,160.0,16.0,,9.999,0.4,,59.92,2.0,1.501,269.92,,,,,0.0,,,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+infant formula with ara and dha ready to feed pregestimil 24 calories mead johnson,0.47,75.92,75.0,6.19,0.06,4.576,1.46,6.24,89.44,2.29,2.704,38.48,85.28,0.049,90.48,0.81,,0.021,1.04,,,,Branded Foods,,3,Packaged
+betty crocker shark bites fruit flavored snacks 10 count by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+frozen novelties chocolate coated no sugar added light vanilla ice cream ice cream type,0.93,173.16,172.0,20.37,0.06,7.878,0.23,21.84,237.9,4.99,4.312,81.12,14.82,0.034,43.84,0.64,,0.061,0.16,4.0,27.0,,Branded Foods,,3,Packaged
+chex mix cookies  cream muddy buddies valentines 25 count by general mills sales inc,,0.0,80.0,13.0,,2.501,0.0,,0.0,1.0,1.999,29.92,,,,,0.0,,,,,,Branded Foods,Canned_Tuna,3,Packaged
+beverages with high vitamin c fruit flavored drink containing less than 3 fruit juice,0.24,7.14,64.0,15.87,0.02,0.0,0.0,2.38,73.78,0.0,0.0,85.68,0.0,0.0,221.82,0.0,0.0,,0.0,,,,Foundation Foods,Tomatoes,0,Confectionaries
+lays wavy roasted garlic  sea salt potato chips 95 ounce bag by frito lay,,0.0,160.0,15.0,,9.999,0.36,,339.92,2.0,1.501,140.0,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+milk with added vitamin a and vitamin d fat free or skim fluid nonfat,1.84,298.9,83.0,12.15,0.03,0.196,0.07,26.95,382.2,8.26,0.137,102.9,149.45,0.091,222.56,1.03,,0.007,2.94,,,,Branded Foods,,0,Confectionaries
+milk without added vitamin a and vitamin d fat free or skim fluid nonfat,1.84,298.9,83.0,12.15,0.03,0.196,0.07,26.95,382.2,8.26,0.137,102.9,149.45,0.091,222.56,1.03,,0.007,2.94,,,,Branded Foods,,0,Confectionaries
+chicken braised cooked with added solution meat only boneless skinless breast broiler or fryers,1.12,4.25,123.0,0.0,0.03,3.068,0.37,23.8,266.05,24.0,1.014,146.2,7.65,0.818,57.84,0.68,0.012,0.009,0.0,,,,Branded Foods,Canned_Tuna,0,Confectionaries
+betty crocker scoobydoo fruit flavored snacks 90 ct by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+pork panfried cooked separable lean and fat bonein center loin chops loin fresh,0.85,7.65,195.0,0.0,0.05,11.56,0.53,21.25,311.1,22.68,4.156,73.1,4.25,0.302,50.51,1.36,0.069,0.0,0.26,,,,Branded Foods,,4,Keto & Strength
+pork braised cooked separable lean and fat bonein center rib chops loin fresh,0.85,7.65,195.0,0.0,0.05,11.56,0.53,21.25,311.1,22.68,4.156,73.1,4.25,0.302,50.51,1.36,0.069,0.0,0.26,,,,Branded Foods,,4,Keto & Strength
+pork panfried cooked separable lean and fat boneless center rib chops loin fresh,0.85,7.65,195.0,0.0,0.05,11.56,0.53,21.25,311.1,22.68,4.156,73.1,4.25,0.302,50.51,1.36,0.069,0.0,0.26,,,,Branded Foods,,4,Keto & Strength
+pork panbroiled cooked separable lean and fat boneless center loin chops loin fresh,0.85,7.65,195.0,0.0,0.05,11.56,0.53,21.25,311.1,22.68,4.156,73.1,4.25,0.302,50.51,1.36,0.069,0.0,0.26,,,,Branded Foods,,4,Keto & Strength
+bty crk universal frt flvrd sncks assorted frt by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+pork unheated separable lean and fat bonein slice ham with natural juices cured,2.15,5.1,162.0,0.27,0.1,9.443,0.86,16.15,237.15,19.0,3.072,662.15,8.5,0.307,55.28,2.15,0.072,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean and fat bonein shank ham with natural juices cured,2.15,5.1,162.0,0.27,0.1,9.443,0.86,16.15,237.15,19.0,3.072,662.15,8.5,0.307,55.28,2.15,0.072,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+gushers sweet  fiery fruit flavored snacks 6 count by general mills sales inc,,0.0,90.0,21.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash fruit flavored snacks 6 count by general mills sales inc,,0.0,90.0,21.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+pork unheated separable lean and fat bonein slice ham with natural juices cured,2.32,7.65,135.0,0.14,0.08,6.29,0.89,16.15,245.65,19.4,1.901,713.15,10.2,0.286,57.09,1.87,0.042,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean and fat bonein shank ham with natural juices cured,2.32,7.65,135.0,0.14,0.08,6.29,0.89,16.15,245.65,19.4,1.901,713.15,10.2,0.286,57.09,1.87,0.042,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+betty crocker toy story fruit snacks 10 count by general mills sales inc,,,80.0,19.0,,0.0,,,,0.0,0.0,34.96,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+gushers strawberry splash and tropical fruit 6 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical flavors 20 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical flavors 42 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical fruit 6 count by general mills sales inc,,0.0,90.0,21.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical flavors 20 count by general mills sales inc,,0.0,90.0,21.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical flavors 42 count by general mills sales inc,,0.0,90.0,21.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+annies homegrown organic pink lemonade bunny fruit snacks by general mills sales inc,,0.0,70.0,19.0,,0.0,0.0,,,0.0,0.0,54.97,,,,,0.0,,,,,,,,0,Confectionaries
+pork roasted heated separable lean and fat boneless whole ham  water added cured,3.09,7.65,107.0,1.31,0.08,4.658,0.7,16.15,266.05,15.1,1.519,1003.85,11.05,0.331,60.96,1.53,0.008,0.019,0.59,29.0,40.0,133.0,Branded Foods,,2,Frozen & Preserved
+pork panfried cooked separable lean and fat bonein center loin chops loin fresh,0.97,28.05,196.0,0.0,0.09,10.88,0.76,17.0,297.5,22.96,4.13,70.55,3.4,0.412,51.22,3.0,0.079,0.015,0.51,,,,Branded Foods,,4,Keto & Strength
+pork roasted cooked separable lean and fat bonein center loin roasts loin fresh,0.97,28.05,196.0,0.0,0.09,10.88,0.76,17.0,297.5,22.96,4.13,70.55,3.4,0.412,51.22,3.0,0.079,0.015,0.51,,,,Branded Foods,,4,Keto & Strength
+pork raw separable lean and fat bonein blade chops or roasts loin fresh,1.13,39.55,219.0,0.0,0.09,13.865,0.75,19.21,325.44,22.1,4.825,77.97,6.78,0.483,76.43,2.89,0.09,0.009,0.79,,,,Branded Foods,,4,Keto & Strength
+lays wavy potato chips party size 1375 ounce plastic bag by frito lay,,0.0,160.0,15.0,,9.999,0.36,,339.92,2.0,1.501,140.0,,0.2,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+pork panfried cooked separable lean and fat bonein center loin chops loin fresh,1.0,9.35,232.0,0.0,0.06,15.342,0.62,20.4,363.8,21.95,5.712,42.5,1.7,0.303,47.89,1.73,,0.006,0.77,,,,Branded Foods,,1,Whole Nutrient
+pork braised cooked separable lean and fat bonein center rib chops loin fresh,1.0,9.35,232.0,0.0,0.06,15.342,0.62,20.4,363.8,21.95,5.712,42.5,1.7,0.303,47.89,1.73,,0.006,0.77,,,,Branded Foods,,1,Whole Nutrient
+pork panfried cooked separable lean and fat boneless center rib chops loin fresh,1.0,9.35,232.0,0.0,0.06,15.342,0.62,20.4,363.8,21.95,5.712,42.5,1.7,0.303,47.89,1.73,,0.006,0.77,,,,Branded Foods,,1,Whole Nutrient
+pork panbroiled cooked separable lean and fat boneless center loin chops loin fresh,1.0,9.35,232.0,0.0,0.06,15.342,0.62,20.4,363.8,21.95,5.712,42.5,1.7,0.303,47.89,1.73,,0.006,0.77,,,,Branded Foods,,1,Whole Nutrient
+pork panbroil heated separable lean and fat bonein slice ham  water added cured,3.31,9.35,141.0,1.31,0.12,7.421,0.91,16.15,238.0,17.68,2.466,1112.65,10.2,0.371,55.66,1.86,0.057,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+milk without added vitamin a and vitamin d 2 milkfat fluid reduced fat,1.75,295.2,123.0,11.81,0.01,4.871,0.05,27.06,344.4,8.12,3.092,115.62,68.88,0.093,219.46,1.18,0.209,0.034,0.0,,,,Branded Foods,,0,Confectionaries
+milk with added vitamin a and vitamin d 2 milkfat fluid reduced fat,1.75,295.2,123.0,11.81,0.01,4.871,0.05,27.06,344.4,8.12,3.092,115.62,68.88,0.093,219.46,1.18,0.209,0.034,0.0,,,,Branded Foods,,0,Confectionaries
+betty crocker spongebob fruit flavored snacks 10 count by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+doritos dinamita nacho picoso rolled tortilla chips1125 ounce plastic bag by frito lay,,40.07,170.0,19.0,,8.999,0.0,,,2.0,1.501,240.09,,,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+lays kettle cooked original potato chips 85 ounce plastic bag by frito lay,,0.0,160.0,16.0,,8.999,0.36,15.96,369.88,2.0,1.501,89.88,,0.2,,0.3,0.0,,,,,,Branded Foods,,3,Packaged
+pork panfried cooked separable lean and fat bonein center loin chops loin fresh,1.07,45.05,202.0,0.0,0.1,11.322,0.79,19.55,300.05,23.49,4.137,79.9,4.25,0.446,49.63,2.72,0.064,0.01,0.51,,,,Branded Foods,,4,Keto & Strength
+pork braised cooked separable lean and fat bonein center rib chops loin fresh,1.07,45.05,202.0,0.0,0.1,11.322,0.79,19.55,300.05,23.49,4.137,79.9,4.25,0.446,49.63,2.72,0.064,0.01,0.51,,,,Branded Foods,,4,Keto & Strength
+pork panfried cooked separable lean and fat boneless center rib chops loin fresh,1.07,45.05,202.0,0.0,0.1,11.322,0.79,19.55,300.05,23.49,4.137,79.9,4.25,0.446,49.63,2.72,0.064,0.01,0.51,,,,Branded Foods,,4,Keto & Strength
+pork panbroiled cooked separable lean and fat boneless center loin chops loin fresh,1.07,45.05,202.0,0.0,0.1,11.322,0.79,19.55,300.05,23.49,4.137,79.9,4.25,0.446,49.63,2.72,0.064,0.01,0.51,,,,Branded Foods,,4,Keto & Strength
+pork roasted cooked separable lean and fat bonein center loin roasts loin fresh,1.07,45.05,202.0,0.0,0.1,11.322,0.79,19.55,300.05,23.49,4.137,79.9,4.25,0.446,49.63,2.72,0.064,0.01,0.51,,,,Branded Foods,,4,Keto & Strength
+gushers tropical flavors fruit flavored snacks 6 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers tropical flavors fruit flavored snacks 2 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+pork roasted heated separable lean only bonein shank ham and water product cured,2.92,7.65,112.0,1.07,0.08,3.783,0.99,12.75,190.4,18.44,1.25,888.25,9.35,0.34,58.85,2.4,0.037,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork roasted heated separable lean only boneless whole ham and water product cured,2.92,7.65,112.0,1.07,0.08,3.783,0.99,12.75,190.4,18.44,1.25,888.25,9.35,0.34,58.85,2.4,0.037,0.019,,71.0,39.0,134.0,Branded Foods,,2,Frozen & Preserved
+bugles sweet and salty chocolate peanut butter snacks by general mills sales inc,,,160.0,20.0,,8.0,1.0,,,2.0,4.998,129.92,,,,,0.0,,,,,,Foundation Foods,Tomatoes,0,Confectionaries
+annies organic mini bunny fruit snacks 5 count by general mills sales inc,,0.0,70.0,19.0,,0.0,0.0,,0.0,0.0,0.0,54.97,,,,,0.0,,,,,,,,0,Confectionaries
+cake with added fiber lowfat with icing or filling not chocolate snack cakes,0.32,60.21,111.0,20.06,0.02,3.008,0.36,2.97,19.71,1.0,1.003,85.32,1.35,0.013,2.61,0.13,0.0,,0.08,,,,Branded Foods,Powdered_Drinks,0,Confectionaries
+crackers made with corn starch and white rice flour multigrain and vegetable glutenfree,0.29,3.0,49.0,8.23,0.01,1.649,0.06,1.6,9.2,0.27,0.611,95.23,,0.007,0.27,0.05,0.005,0.032,,,,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+milk with added vitamin a and vitamin d reduced fat commercial fluid chocolate,2.02,272.5,190.0,30.32,0.19,4.75,0.6,35.0,422.5,7.47,2.942,165.0,160.0,0.06,205.43,0.97,,0.155,3.0,,,,Branded Foods,,0,Confectionaries
+cheetos mix ups xtra cheesy mix cheese flavored snacks 325z by frito lay,,19.88,160.0,15.0,,9.999,0.5,,40.04,2.0,1.501,250.04,,,,,0.0,,,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+crunch n munch buttery toffee popcorn with peanuts 6 oz by conagra brands,,0.0,150.0,24.0,,5.0,0.0,,0.0,2.0,1.001,159.96,,,,,0.0,,,,,,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+pork unheated separable lean and fat boneless whole ham and water product cured,2.75,6.8,127.0,2.31,0.11,7.896,1.18,11.9,174.25,11.64,2.615,934.15,8.5,0.291,60.41,1.36,0.061,0.019,,1.0,40.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean and fat bonein slice ham and water product cured,2.75,6.8,127.0,2.31,0.11,7.896,1.18,11.9,174.25,11.64,2.615,934.15,8.5,0.291,60.41,1.36,0.061,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork panfried cooked separable lean and fat bonein center loin chops loin fresh,0.91,45.05,222.0,0.0,0.09,13.838,0.69,16.15,220.15,22.66,4.62,59.5,4.25,0.417,48.32,2.63,0.075,0.009,0.77,,,,Branded Foods,,4,Keto & Strength
+pork braised cooked separable lean and fat bonein center rib chops loin fresh,0.91,45.05,222.0,0.0,0.09,13.838,0.69,16.15,220.15,22.66,4.62,59.5,4.25,0.417,48.32,2.63,0.075,0.009,0.77,,,,Branded Foods,,4,Keto & Strength
+pork panfried cooked separable lean and fat boneless center rib chops loin fresh,0.91,45.05,222.0,0.0,0.09,13.838,0.69,16.15,220.15,22.66,4.62,59.5,4.25,0.417,48.32,2.63,0.075,0.009,0.77,,,,Branded Foods,,4,Keto & Strength
+pork panbroiled cooked separable lean and fat boneless center loin chops loin fresh,0.91,45.05,222.0,0.0,0.09,13.838,0.69,16.15,220.15,22.66,4.62,59.5,4.25,0.417,48.32,2.63,0.075,0.009,0.77,,,,Branded Foods,,4,Keto & Strength
+vegetables no salt added mixed corn lima beans peas green beans carrots canned,1.62,38.22,67.0,13.3,0.19,0.364,1.18,27.3,251.16,2.55,0.071,47.32,1061.06,0.146,164.16,0.93,0.0,,0.0,5.0,74.0,,Branded Foods,,3,Packaged
+annies organic bernies farm fruit snacks 5 count by general mills sales inc,,0.0,70.0,19.0,,0.0,0.0,,,0.0,0.0,45.08,,,,,0.0,,,,,,,,3,Packaged
+gushers strawberry splash and tropical fruit 6 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical flavors 20 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers strawberry splash and tropical flavors 42 count by general mills sales inc,,0.0,80.0,18.0,,1.0,0.0,,,0.0,0.499,40.02,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers tropical flavors fruit flavored snacks 6 count by general mills sales inc,,0.0,90.0,20.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+gushers tropical flavors fruit flavored snacks 2 count by general mills sales inc,,0.0,90.0,20.0,,1.5,0.0,,,0.0,0.499,44.98,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+pork unheated separable lean and fat boneless whole ham and water product cured,3.4,6.8,99.0,3.58,0.09,4.242,0.66,14.45,226.95,11.94,1.266,1111.8,11.05,0.25,62.02,1.35,0.031,0.034,0.51,1.0,40.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean and fat bonein slice ham and water product cured,3.4,6.8,99.0,3.58,0.09,4.242,0.66,14.45,226.95,11.94,1.266,1111.8,11.05,0.25,62.02,1.35,0.031,0.034,0.51,,,,Branded Foods,,2,Frozen & Preserved
+pork roasted heated separable lean only bonein shank ham and water product cured,3.44,6.8,105.0,3.92,0.08,4.641,0.63,12.75,208.25,11.8,1.565,1134.75,11.05,0.221,61.29,1.39,0.04,0.032,0.59,,,,Branded Foods,,2,Frozen & Preserved
+pork roasted heated separable lean only boneless whole ham and water product cured,3.44,6.8,105.0,3.92,0.08,4.641,0.63,12.75,208.25,11.8,1.565,1134.75,11.05,0.221,61.29,1.39,0.04,0.032,0.59,71.0,39.0,134.0,Branded Foods,,2,Frozen & Preserved
+motts fruit flavored snacks assorted fruit 22 count by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+milk without added vitamin a and vitamin d 2 milkfat fluid reduced fat,1.73,292.8,122.0,11.71,0.01,4.831,0.05,26.84,341.6,8.05,3.067,114.68,134.2,0.093,217.67,1.17,0.207,0.034,2.93,,,,Branded Foods,,0,Confectionaries
+milk with added vitamin a and vitamin d 2 milkfat fluid reduced fat,1.73,292.8,122.0,11.71,0.01,4.831,0.05,26.84,341.6,8.05,3.067,114.68,134.2,0.093,217.67,1.17,0.207,0.034,2.93,,,,Branded Foods,,0,Confectionaries
+orville redenbachers kettle korn popcorn 1741 oz by conagra brands,,0.0,170.0,18.0,,9.999,0.72,,64.94,2.0,5.001,114.92,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+mung beans with salt drained boiled cooked sprouted mature seeds,1.1,14.88,24.0,4.46,0.15,0.112,0.81,17.36,125.24,2.52,0.031,305.04,1.24,0.067,115.8,0.58,0.0,0.174,0.0,3.0,80.0,73.0,Branded Foods,,2,Frozen & Preserved
+turkey roasted cooked from dark meat from retail parts skin,0.98,5.1,352.0,0.0,0.05,29.776,1.4,20.4,191.25,20.89,8.656,90.1,50.15,0.244,33.51,1.4,0.39,0.008,0.68,,,,Branded Foods,,4,Keto & Strength
+potatoes ovenheated frozen salt added in processing shoestring french fried,0.43,2.52,41.0,6.65,0.02,1.42,0.17,5.25,106.05,0.61,0.266,84.0,0.0,0.04,11.89,0.09,,0.039,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+gardettos original recipe snack mix by general mills sales inc,,0.0,230.0,33.0,,9.001,1.08,,,4.0,1.499,480.2,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+act ii fat free popcorn 32593 oz by conagra brands,,0.0,130.0,27.0,,2.001,0.72,,0.0,4.0,0.998,299.91,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+pork broiled cooked separable lean and fat whole loin fresh,1.15,16.15,206.0,0.0,0.06,11.832,0.74,23.8,359.55,23.22,4.446,52.7,1.7,0.394,49.19,2.03,,0.008,1.1,0.0,36.0,145.0,Branded Foods,,4,Keto & Strength
+pork broiled cooked separable lean and fat tenderloin loin fresh,1.15,16.15,206.0,0.0,0.06,11.832,0.74,23.8,359.55,23.22,4.446,52.7,1.7,0.394,49.19,2.03,,0.008,1.1,0.0,41.0,145.0,Branded Foods,,4,Keto & Strength
+chicken roasted cooked with added solution skin drumsticks and thighs,0.77,12.75,358.0,0.37,0.06,31.96,0.99,15.3,168.3,17.26,9.35,137.7,45.05,0.157,34.62,1.28,0.23,0.011,0.09,,,,Branded Foods,Canned_Tuna,4,Keto & Strength
+alcoholic beverage all gin rum vodka whiskey 94 proof distilled,0.0,0.0,76.0,0.0,0.01,0.0,0.01,0.0,0.56,0.0,0.0,0.28,0.0,0.0,16.76,0.01,0.0,0.005,,0.0,0.0,0.0,,,1,Whole Nutrient
+pork raw separable lean only rump half leg ham fresh,1.27,13.56,136.0,0.0,0.09,3.311,0.76,24.86,405.67,24.65,1.07,85.88,2.26,0.629,84.5,2.09,0.021,0.011,0.34,0.0,42.0,146.0,Branded Foods,,4,Keto & Strength
+pork roasted heated separable lean only bonein rump ham cured,2.63,6.8,112.0,0.58,1.02,2.609,1.35,20.4,334.9,22.12,0.779,719.1,0.0,0.407,57.53,2.69,0.018,0.025,,,,,Branded Foods,,2,Frozen & Preserved
+corn solids and liquids no salt added canned yellow sweet,2.05,10.24,156.0,35.48,0.07,1.971,0.92,38.4,348.16,4.99,0.197,30.72,5.12,0.095,211.48,1.0,0.0,0.21,0.0,8.0,48.0,82.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+annies organic cheddar snack mix by general mills sales inc,,0.0,150.0,18.0,,6.999,0.4,,0.0,3.0,0.999,210.0,,,,,0.0,,,,,,,,0,Confectionaries
+pork roasted separable lean and fat blade roll shoulder cured,2.3,5.95,244.0,0.31,0.06,19.958,0.76,11.05,164.9,14.69,7.123,827.05,0.0,0.178,47.75,2.08,,0.02,,1.0,28.0,135.0,Branded Foods,,5,Unhealthy & Over-indulgent
+chicken roasted cooked meat and skin thigh broilers or fryers,0.83,7.65,197.0,0.0,0.05,12.504,0.92,18.7,215.05,19.77,3.494,86.7,13.6,0.352,52.67,1.47,0.069,0.014,0.17,0.0,31.0,133.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+puddings prepared with whole milk regular dry mix coconut cream,1.4,155.4,160.0,24.78,0.04,5.32,0.28,22.4,219.8,4.2,3.598,226.8,36.4,0.202,104.44,0.5,,0.052,,12.0,30.0,133.0,Branded Foods,,0,Confectionaries
+puddings dry mix regular low calorie all flavors except chocolate,2.1,55.37,397.0,97.23,0.05,0.113,0.06,19.21,20.34,1.81,0.02,1994.45,0.0,0.0,11.75,0.21,,,0.0,17.0,4.0,,Branded Foods,,2,Frozen & Preserved
+muffins with calcium propionate includes sourdough enriched toasted plain english,0.58,55.85,77.0,14.93,0.05,0.573,1.32,7.94,36.57,2.93,0.151,135.23,0.0,0.019,9.35,0.4,0.0,0.179,0.0,16.0,46.0,100.0,Branded Foods,,5,Unhealthy & Over-indulgent
+beans with salt drained boiled cooked sprouted mature seeds pinto,0.93,15.0,20.0,3.5,0.11,0.32,0.66,18.0,98.0,1.86,0.039,287.0,0.0,0.054,93.39,0.17,0.0,0.123,0.0,1.0,67.0,86.0,Standard Reference Foods,Baked_Products,2,Frozen & Preserved
+yogurt with lowcalorie sweetener nonfat milk flavors not chocolate frozen,1.09,108.12,71.0,13.4,0.14,0.544,0.03,27.2,230.52,2.99,0.332,55.08,1.36,0.027,49.98,0.33,,,0.0,,,,Branded Foods,,0,Confectionaries
+pork simmered cooked frozen ears variety meats and byproducts fresh,0.44,19.98,184.0,0.22,0.01,11.988,1.67,7.77,44.4,17.7,4.285,185.37,0.0,0.011,80.64,0.22,,0.011,,,,,Branded Foods,,0,Confectionaries
+chicken raw with added solution meat only drumstick dark meat,1.12,10.17,120.0,0.0,0.07,3.684,0.81,18.08,216.96,21.68,1.078,171.76,9.04,0.435,87.81,2.26,0.024,0.011,0.23,,,,Branded Foods,Canned_Tuna,0,Confectionaries
+elk raw shoshone bannock eye of round roast free range,0.94,4.0,98.0,0.0,0.14,2.1,2.27,24.0,367.0,19.74,0.828,43.0,0.0,0.893,76.54,4.16,0.032,0.011,,0.0,50.0,140.0,Branded Foods,Honey,4,Keto & Strength
+orville movie theater butter pop up bowl by conagra brands,,0.0,30.0,4.0,,2.0,0.0,,9.98,0.0,1.0,39.98,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+pork roasted cooked separable lean and fat tenderloin loin fresh,2.12,4.25,171.0,0.0,0.06,6.893,1.18,29.75,377.4,25.38,2.49,54.4,1.7,0.438,51.93,2.46,,0.01,,2.0,43.0,150.0,Branded Foods,,4,Keto & Strength
+pork broiled cooked separable lean and fat whole loin fresh,2.12,4.25,171.0,0.0,0.06,6.893,1.18,29.75,377.4,25.38,2.49,54.4,1.7,0.438,51.93,2.46,,0.01,,0.0,36.0,145.0,Branded Foods,,4,Keto & Strength
+pork broiled cooked separable lean and fat tenderloin loin fresh,2.12,4.25,171.0,0.0,0.06,6.893,1.18,29.75,377.4,25.38,2.49,54.4,1.7,0.438,51.93,2.46,,0.01,,0.0,41.0,145.0,Branded Foods,,4,Keto & Strength
+pork roasted cooked separable lean and fat tenderloin loin fresh,1.02,5.1,125.0,0.0,0.09,3.366,0.98,24.65,356.15,22.13,1.154,48.45,0.0,0.625,58.74,2.05,0.032,0.011,0.26,2.0,43.0,150.0,Branded Foods,,4,Keto & Strength
+pork broiled cooked separable lean and fat tenderloin loin fresh,1.02,5.1,125.0,0.0,0.09,3.366,0.98,24.65,356.15,22.13,1.154,48.45,0.0,0.625,58.74,2.05,0.032,0.011,0.26,0.0,41.0,145.0,Branded Foods,,4,Keto & Strength
+chicken raw meat and skin and giblets and neck capons,0.8,9.35,197.0,0.07,0.05,14.365,1.2,17.85,181.05,15.73,4.156,39.95,231.2,0.306,54.11,1.12,,0.024,,2.0,39.0,134.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+bugles original crispy corn snacks by general mills sales inc,,0.0,150.0,18.0,,8.001,0.0,,0.0,1.0,6.0,320.1,,,,,0.0,,,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+bagels with calcium propionate includes onion poppy sesame unenriched plain,0.51,20.98,78.0,15.14,0.05,0.454,0.39,8.22,28.63,2.98,0.062,151.39,0.0,0.014,9.24,0.25,,0.153,,8.0,23.0,47.0,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+pork panbroil heated separable lean only bonein slice ham cured,2.69,12.75,126.0,0.63,0.36,3.476,1.21,21.25,362.95,23.1,1.065,739.5,0.0,0.459,55.53,2.58,0.025,0.019,0.94,,,,Branded Foods,,2,Frozen & Preserved
+pork broiled cooked separable lean and fat boneless shoulder breast,0.96,5.95,138.0,0.0,0.06,3.817,0.78,22.1,309.4,24.2,1.126,45.9,0.0,0.46,57.17,2.07,0.017,0.01,,0.0,39.0,150.0,Branded Foods,,4,Keto & Strength
+pork roasted cooked separable lean only arm picnic shoulder fresh,0.9,7.65,194.0,0.0,0.11,10.727,1.21,17.0,298.35,22.68,3.655,68.0,0.0,0.349,51.23,3.46,,0.035,0.77,0.0,37.0,146.0,Branded Foods,,4,Keto & Strength
+squash with salt or baked drained boiled cooked spaghetti winter,0.5,32.55,42.0,10.01,0.05,0.403,0.53,17.05,181.35,1.02,0.096,393.7,9.3,0.153,143.06,0.31,0.0,0.169,0.0,2.0,70.0,65.0,Branded Foods,,2,Frozen & Preserved
+pork unheated canned extra lean approximately 4 fat ham cured,3.09,5.1,102.0,0.0,0.07,3.876,0.8,14.45,309.4,15.72,1.283,1066.75,0.0,0.383,62.49,1.64,,0.021,1.95,0.0,43.0,140.0,Branded Foods,,2,Frozen & Preserved
+gardettos chipotle cheddar snack mix by general mills sales inc,,0.0,140.0,22.0,,4.501,0.72,,,3.0,0.499,249.86,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+act ii butter lovers popcorn 275 oz by conagra brands,,0.0,140.0,19.0,,7.002,0.72,,60.16,2.0,3.002,310.08,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+beverages prepared with whole milk powder natural malted drink mix,2.36,310.05,233.0,27.11,0.1,9.593,0.24,45.05,484.95,10.23,5.403,209.35,87.45,0.175,215.71,1.14,,0.056,,,,,Foundation Foods,Tomatoes,0,Confectionaries
+cracker jack original 287 ounce plastic bag by frito lay,,0.0,120.0,23.0,,1.999,0.72,,,2.0,1.599,70.0,,,,,0.0,,,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+beverages with aspartame low calorie dry powdered mix fruitflavored drink,0.82,83.76,17.0,6.99,0.0,0.003,0.01,0.24,39.84,0.04,0.0,32.32,0.0,0.0,0.15,0.0,0.0,0.0,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+chicken fried cooked meat only light meat broilers or fryers,1.53,22.4,269.0,0.59,0.08,7.756,1.6,40.6,368.2,45.95,2.128,113.4,12.6,0.882,84.2,1.78,,0.028,,1.0,33.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+pickles low sodium includes bread and butter pickles sweet cucumber,0.02,0.24,7.3,2.02,0.01,0.016,0.04,0.24,1.92,0.02,0.004,1.08,3.36,0.001,3.92,0.0,0.0,0.001,0.0,21.0,22.0,54.0,Branded Foods,,1,Whole Nutrient
+chicken raw meat only drumstick dark meat broilers or fryers,1.04,10.17,131.0,0.0,0.07,4.192,0.86,22.6,254.25,21.93,1.072,128.82,7.91,0.431,86.76,2.32,0.02,0.016,0.0,,,,Branded Foods,Canned_Tuna,0,Confectionaries
+cowpeas with salt drained boiled cooked young pods with seeds,0.57,52.25,32.0,6.65,0.07,0.285,0.67,38.95,186.2,2.47,0.075,227.05,66.5,0.117,85.03,0.23,0.0,0.208,0.0,4.0,76.0,,Branded Foods,Crusts_AND_Dough,2,Frozen & Preserved
+kangaroo whole grain pita chips 125 oz by conagra brands,,0.0,160.0,24.0,,5.002,1.44,,80.15,5.0,0.0,190.05,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+restaurant arroz con grandules rice and pigeonpeas latino,12.41,52.24,1188.0,200.8,0.82,32.519,1.89,91.42,548.52,22.86,4.982,3806.99,,0.261,384.42,4.83,0.085,3.833,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+potatoes whole milk and butter added homeprepared mashed,3.15,50.4,237.0,35.3,0.29,8.862,0.55,37.8,596.4,3.91,5.487,665.7,79.8,0.466,158.78,0.57,0.313,0.239,0.42,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+potatoes whole milk and margarine added homeprepared mashed,3.15,50.4,237.0,35.3,0.29,8.862,0.55,37.8,596.4,3.91,5.487,665.7,79.8,0.466,158.78,0.57,0.313,0.239,0.42,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+chicken meat and skin breast bbq rotisserie broiler,1.21,13.6,149.0,0.08,0.03,6.52,0.43,21.25,234.6,22.41,1.664,279.65,9.35,0.261,55.41,0.73,0.048,0.003,0.0,,,,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+elk cooked patties shoshone bannock ground free range,0.78,5.0,143.0,0.0,0.2,2.8,9.06,26.0,379.0,29.45,1.138,56.0,0.0,0.782,67.78,7.79,0.065,0.043,,0.0,49.0,131.0,Branded Foods,Honey,4,Keto & Strength
+turkey roasted cooked meat only breast retail parts,10.79,120.82,1174.0,0.0,0.52,17.001,8.37,241.64,2563.11,254.67,5.696,983.82,25.89,7.163,582.78,13.12,0.207,0.043,1.73,,,,Branded Foods,,0,Confectionaries
+restaurant from kids menu chicken fingers family style,3.34,23.94,350.0,21.4,0.08,19.893,0.87,33.06,367.08,21.3,3.647,922.26,5.7,0.516,48.07,0.76,0.149,0.29,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+turkey roasted meat only from whole bird drumstick,1.04,7.65,118.0,0.0,0.05,1.768,0.6,27.2,211.65,25.61,0.504,84.15,2.55,0.686,57.7,1.46,0.02,0.009,0.26,,,,Branded Foods,,4,Keto & Strength
+puddings with added oil regular dry mix vanilla,1.76,13.2,325.0,81.31,0.02,0.968,0.04,4.4,17.6,0.26,0.176,663.52,0.0,0.0,3.43,0.08,,0.011,,56.0,1.0,39.0,Branded Foods,,5,Unhealthy & Over-indulgent
+toaster pastries fruit includes apple blueberry cherry strawberry,0.34,4.54,110.0,19.94,0.02,2.821,1.56,3.4,28.92,1.19,1.025,94.69,57.27,0.147,4.06,0.11,0.008,0.092,0.0,25.0,25.0,45.0,Branded Foods,,0,Confectionaries
+turkey raw meat and skin leg all classes,0.27,4.62,65.0,0.0,0.03,4.066,0.42,6.93,79.2,6.67,1.082,18.15,0.99,0.135,21.94,0.51,,0.006,,0.0,41.0,143.0,Branded Foods,,4,Keto & Strength
+turkey raw meat and skin wing all classes,0.27,4.62,65.0,0.0,0.03,4.066,0.42,6.93,79.2,6.67,1.082,18.15,0.99,0.135,21.94,0.51,,0.006,,0.0,31.0,138.0,Branded Foods,,4,Keto & Strength
+turkey raw meat only from whole bird thigh,1.16,12.43,122.0,0.17,0.1,2.825,1.18,28.25,255.38,24.05,0.772,140.12,14.69,0.497,85.89,2.93,,0.016,0.34,,,,Branded Foods,,0,Confectionaries
+pork raw separable lean only whole shoulder fresh,0.29,3.97,42.0,0.0,0.03,2.024,0.35,5.95,96.67,5.54,0.7,21.55,0.57,0.118,20.59,0.89,,0.003,,0.0,43.0,146.0,Branded Foods,,4,Keto & Strength
+gourd without salt drained boiled cooked dishcloth towelgourd,0.66,16.02,100.0,25.53,0.15,0.605,0.64,35.6,806.34,1.17,0.048,37.38,,0.176,150.04,0.3,0.0,0.397,0.0,8.0,46.0,,Branded Foods,,3,Packaged
+gourd with salt drained boiled cooked dishcloth towelgourd,0.66,16.02,100.0,25.53,0.15,0.605,0.64,35.6,806.34,1.17,0.048,37.38,,0.176,150.04,0.3,0.0,0.397,0.0,8.0,39.0,,Branded Foods,,3,Packaged
+pork raw separable lean and fat spareribs fresh,0.76,16.95,313.0,0.0,0.09,26.442,1.03,18.08,273.46,17.48,8.508,91.53,0.0,0.649,67.52,2.83,0.251,0.011,2.6,0.0,33.0,144.0,Branded Foods,,4,Keto & Strength
+turkey broiled patties 7 fat 93 lean ground,0.91,24.65,176.0,0.0,0.14,9.732,1.47,21.25,209.95,21.98,2.514,77.35,26.35,0.4,53.06,3.15,0.122,0.009,0.17,,,,Branded Foods,,4,Keto & Strength
+babyfood strained without ascorbic acid fruit dessert dessert,0.04,1.35,9.5,2.58,0.0,0.0,0.03,0.75,14.25,0.04,0.0,0.0,1.05,0.005,12.33,0.01,,,0.0,1.0,25.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood junior without ascorbic acid fruit dessert dessert,0.04,1.35,9.5,2.58,0.0,0.0,0.03,0.75,14.25,0.04,0.0,0.0,1.05,0.005,12.33,0.01,,,0.0,1.0,25.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+cheese food vitamin d fortified american pasteurized process,5.6,770.66,373.0,9.67,0.04,28.962,0.29,30.51,288.15,19.05,17.014,1450.92,227.13,0.115,49.72,2.61,1.036,0.028,2.83,,,,Branded Foods,Other_Condiments,2,Frozen & Preserved
+potatoes without salt flesh cooked in skin boiled,0.72,3.9,68.0,15.7,0.15,0.078,0.24,17.16,295.62,1.46,0.02,3.12,0.0,0.233,60.04,0.23,0.0,0.108,0.0,7.0,46.0,109.0,Branded Foods,,1,Whole Nutrient
+broccoli with salt drained boiled cooked chopped frozen,1.31,60.72,52.0,9.84,0.06,0.221,1.12,23.92,261.28,5.7,0.033,478.4,93.84,0.239,166.92,0.52,0.0,0.41,0.0,4.0,89.0,76.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+broccoli without salt drained boiled cooked chopped frozen,1.31,60.72,52.0,9.84,0.06,0.221,1.12,23.92,261.28,5.7,0.033,478.4,93.84,0.239,166.92,0.52,0.0,0.41,0.0,4.0,89.0,76.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+onions with salt drained boiled cooked chopped frozen,1.31,60.72,52.0,9.84,0.06,0.221,1.12,23.92,261.28,5.7,0.033,478.4,93.84,0.239,166.92,0.52,0.0,0.41,0.0,0.0,56.0,64.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+gelatin desserts with aspartame reduced calorie dry mix,0.14,0.51,13.0,5.13,0.0,0.0,0.0,0.13,0.9,1.0,0.0,55.17,0.0,0.0,0.12,0.0,,0.0,0.0,2.0,12.0,,Branded Foods,,2,Frozen & Preserved
+motts medleys frt flvrd sncks assorted frt by ,,,80.0,19.0,,0.0,,,,0.0,0.0,29.9,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+turkey raw meat and skin leg all classes,0.93,17.85,151.0,0.0,0.15,7.056,1.81,22.05,286.65,20.52,2.163,77.7,1.05,0.357,76.32,3.24,,0.023,,0.0,41.0,143.0,Branded Foods,,4,Keto & Strength
+turkey raw meat and skin wing all classes,0.93,17.85,151.0,0.0,0.15,7.056,1.81,22.05,286.65,20.52,2.163,77.7,1.05,0.357,76.32,3.24,,0.023,,0.0,31.0,138.0,Branded Foods,,4,Keto & Strength
+onions with salt drained boiled cooked whole frozen,0.13,2.4,3.9,0.9,0.0,0.015,0.04,0.9,16.2,0.12,0.002,37.2,0.0,0.01,13.84,0.01,0.0,0.011,0.0,3.0,56.0,64.0,Branded Foods,,2,Frozen & Preserved
+collards with salt drained boiled cooked chopped frozen,0.13,2.4,3.9,0.9,0.0,0.015,0.04,0.9,16.2,0.12,0.002,37.2,0.0,0.01,13.84,0.01,0.0,0.011,0.0,5.0,87.0,93.0,Branded Foods,,2,Frozen & Preserved
+broccoli with salt drained boiled cooked chopped frozen,0.13,2.4,3.9,0.9,0.0,0.015,0.04,0.9,16.2,0.12,0.002,37.2,0.0,0.01,13.84,0.01,0.0,0.011,0.0,4.0,89.0,76.0,Branded Foods,,2,Frozen & Preserved
+onions with salt drained boiled cooked chopped frozen,0.13,2.4,3.9,0.9,0.0,0.015,0.04,0.9,16.2,0.12,0.002,37.2,0.0,0.01,13.84,0.01,0.0,0.011,0.0,0.0,56.0,64.0,Branded Foods,,2,Frozen & Preserved
+potatoes skin with salt in skin cooked microwaved,1.38,26.68,77.0,17.19,0.51,0.058,3.45,21.46,377.0,2.55,0.015,146.16,0.0,0.285,36.83,0.3,0.0,0.568,0.0,23.0,51.0,110.0,Branded Foods,,5,Unhealthy & Over-indulgent
+bread made with margarine prepared from recipe banana,0.28,5.95,92.0,15.48,0.02,2.977,0.4,3.97,37.99,1.22,0.634,85.62,30.05,0.043,8.28,0.1,,0.059,,19.0,18.0,82.0,Foundation Foods,Tomatoes,0,Confectionaries
+turkey raw meat and skin thigh retail parts,1.06,4.52,182.0,0.0,0.09,10.351,1.48,22.6,270.07,22.08,2.696,84.75,32.77,0.473,80.55,2.94,0.12,0.007,0.56,,,,Branded Foods,,4,Keto & Strength
+frozen novelties no sugar added fruit ice type,0.05,1.02,12.0,3.16,0.01,0.051,0.07,1.02,13.26,0.26,0.0,2.55,0.0,0.0,47.53,0.02,,0.011,,1.0,12.0,,Branded Foods,,1,Whole Nutrient
+beans drained solids regular pack canned yellow snap,1.45,39.78,31.0,6.88,0.06,0.153,1.38,19.89,166.77,1.76,0.034,384.03,7.65,0.057,142.75,0.44,0.0,0.306,0.0,3.0,86.0,87.0,Standard Reference Foods,Baked_Products,2,Frozen & Preserved
+chicken heated microwave barbecue flavored glazed frozen wing,2.58,32.3,211.0,3.26,0.04,11.815,2.33,22.95,215.9,21.54,3.107,711.45,17.0,0.178,45.81,1.32,,0.0,,2.0,35.0,118.0,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+granola bar peanut butter milk chocolate coated soft,0.54,30.62,152.0,15.34,0.09,8.845,0.41,18.99,96.11,2.72,4.838,54.72,2.27,0.031,0.91,0.42,,,0.0,8.0,18.0,,Branded Foods,,3,Packaged
+beverages diet decaffeinated ready to drink black tea,0.07,26.4,0.0,1.99,0.02,0.0,0.0,4.8,64.8,0.0,0.0,9.6,0.0,0.0,237.94,0.02,,,0.0,,,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+corn with salt drained boiled cooked white sweet,0.63,2.67,85.0,18.67,0.04,1.335,0.4,23.14,194.02,3.03,0.175,225.17,11.57,0.124,65.33,0.55,0.0,0.149,0.0,9.0,48.0,83.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+corn with salt drained boiled cooked yellow sweet,0.63,2.67,85.0,18.67,0.04,1.335,0.4,23.14,194.02,3.03,0.175,225.17,11.57,0.124,65.33,0.55,0.0,0.149,0.0,1.0,52.0,83.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+corn without salt drained boiled cooked yellow sweet,0.63,2.67,85.0,18.67,0.04,1.335,0.4,23.14,194.02,3.03,0.175,225.17,11.57,0.124,65.33,0.55,0.0,0.149,0.0,17.0,50.0,83.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+biscuits higher fat refrigerated dough plain or buttermilk,1.91,29.58,178.0,26.87,0.05,6.136,1.44,9.86,93.96,3.86,1.627,566.66,1.16,0.037,19.23,0.29,1.998,0.254,,11.0,25.0,61.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+pork raw chitterlings variety meats and byproducts fresh,0.23,18.08,206.0,0.0,0.09,18.769,1.15,6.78,20.34,8.63,8.609,27.12,0.0,0.016,86.0,1.15,0.0,0.058,,,,,Branded Foods,,1,Whole Nutrient
+corn drained solids whole kernel canned white sweet,1.23,4.92,110.0,23.52,0.05,2.001,0.44,21.32,216.48,3.76,0.402,336.2,0.0,0.061,133.51,0.52,0.0,0.11,0.0,12.0,50.0,84.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+pie nobake type prepared from mix chocolate mousse,0.48,21.83,74.0,8.39,0.06,4.366,0.31,9.07,80.8,0.99,2.323,130.41,35.15,0.008,14.09,0.17,,0.035,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+cranberry juice cocktail prepared with water frozen concentrate,0.03,1.48,14.0,3.5,0.0,0.0,0.02,0.59,3.55,0.0,0.0,1.18,0.0,0.003,26.07,0.01,0.0,0.009,,6.0,14.0,,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+broccoli with salt drained boiled cooked chopped frozen,1.31,60.72,52.0,9.84,0.06,0.221,1.12,23.92,261.28,5.7,0.033,20.24,93.84,0.239,166.92,0.52,0.0,0.41,0.0,4.0,89.0,76.0,Foundation Foods,Tomatoes,3,Packaged
+broccoli without salt drained boiled cooked chopped frozen,1.31,60.72,52.0,9.84,0.06,0.221,1.12,23.92,261.28,5.7,0.033,20.24,93.84,0.239,166.92,0.52,0.0,0.41,0.0,4.0,89.0,76.0,Foundation Foods,Tomatoes,3,Packaged
+pork sausage rice links cooked brown and serve,1.0,6.75,183.0,1.06,0.03,16.934,0.5,6.3,95.4,6.17,5.771,310.05,0.0,0.09,19.84,0.65,,0.036,0.41,0.0,19.0,,Branded Foods,,5,Unhealthy & Over-indulgent
+yogurt fortified with vitamin d nonfat fruit variety,1.7,258.4,162.0,32.3,0.02,0.34,0.12,25.5,329.8,7.48,0.202,98.6,3.4,0.068,128.18,1.26,,0.06,2.21,,,,Branded Foods,,3,Packaged
+pork loin lean only raw bonein backribs fresh,1.24,29.38,194.0,0.0,0.1,11.119,0.95,19.21,302.84,23.56,3.929,107.35,3.39,0.525,77.48,3.08,0.094,0.01,1.02,,,,Branded Foods,,4,Keto & Strength
+pork unheated extra lean boneless steak ham cured,1.12,1.13,35.0,0.0,0.02,1.205,0.28,5.39,92.14,5.55,0.408,359.76,0.0,0.105,20.48,0.57,,0.01,,0.0,51.0,135.0,Branded Foods,,2,Frozen & Preserved
+onions with salt drained boiled cooked whole frozen,1.87,56.7,55.0,12.83,0.05,0.105,0.71,16.8,212.1,1.49,0.019,512.4,0.0,0.147,193.7,0.19,0.0,0.084,0.0,3.0,56.0,64.0,Branded Foods,,2,Frozen & Preserved
+potatoes without salt drained boiled cooked whole frozen,1.87,56.7,55.0,12.83,0.05,0.105,0.71,16.8,212.1,1.49,0.019,512.4,0.0,0.147,193.7,0.19,0.0,0.084,0.0,2.0,50.0,109.0,Branded Foods,,2,Frozen & Preserved
+onions with salt drained boiled cooked chopped frozen,1.87,56.7,55.0,12.83,0.05,0.105,0.71,16.8,212.1,1.49,0.019,512.4,0.0,0.147,193.7,0.19,0.0,0.084,0.0,0.0,56.0,64.0,Branded Foods,,2,Frozen & Preserved
+salad dressing without salt reduced fat french dressing,0.38,1.76,37.0,4.68,0.03,2.154,0.14,1.28,17.12,0.09,0.176,4.8,4.32,0.009,8.68,0.03,,0.018,,33.0,15.0,,Branded Foods,,1,Whole Nutrient
+pork loin lean only cookedroasted bonein backribs fresh,0.92,37.4,217.0,0.0,0.09,15.002,0.82,14.45,211.65,20.53,5.288,83.3,3.4,0.368,48.94,2.75,0.135,0.009,1.02,,,,Branded Foods,,4,Keto & Strength
+tomatoes packed in tomato juice canned ripe red,1.78,79.2,38.0,8.33,0.12,0.6,1.37,24.0,458.4,1.9,0.082,276.0,48.0,0.266,227.4,0.29,0.0,0.163,0.0,3.0,87.0,68.0,Branded Foods,,2,Frozen & Preserved
+boo berry razzle boo blitz fruit rollups by ,,,50.0,11.0,,1.0,,,,0.0,0.5,49.98,,,,,0.0,,,,,,Foundation Foods,Tomatoes,0,Confectionaries
+chicken raw meat and skin cornish game hens,0.68,9.35,170.0,0.0,0.04,11.917,0.66,15.3,200.6,14.58,3.307,51.85,27.2,0.251,57.95,0.98,,0.014,,0.0,29.0,131.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+babyfood strained without ascorbic acid fruit dessert dessert,0.04,1.35,8.9,2.4,0.0,0.0,0.03,0.75,14.1,0.04,0.0,0.0,1.05,0.006,12.51,0.01,,,0.0,1.0,25.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood junior without ascorbic acid fruit dessert dessert,0.04,1.35,8.9,2.4,0.0,0.0,0.03,0.75,14.1,0.04,0.0,0.0,1.05,0.006,12.51,0.01,,,0.0,1.0,25.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+potatoes whole milk and butter added homeprepared mashed,3.46,44.1,237.0,35.57,0.33,8.82,0.55,39.9,684.6,4.12,1.564,699.3,92.4,0.519,158.03,0.63,1.086,0.237,0.42,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+potatoes whole milk and margarine added homeprepared mashed,3.46,44.1,237.0,35.57,0.33,8.82,0.55,39.9,684.6,4.12,1.564,699.3,92.4,0.519,158.03,0.63,1.086,0.237,0.42,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+margarine with salt tub composite 80 fat regular,0.25,0.43,101.0,0.11,0.0,11.384,0.0,0.14,2.41,0.03,2.02,93.29,116.3,0.0,2.42,0.0,0.827,0.0,0.0,0.0,14.0,,Branded Foods,,0,Confectionaries
+margarine with salt stick composite 80 fat regular,0.25,0.43,101.0,0.11,0.0,11.384,0.0,0.14,2.41,0.03,2.02,93.29,116.3,0.0,2.42,0.0,0.827,0.0,0.0,0.0,13.0,,Branded Foods,,0,Confectionaries
+pork raw heart variety meats and byproducts fresh,0.24,1.42,33.0,0.38,0.12,1.236,1.33,5.39,83.35,4.9,0.329,15.88,2.27,0.111,21.61,0.79,,0.018,,,,,Branded Foods,,4,Keto & Strength
+margarinelike without salt stick 80 fat buttermargarine blend,0.28,3.92,101.0,0.08,0.0,11.298,0.01,0.28,5.18,0.13,3.767,3.92,114.66,0.001,2.21,0.0,,,0.04,,,,Branded Foods,,1,Whole Nutrient
+frostings prepared with margarine dry mix creamy vanilla,0.16,1.98,136.0,24.51,0.01,4.204,0.0,0.66,3.3,0.11,0.574,37.62,26.4,0.001,4.02,0.0,,,,14.0,2.0,69.0,Branded Foods,,1,Whole Nutrient
+puddings dry mix instant low calorie chocolate flavor,0.98,12.47,35.0,7.74,0.08,0.238,0.31,8.81,126.62,0.52,0.097,280.96,0.0,0.004,0.42,0.04,,0.07,0.0,5.0,9.0,,Branded Foods,,2,Frozen & Preserved
+salad dressing low calorie blue or roquefort cheese,0.8,13.35,15.0,0.43,0.0,1.08,0.07,1.05,0.75,0.77,0.386,140.85,0.0,0.003,11.93,0.04,,,0.0,7.0,30.0,,Branded Foods,,2,Frozen & Preserved
+babyfood junior bananas and pineapple with tapioca fruit,0.03,1.05,10.0,2.76,0.01,0.015,0.02,0.9,11.7,0.03,0.005,0.0,0.3,0.014,12.16,0.0,,,0.0,1.0,27.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+alcoholic beverage gewurztraminer late harvest white table wine,0.06,,33.0,3.47,,0.0,,,,0.02,,,,,24.22,,0.0,,,,,,,,2,Frozen & Preserved
+egg custards prepared with 2 milk dry mix,1.41,205.86,158.0,24.83,0.02,3.99,0.47,23.97,301.74,5.82,2.08,122.67,86.01,0.093,104.96,0.86,0.11,0.023,1.55,3.0,39.0,144.0,Branded Foods,Honey,0,Confectionaries
+puddings prepared with 2 milk dry mix tapioca,1.09,131.84,147.0,24.87,0.02,3.699,0.08,15.36,167.68,3.64,2.207,153.6,32.0,0.042,94.68,0.44,,0.012,1.15,3.0,31.0,139.0,Branded Foods,,0,Confectionaries
+puddings prepared with whole milk dry mix tapioca,1.09,131.84,147.0,24.87,0.02,3.699,0.08,15.36,167.68,3.64,2.207,153.6,32.0,0.042,94.68,0.44,,0.012,1.15,3.0,27.0,138.0,Branded Foods,,0,Confectionaries
+rennin prepared with 2 milk dry mix vanilla,1.04,171.82,109.0,17.52,0.02,2.513,0.07,18.46,201.64,4.35,1.507,65.32,72.42,0.057,116.6,0.51,,0.004,1.28,2.0,40.0,139.0,Branded Foods,,3,Packaged
+rennin prepared with 2 milk dry mix chocolate,1.15,178.92,121.0,19.13,0.12,2.925,0.43,28.4,258.44,4.6,1.748,73.84,71.0,0.06,114.15,0.72,,0.094,1.28,2.0,46.0,133.0,Branded Foods,,3,Packaged
+corn with salt drained boiled cooked yellow sweet,0.63,2.67,85.0,18.67,0.04,1.335,0.4,23.14,194.02,3.03,0.175,0.89,11.57,0.124,65.33,0.55,0.0,0.149,0.0,1.0,52.0,83.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+corn without salt drained boiled cooked yellow sweet,0.63,2.67,85.0,18.67,0.04,1.335,0.4,23.14,194.02,3.03,0.175,0.89,11.57,0.124,65.33,0.55,0.0,0.149,0.0,17.0,50.0,83.0,Branded Foods,Crusts_AND_Dough,1,Whole Nutrient
+beans drained solids canned sprouted mature seeds mung,0.38,17.5,15.0,2.67,0.2,0.075,0.54,11.25,33.75,1.75,0.02,52.5,0.0,0.04,120.12,0.35,0.0,0.091,0.0,2.0,69.0,74.0,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+restaurant spaghetti with pomodoro sauce no meat italian,4.54,76.5,530.0,90.63,0.38,9.639,4.59,81.6,714.0,19.89,1.867,974.1,51.0,0.428,385.36,1.78,0.041,1.096,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+puddings prepared with 2 milk dry mix tapioca,1.11,134.4,134.0,25.04,0.02,2.138,0.08,15.36,170.24,3.69,1.268,154.88,60.16,0.042,96.01,0.45,,0.009,1.15,3.0,31.0,139.0,Branded Foods,,0,Confectionaries
+puddings prepared with whole milk dry mix tapioca,1.11,134.4,134.0,25.04,0.02,2.138,0.08,15.36,170.24,3.69,1.268,154.88,60.16,0.042,96.01,0.45,,0.009,1.15,3.0,27.0,138.0,Branded Foods,,0,Confectionaries
+chicken raw meat only neck broilers or fryers,0.04,1.62,9.2,0.0,0.01,0.527,0.12,1.02,10.5,1.05,0.135,4.86,2.64,0.017,4.27,0.16,,0.002,,0.0,42.0,136.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+puddings with no added salt dry mix tapioca,1.29,3.68,339.0,86.76,0.03,0.092,0.11,1.84,4.6,0.09,,7.36,0.0,0.029,3.68,0.07,,0.03,,60.0,0.0,78.0,Branded Foods,,1,Whole Nutrient
+mustard greens with salt drained boiled cooked frozen,0.7,124.64,24.0,4.08,0.12,0.344,1.59,21.32,183.68,2.75,0.081,205.82,441.16,0.055,74.13,0.34,0.0,0.389,0.0,1.0,88.0,56.0,Branded Foods,,2,Frozen & Preserved
+turnip greens with salt drained boiled cooked frozen,0.7,124.64,24.0,4.08,0.12,0.344,1.59,21.32,183.68,2.75,0.081,205.82,441.16,0.055,74.13,0.34,0.0,0.389,0.0,3.0,90.0,128.0,Branded Foods,,2,Frozen & Preserved
+onions with salt drained boiled cooked whole frozen,0.57,7.0,65.0,14.52,0.08,0.13,0.84,11.0,287.0,1.98,0.034,20.0,0.0,0.202,82.8,0.25,0.0,0.185,0.0,3.0,56.0,64.0,Branded Foods,,3,Packaged
+potatoes without salt drained boiled cooked whole frozen,0.57,7.0,65.0,14.52,0.08,0.13,0.84,11.0,287.0,1.98,0.034,20.0,0.0,0.202,82.8,0.25,0.0,0.185,0.0,2.0,50.0,109.0,Branded Foods,,3,Packaged
+babyfood mixed fruit juice with low fat yogurt,0.2,25.52,23.0,4.62,0.01,0.252,0.06,3.15,43.16,0.76,0.163,11.34,1.57,0.016,25.67,0.04,,,0.0,2.0,40.0,,Standard Reference Foods,Baked_Products,3,Packaged
+crackers low salt includes oyster soda soup saltines,0.47,16.9,60.0,10.56,0.02,1.257,0.73,3.55,102.81,1.35,0.284,28.12,0.0,0.009,0.57,0.12,0.063,0.119,0.0,23.0,33.0,47.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+babyfood junior spaghetti and tomato and meat dinner,0.08,2.4,11.0,1.83,0.0,0.219,0.08,1.76,19.52,0.41,0.087,4.8,10.08,0.01,13.47,0.08,,0.019,0.0,1.0,48.0,,Standard Reference Foods,Baked_Products,3,Packaged
+margarine with salt tub composite 80 fat regular,0.27,0.42,100.0,0.1,0.0,11.299,0.01,0.42,2.52,0.02,2.126,105.14,114.66,0.001,2.31,0.0,2.085,,0.0,0.0,14.0,,Branded Foods,,0,Confectionaries
+margarine with salt stick composite 80 fat regular,0.27,0.42,100.0,0.1,0.0,11.299,0.01,0.42,2.52,0.02,2.126,105.14,114.66,0.001,2.31,0.0,2.085,,0.0,0.0,13.0,,Branded Foods,,0,Confectionaries
+doritos salsa verde 2125z bag by frito lay,,19.88,140.0,19.0,,7.0,0.36,15.96,,2.0,1.0,210.0,,0.08,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+beverages with added ascorbic acid lemon instant tea,0.25,0.69,89.0,22.45,0.01,0.069,0.04,2.53,49.91,0.14,0.009,1.15,0.0,0.005,0.07,0.02,0.0,0.682,,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+cookies lower fat regular commercially prepared chocolate chip,0.43,0.0,153.0,22.95,0.07,6.089,1.09,10.88,45.56,2.03,2.027,142.12,0.0,0.007,2.5,0.2,0.0,0.134,0.0,5.0,18.0,75.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+gourd without salt drained boiled cooked dishcloth towelgourd,1.71,16.02,96.0,24.48,0.15,0.605,0.64,35.6,806.34,1.17,0.048,457.46,,0.176,150.04,0.3,0.0,0.397,0.0,8.0,46.0,,Branded Foods,,2,Frozen & Preserved
+gourd with salt drained boiled cooked dishcloth towelgourd,1.71,16.02,96.0,24.48,0.15,0.605,0.64,35.6,806.34,1.17,0.048,457.46,,0.176,150.04,0.3,0.0,0.397,0.0,8.0,39.0,,Branded Foods,,2,Frozen & Preserved
+beverages tonic water carbonated,0.03,0.3,10.0,2.68,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.66,0.0,0.0,27.79,0.03,0.0,0.0,0.0,0.0,1.0,0.0,Foundation Foods,Tomatoes,3,Packaged
+alcoholic beverage whiskey sour,0.03,0.3,45.0,4.0,0.0,0.009,0.02,0.3,1.52,0.0,0.002,6.08,,0.0,22.07,0.02,0.0,0.002,,1.0,3.0,0.0,,,1,Whole Nutrient
+ostrich cooked outside strip,0.71,4.25,133.0,0.0,0.13,3.256,3.65,22.1,311.95,24.27,1.216,61.2,0.0,0.464,56.85,4.17,,0.016,,0.0,49.0,128.0,Branded Foods,,4,Keto & Strength
+syrups pancake table blends,0.63,9.42,735.0,193.02,0.0,0.0,0.09,6.28,47.1,0.0,0.0,257.48,0.0,0.0,119.26,0.25,,0.214,0.0,106.0,1.0,0.0,Branded Foods,,3,Packaged
+beverages regular cola carbonated,0.01,0.31,13.0,3.18,0.0,0.077,0.01,0.0,1.53,0.0,0.0,0.92,0.0,0.0,27.43,0.03,0.0,0.001,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+gourd raw dishcloth towelgourd,0.38,19.0,19.0,4.13,0.03,0.19,0.34,13.3,132.05,1.14,0.015,2.85,,0.041,89.16,0.07,0.0,0.087,0.0,2.0,74.0,,Branded Foods,,1,Whole Nutrient
+cheese hard type goat,1.05,253.73,128.0,0.62,0.18,10.09,0.53,15.31,13.61,8.65,6.977,119.92,137.78,0.023,8.22,0.45,,0.071,0.2,0.0,39.0,125.0,Branded Foods,Other_Condiments,0,Confectionaries
+restaurant cheese enchilada mexican,5.98,766.16,666.0,37.7,0.13,45.067,1.61,70.76,341.6,27.43,20.411,1288.32,500.2,0.298,127.81,4.47,1.318,0.288,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+babyfood strained veal meat,0.08,0.73,12.0,0.36,0.02,0.37,0.14,1.62,27.49,1.77,0.173,6.03,0.0,0.006,12.12,0.33,,0.005,0.06,0.0,40.0,,Standard Reference Foods,Baked_Products,4,Keto & Strength
+babyfood strained beef meat,0.08,0.73,12.0,0.36,0.02,0.37,0.14,1.62,27.49,1.77,0.173,6.03,0.0,0.006,12.12,0.33,,0.005,0.06,0.0,45.0,,Standard Reference Foods,Baked_Products,4,Keto & Strength
+corned beef loaf jellied,0.84,3.08,43.0,0.0,0.02,1.708,0.57,3.08,28.28,6.41,0.728,266.84,0.0,0.034,19.35,1.15,,0.009,,0.0,32.0,103.0,Branded Foods,Crusts_AND_Dough,2,Frozen & Preserved
+beverages canned grape drink,0.03,16.28,19.0,4.92,0.0,0.0,0.02,0.31,3.76,0.0,0.0,5.01,0.0,0.001,26.35,0.04,0.0,0.008,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+snacks pieces fruit leather,0.34,5.1,102.0,23.48,0.05,0.76,0.21,3.97,46.49,0.28,0.184,56.42,0.85,0.085,3.49,0.05,,0.052,0.0,16.0,18.0,,Branded Foods,,3,Packaged
+baking chocolate squares unsweetened,1.04,29.29,186.0,8.24,0.94,15.17,5.05,94.83,240.7,4.15,9.36,6.96,0.0,0.008,0.39,2.79,0.0,1.208,0.0,0.0,42.0,71.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+emu raw outside drum,0.85,2.55,88.0,0.0,0.17,0.408,3.83,24.65,272.0,19.62,0.104,85.0,0.0,0.575,63.64,3.83,,0.021,,0.0,52.0,95.0,Branded Foods,Honey,0,Confectionaries
+luncheon meat canned pork,1.02,1.7,95.0,0.6,0.01,8.59,0.2,2.83,60.95,3.54,3.059,365.43,0.0,0.06,14.6,0.42,,0.007,0.14,1.0,28.0,,Branded Foods,,2,Frozen & Preserved
+babyfood strained pears fruit,0.05,1.28,6.7,1.73,0.01,0.032,0.04,1.28,20.8,0.05,0.002,0.16,0.16,0.001,14.14,0.01,,,0.0,1.0,34.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+egg poached cooked whole,0.73,28.0,72.0,0.35,0.04,4.735,0.88,6.0,69.0,6.25,1.556,148.5,80.0,0.072,37.92,0.65,0.019,0.014,1.0,0.0,49.0,137.0,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+radish seeds raw sprouted,0.2,19.38,16.0,1.37,0.05,0.961,0.33,16.72,32.68,1.45,0.291,2.28,7.6,0.108,34.23,0.21,0.0,0.099,0.0,1.0,76.0,,Branded Foods,,1,Whole Nutrient
+coriander cilantro leaves raw,0.06,2.68,0.9,0.15,0.01,0.021,0.07,1.04,20.84,0.09,0.001,1.84,13.48,0.006,3.69,0.02,0.0,0.017,0.0,0.0,93.0,,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+ice creams light chocolate,0.47,108.12,127.0,17.48,0.07,4.889,0.47,13.6,115.6,3.4,2.978,48.28,48.28,0.016,41.77,0.29,,0.069,0.07,4.0,27.0,,Branded Foods,,3,Packaged
+milk shakes thick chocolate,0.26,37.49,34.0,6.01,0.02,0.767,0.09,4.54,63.62,0.87,0.477,31.52,5.11,0.007,20.5,0.14,,0.011,0.28,3.0,30.0,136.0,Branded Foods,,0,Confectionaries
+peppers canned green chili,1.82,50.04,29.0,6.39,,0.375,1.85,5.56,157.07,1.0,0.039,551.83,8.34,0.167,129.62,0.13,0.0,,0.0,2.0,68.0,87.0,Branded Foods,,2,Frozen & Preserved
+sausage smoked hot turkey,1.71,11.76,88.0,2.6,0.06,4.9,5.38,14.0,110.32,8.43,1.905,512.96,24.08,0.213,38.36,1.19,,,0.11,2.0,52.0,145.0,Branded Foods,,2,Frozen & Preserved
+cheese low fat cream,0.3,22.2,31.0,1.01,0.0,2.501,0.03,1.2,37.05,1.18,1.5,47.55,24.15,0.007,10.01,0.09,,0.002,0.04,11.0,30.0,145.0,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+egg fresh raw yolk,0.29,21.93,55.0,0.61,0.01,4.512,0.46,0.85,18.53,2.7,1.624,8.16,64.77,0.059,8.89,0.39,,0.009,0.92,5.0,50.0,146.0,Branded Foods,Honey,1,Whole Nutrient
+popovers enriched dry mix,0.74,9.07,105.0,20.13,0.05,1.219,0.23,7.09,28.35,2.95,0.279,256.85,0.0,0.012,3.32,0.25,,0.21,,85.0,26.0,47.0,Branded Foods,,5,Unhealthy & Over-indulgent
+popovers unenriched dry mix,0.74,9.07,105.0,20.13,0.05,1.219,0.23,7.09,28.35,2.95,0.279,256.85,0.0,0.012,3.32,0.25,,0.21,,85.0,14.0,47.0,Branded Foods,,5,Unhealthy & Over-indulgent
+crackers low salt wheat,0.4,6.96,67.0,9.22,0.05,2.925,0.62,8.8,28.83,1.22,0.735,26.98,0.0,0.019,0.44,0.23,,0.253,0.0,1.0,29.0,54.0,Branded Foods,Crusts_AND_Dough,3,Packaged
+egg fresh raw white,0.21,2.31,17.0,0.24,0.01,0.056,0.03,3.63,53.79,3.6,0.0,54.78,0.0,0.002,28.9,0.01,,0.004,0.0,2.0,26.0,145.0,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+cheese sliced sharp cheddar,0.7,135.09,78.0,0.4,0.01,6.426,0.03,5.13,14.44,4.61,3.68,122.36,49.97,0.014,6.87,0.71,0.224,0.005,0.19,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+babyfood mixed fruit juice,0.06,2.5,15.0,3.65,0.01,0.031,0.11,1.56,31.51,0.03,0.005,2.5,0.62,0.013,27.42,0.01,,,0.0,1.0,27.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+pie fillings canned blueberry,0.53,40.77,273.0,67.01,0.17,0.302,1.21,15.1,173.65,0.62,0.0,18.12,1.51,0.044,82.54,0.15,,0.325,0.0,57.0,15.0,,Branded Foods,,1,Whole Nutrient
+cheese reduced fat cheddar,0.82,159.81,66.0,0.56,0.01,4.286,0.03,5.67,13.23,5.74,2.646,131.88,30.45,0.018,9.3,0.93,0.154,0.007,0.06,2.0,41.0,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+babyfood strained beets vegetables,0.1,3.84,4.5,0.92,0.0,0.032,0.05,2.24,29.6,0.13,0.003,0.8,13.6,0.011,14.83,0.03,,0.013,0.0,7.0,51.0,51.0,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+babyfood strained squash vegetables,0.1,3.84,4.5,0.92,0.0,0.032,0.05,2.24,29.6,0.13,0.003,0.8,13.6,0.011,14.83,0.03,,0.013,0.0,0.0,71.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+pie commercially prepared pecan,0.27,6.24,115.0,16.9,0.05,4.732,0.26,6.24,28.07,1.28,0.752,77.96,14.46,0.011,5.17,0.25,,0.201,0.03,49.0,16.0,54.0,Branded Foods,,3,Packaged
+bacon and beef sticks,1.2,3.92,145.0,0.22,0.02,12.376,0.52,4.76,107.8,8.15,4.48,397.6,0.0,0.14,6.05,0.9,,0.011,,0.0,24.0,103.0,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+ham cooked smoked honey,1.37,3.3,67.0,4.0,0.02,1.303,0.21,4.4,90.75,9.86,0.479,495.0,0.0,0.127,38.47,0.5,,0.015,,2.0,33.0,,Branded Foods,,2,Frozen & Preserved
+tomatoes cooked ripe red,1.44,26.4,43.0,9.62,0.18,0.264,1.63,21.6,523.2,2.28,0.036,26.4,57.6,0.19,226.42,0.34,0.0,0.252,0.0,4.0,84.0,75.0,Branded Foods,,3,Packaged
+sour cream reduced fat,0.11,16.92,22.0,0.84,0.0,1.692,0.01,1.32,25.32,0.84,1.044,8.4,14.28,0.002,8.52,0.03,,,0.04,8.0,26.0,137.0,Branded Foods,,4,Keto & Strength
+pigeonpeas raw immature seeds,2.16,64.68,209.0,36.78,0.21,2.526,2.46,104.72,850.08,11.09,0.545,7.7,4.62,0.105,101.46,1.6,0.0,0.884,0.0,15.0,65.0,,Branded Foods,,1,Whole Nutrient
+liver sausage pork liverwurst,0.56,4.68,59.0,0.4,0.04,5.13,1.15,2.16,30.6,2.54,1.908,154.8,1495.44,0.034,9.38,0.41,,0.028,,0.0,47.0,123.0,Branded Foods,,5,Unhealthy & Over-indulgent
+ice creams rich vanilla,0.87,125.19,266.0,23.85,0.01,17.334,0.36,11.77,167.99,3.75,11.052,65.27,194.74,0.048,61.2,0.5,,0.004,0.32,12.0,19.0,118.0,Branded Foods,,1,Whole Nutrient
+sausage raw fresh turkey,1.28,10.83,88.0,0.27,0.05,4.606,0.67,10.83,149.34,10.71,1.119,338.01,7.41,0.246,40.14,1.74,0.199,0.012,,0.0,40.0,99.0,Branded Foods,,2,Frozen & Preserved
+meatballs italian style frozen,2.24,68.0,243.0,6.85,0.1,18.879,1.5,26.35,251.6,12.24,6.483,566.1,18.7,0.172,45.62,1.41,0.49,0.24,0.09,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+bologna beef and pork,2.85,85.0,308.0,5.49,0.05,24.59,1.21,17.0,315.0,15.2,9.301,960.0,25.0,0.297,51.87,2.3,0.0,0.018,0.8,3.0,30.0,166.0,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+beverages malt liquor beverage,0.83,35.52,474.0,0.0,0.06,0.0,0.36,59.2,390.72,4.14,0.0,35.52,0.0,0.438,1118.88,0.95,,0.059,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+peppers canned hot pickled,1.37,20.74,7.5,1.55,0.02,0.136,0.11,2.04,38.42,0.27,0.021,486.2,14.62,0.036,30.67,0.03,0.0,0.018,0.0,,,,Branded Foods,,2,Frozen & Preserved
+ostrich cooked top loin,0.71,5.1,132.0,0.0,0.13,3.289,2.81,21.25,300.05,23.9,1.122,65.45,0.0,0.457,57.76,4.01,0.109,0.015,,0.0,49.0,128.0,Branded Foods,,4,Keto & Strength
+ostrich raw inside strip,1.04,4.25,108.0,0.0,0.12,2.44,3.57,19.55,280.5,20.14,0.785,64.6,0.0,0.473,63.04,3.38,,0.016,,0.0,50.0,127.0,Branded Foods,,4,Keto & Strength
+radishes pickled hawaiian style,2.85,42.0,42.0,7.8,0.26,0.45,0.34,12.0,499.5,1.65,0.138,1183.5,0.0,0.15,137.25,0.33,0.0,0.086,0.0,3.0,56.0,,Branded Foods,,2,Frozen & Preserved
+cheese low sodium swiss,0.84,269.08,105.0,0.95,0.01,7.672,0.05,10.08,31.08,7.95,4.968,3.92,60.48,0.022,10.58,1.09,,,0.14,3.0,33.0,,Branded Foods,Other_Condiments,1,Whole Nutrient
+beverages well tap water,0.03,0.89,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,,1.48,,,29.57,0.0,0.0,0.0,,,,,Foundation Foods,Tomatoes,2,Frozen & Preserved
+pie commercially prepared cherry,0.26,3.4,74.0,11.28,0.01,3.119,0.14,2.27,22.96,0.57,0.726,69.74,14.74,0.012,13.1,0.05,,0.04,0.0,26.0,11.0,118.0,Branded Foods,,0,Confectionaries
+turkey and gravy frozen,1.54,11.9,57.0,3.92,0.02,2.236,0.79,6.8,51.85,5.0,0.723,470.9,11.05,0.085,72.31,0.59,,0.004,,12.0,27.0,,Branded Foods,,2,Frozen & Preserved
+babyfood strained beets vegetables,2.02,31.36,76.0,17.25,0.16,0.224,0.72,31.36,407.68,2.91,0.036,185.92,2.24,0.054,201.82,0.27,,,0.0,7.0,51.0,51.0,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+babyfood strained squash vegetables,2.02,31.36,76.0,17.25,0.16,0.224,0.72,31.36,407.68,2.91,0.036,185.92,2.24,0.054,201.82,0.27,,,0.0,0.0,71.0,,Standard Reference Foods,Baked_Products,5,Unhealthy & Over-indulgent
+danish pastry unenriched cinnamon,0.48,20.13,114.0,12.64,0.03,6.35,0.22,5.39,35.44,1.98,1.611,105.18,1.13,0.011,6.89,0.2,,0.103,,35.0,12.0,83.0,Branded Foods,Crusts_AND_Dough,0,Confectionaries
+babyfood strained pork meat,0.28,1.42,35.0,0.0,0.02,2.013,0.28,2.83,63.22,3.97,0.68,11.91,3.12,0.058,22.23,0.64,,,,0.0,40.0,139.0,Standard Reference Foods,Baked_Products,4,Keto & Strength
+lemonade pink frozen concentrate,0.05,2.91,70.0,17.79,0.0,0.251,0.03,2.55,27.66,0.08,0.009,1.46,0.0,0.005,18.23,0.01,0.0,0.005,,9.0,15.0,,Branded Foods,,1,Whole Nutrient
+beverages powder rich chocolate,0.63,99.99,41.0,10.23,0.2,0.0,1.8,23.98,0.0,0.0,0.0,69.96,150.15,0.2,0.14,1.5,0.0,,1.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+fish oil cod liver,0.0,0.0,41.0,0.0,0.0,4.5,0.0,0.0,0.0,0.0,1.017,0.0,1350.0,0.0,0.0,0.0,,0.0,11.25,0.0,11.0,0.0,Branded Foods,,1,Whole Nutrient
+bread bollilo mexican roll,1.7,40.18,312.0,54.65,0.13,5.684,3.82,29.4,128.38,10.44,1.373,495.88,0.98,0.103,25.53,0.86,0.852,0.666,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+pork raw belly fresh,0.55,5.65,585.0,0.0,0.06,59.901,0.59,4.52,209.05,10.55,21.843,36.16,3.39,0.147,41.52,1.15,,0.007,,0.0,10.0,,Branded Foods,,1,Whole Nutrient
+cheese queso cotija mexican,0.4,40.0,18.0,0.2,0.01,1.5,0.0,1.9,6.25,1.0,0.875,70.0,11.45,0.002,1.9,0.19,0.0,,0.03,,,,Branded Foods,Other_Condiments,2,Frozen & Preserved
+beverages club soda carbonated,0.03,1.48,0.0,0.0,0.0,0.0,0.0,0.3,0.59,0.0,0.0,6.22,0.0,0.0,29.57,0.03,0.0,0.0,0.0,0.0,5.0,0.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+hyacinthbeans raw immature seeds,0.51,40.0,37.0,7.35,0.04,0.16,0.59,32.0,201.6,1.68,0.07,1.6,34.4,0.019,70.3,0.3,0.0,0.164,0.0,,,,Branded Foods,,1,Whole Nutrient
+babyfood junior cherry cobbler,0.05,1.42,22.0,5.44,0.0,0.028,0.03,0.57,12.76,0.09,0.006,0.0,0.57,0.006,22.62,0.01,,0.006,0.0,2.0,15.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+emu raw fan fillet,0.94,2.55,88.0,0.0,0.18,0.68,3.83,35.7,255.0,19.12,0.171,102.0,0.0,0.539,63.43,2.98,,0.025,,0.0,54.0,95.0,Branded Foods,Honey,0,Confectionaries
+pancakes reduced fat plain,1.81,59.85,282.0,60.19,0.1,1.995,1.8,16.8,101.85,6.0,0.0,450.45,7.35,0.041,35.01,0.55,0.0,,0.1,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+restaurant sesame chicken chinese,9.52,65.64,1603.0,147.03,0.28,77.948,5.96,120.34,1115.88,78.39,13.183,2636.54,454.01,1.46,234.12,4.98,0.246,0.454,0.55,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+sausage smoked turkey italian,1.71,11.76,88.0,2.6,0.06,4.9,5.38,14.0,110.32,8.43,1.905,519.68,24.08,0.213,38.36,1.19,,0.037,,2.0,54.0,,Branded Foods,,2,Frozen & Preserved
+babyfood junior squash vegetables,0.1,3.84,3.8,0.92,0.0,0.032,0.05,2.24,29.6,0.13,0.003,0.8,13.6,0.011,14.83,0.03,,0.013,0.0,0.0,76.0,,Standard Reference Foods,Baked_Products,1,Whole Nutrient
+light ice cream creamsicle,0.87,62.0,165.0,32.75,0.02,3.08,0.0,12.0,174.0,1.54,1.813,46.0,93.0,0.038,61.77,0.66,,0.007,0.1,,,,Branded Foods,,1,Whole Nutrient
+dennys mozzarella cheese sticks,8.48,754.68,739.0,62.06,0.15,40.744,1.92,47.88,275.88,30.92,15.146,2298.24,218.88,0.192,85.8,4.51,0.848,0.828,,,,,Branded Foods,Honey,5,Unhealthy & Over-indulgent
+beverages root beer carbonated,0.03,1.54,13.0,3.26,0.0,0.0,0.02,0.31,0.31,0.0,0.0,4.0,0.0,0.0,27.5,0.02,0.0,0.004,0.0,1.0,3.0,0.0,Foundation Foods,Tomatoes,3,Packaged
+radishes raw white icicle,0.4,13.5,7.0,1.31,0.05,0.05,0.4,4.5,140.0,0.55,0.015,8.0,0.0,0.037,47.69,0.07,0.0,0.017,0.0,1.0,74.0,69.0,Branded Foods,,0,Confectionaries
+peppers sauteed red sweet,0.74,7.42,141.0,6.96,0.02,13.515,0.5,12.72,204.58,1.1,1.65,22.26,146.28,0.386,83.69,0.16,0.0,0.122,0.0,1.0,42.0,65.0,Branded Foods,,1,Whole Nutrient
+candies with almonds nougat,0.06,4.48,56.0,12.93,0.02,0.234,0.08,4.48,14.7,0.47,0.233,4.62,0.0,0.003,0.3,0.06,,0.043,0.0,9.0,11.0,,Branded Foods,Powdered_Drinks,1,Whole Nutrient
+poultry salad sandwich spread,0.16,1.3,26.0,0.96,0.0,1.758,0.08,1.3,23.79,1.51,0.449,84.89,5.46,0.014,8.6,0.14,,0.001,0.03,1.0,23.0,137.0,Branded Foods,,5,Unhealthy & Over-indulgent
+asparagus drained solids canned,1.86,38.72,46.0,5.95,0.23,1.573,4.43,24.2,416.24,5.18,0.356,694.54,99.22,0.266,227.43,0.97,0.0,0.411,0.0,3.0,92.0,79.0,Standard Reference Foods,Baked_Products,2,Frozen & Preserved
+beef smoked cured chopped,1.29,2.24,37.0,0.52,0.01,1.238,0.8,5.88,105.56,5.65,0.507,352.24,0.0,0.098,19.3,1.1,,0.008,,1.0,44.0,117.0,Foundation Foods,Tomatoes,2,Frozen & Preserved
+babyfood strained veal meat,0.09,0.96,13.0,0.24,0.02,0.392,0.12,1.76,27.2,2.1,0.17,6.24,0.0,0.008,13.18,0.4,,0.006,0.11,0.0,40.0,,Standard Reference Foods,Baked_Products,4,Keto & Strength
+babyfood strained beef meat,0.09,0.96,13.0,0.24,0.02,0.392,0.12,1.76,27.2,2.1,0.17,6.24,0.0,0.008,13.18,0.4,,0.006,0.11,0.0,45.0,,Standard Reference Foods,Baked_Products,4,Keto & Strength
+popovers enriched dry mix,0.74,9.07,105.0,20.13,0.05,1.219,0.84,7.09,28.35,2.95,0.279,256.85,0.0,0.012,3.32,0.25,,0.21,,85.0,26.0,47.0,Branded Foods,,5,Unhealthy & Over-indulgent
+popovers unenriched dry mix,0.74,9.07,105.0,20.13,0.05,1.219,0.84,7.09,28.35,2.95,0.279,256.85,0.0,0.012,3.32,0.25,,0.21,,85.0,14.0,47.0,Branded Foods,,5,Unhealthy & Over-indulgent
+fungi dried cloud ears,0.62,44.52,80.0,20.44,0.05,0.204,1.65,23.24,211.12,2.59,,9.8,0.0,0.031,4.14,0.37,0.0,0.546,0.0,1.0,49.0,,Branded Foods,,1,Whole Nutrient
+doritos nacho cheese tortilla chips 175 ounce plastic bag by frito lay,,19.84,240.0,28.0,,14.002,0.36,,,3.0,1.999,360.1,,0.08,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+betty crocker frozen fruit snacks 10 count by general mills sales inc,,,80.0,19.0,,0.0,,,,0.0,0.0,34.96,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+pork raw separable lean and fat boneless top loin chops loin fresh,1.1,7.91,175.0,0.0,0.06,7.842,0.56,29.38,421.49,24.35,2.769,54.24,1.13,0.82,79.53,1.75,0.072,0.008,0.45,0.0,39.0,151.0,Branded Foods,,4,Keto & Strength
+rolls and corn starch rice starch made with rice flour white glutenfree,1.2,140.4,186.0,39.37,0.07,2.067,2.78,10.14,59.28,2.61,0.168,462.54,0.0,0.029,32.76,0.44,0.006,0.161,0.0,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+chicken raw meat and skin and giblets and neck broilers or fryers,0.68,9.35,181.0,0.11,0.05,12.605,1.11,17.0,160.65,15.58,3.604,59.5,197.2,0.289,56.39,1.26,,0.025,,1.0,39.0,133.0,Branded Foods,Canned_Tuna,4,Keto & Strength
+food should taste good guacamole tortilla chips by general mills sales inc,,29.96,130.0,18.0,,5.001,0.8,,120.12,2.0,0.501,210.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+food should taste good cheddar tortilla chips by general mills sales inc,,29.96,130.0,18.0,,5.001,0.8,,120.12,2.0,0.501,210.0,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+pork raw separable lean only boneless sirloin chops or roasts loin fresh,1.25,6.78,139.0,0.93,0.06,4.271,0.87,24.86,423.75,24.13,1.564,73.45,3.39,0.65,82.42,2.06,0.044,0.011,0.45,0.0,44.0,146.0,Branded Foods,,4,Keto & Strength
+pork raw separable lean only boneless blade chops or roasts loin fresh,1.25,6.78,139.0,0.93,0.06,4.271,0.87,24.86,423.75,24.13,1.564,73.45,3.39,0.65,82.42,2.06,0.044,0.011,0.45,,,,Branded Foods,,4,Keto & Strength
+creamy dressing reduced calorie made with sour cream andor buttermilk and oil,0.46,0.9,24.0,1.05,0.0,2.1,0.02,0.3,5.4,0.23,0.317,124.95,1.65,0.004,11.1,0.01,,,0.0,,,,Branded Foods,Crusts_AND_Dough,2,Frozen & Preserved
+pork roasted extra lean approximately 5 fat low sodium boneless ham cured,3.74,6.8,123.0,1.27,0.07,4.675,1.26,11.9,243.95,17.76,1.531,823.65,0.0,0.34,57.55,2.45,,,0.68,0.0,39.0,,Branded Foods,,2,Frozen & Preserved
+act ii butter microwave popcorn 3count 16oz mini bags by conagra brands,,0.0,180.0,27.0,,8.001,0.72,,0.0,4.0,3.501,350.1,,,,,0.0,,,,,,,,5,Unhealthy & Over-indulgent
+pork roasted cooked separable lean only bonein center rib roasts loin fresh,0.97,11.05,175.0,0.0,0.07,7.829,0.87,18.7,243.95,24.5,2.766,80.75,2.55,0.439,52.22,2.63,0.046,0.006,0.51,,,,Branded Foods,,4,Keto & Strength
+gardettos reduced fat original recipe snack mix by general mills sales inc,,0.0,200.0,33.0,,5.998,1.08,,,4.0,0.998,519.8,,,,,0.0,,,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+pork roasted cooked boneless separable lean and fat countrystyle ribs loin fresh,0.99,11.05,230.0,0.0,0.07,15.563,0.77,20.4,374.85,22.44,5.594,59.5,3.4,0.409,46.42,2.06,0.051,0.013,0.77,,,,Branded Foods,,4,Keto & Strength
+pork broiled cooked boneless separable lean and fat countrystyle ribs loin fresh,0.99,11.05,230.0,0.0,0.07,15.563,0.77,20.4,374.85,22.44,5.594,59.5,3.4,0.409,46.42,2.06,0.051,0.013,0.77,,,,Branded Foods,,4,Keto & Strength
+pork roasted cooked boneless separable lean and fat countrystyle ribs loin fresh,0.89,6.8,210.0,0.0,0.06,13.37,0.76,20.4,346.8,22.34,3.747,49.3,3.4,0.465,48.83,1.98,0.031,0.008,1.02,,,,Branded Foods,,4,Keto & Strength
+pork broiled cooked boneless separable lean and fat countrystyle ribs loin fresh,0.89,6.8,210.0,0.0,0.06,13.37,0.76,20.4,346.8,22.34,3.747,49.3,3.4,0.465,48.83,1.98,0.031,0.008,1.02,,,,Branded Foods,,4,Keto & Strength
+doritos dinamita fiery habanero rolled tortilla chips 1125 ounces by frito lay,,0.0,160.0,18.0,,8.999,0.0,,,2.0,0.999,200.02,,,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+annies organic berry patch bunny fruit snacks by general mills sales inc,,0.0,250.0,63.0,,0.0,0.0,,,0.0,0.0,180.18,,,,,0.0,,,,,,,,3,Packaged
+chicken roasted cooked with added solution meat and skin drumstick dark meat,0.99,11.05,153.0,0.04,0.07,7.65,0.94,17.0,207.4,21.01,2.258,158.1,10.2,0.327,56.07,2.12,0.05,0.009,0.17,,,,Branded Foods,Canned_Tuna,0,Confectionaries
+cheetos crunchy flamin hot limon cheese flavored snacks 237z by frito lay,,0.0,160.0,13.0,,11.001,0.36,,,1.0,1.501,260.12,,,,,0.0,,,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+pork roasted cooked separable lean only boneless top loin roasts loin fresh,0.86,5.1,147.0,0.0,0.07,5.338,0.54,22.1,303.45,23.15,1.638,39.95,0.0,0.606,55.76,1.84,0.043,0.006,0.34,0.0,37.0,151.0,Branded Foods,,4,Keto & Strength
+pork unheated separable lean and fat boneless whole ham  water added cured,2.74,5.1,146.0,0.68,0.08,10.625,0.87,12.75,169.15,11.89,3.55,908.65,8.5,0.213,59.07,1.13,0.085,0.019,,0.0,42.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean and fat bonein rump ham  water added cured,2.74,5.1,146.0,0.68,0.08,10.625,0.87,12.75,169.15,11.89,3.55,908.65,8.5,0.213,59.07,1.13,0.085,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean only boneless whole ham and water product cured,3.41,6.8,99.0,3.59,0.09,4.131,0.66,14.45,227.8,11.96,1.23,1113.5,11.05,0.25,62.09,1.36,0.031,0.034,0.51,16.0,40.0,134.0,Branded Foods,,2,Frozen & Preserved
+crunch n munch caramel popcorn with peanuts 10 oz by conagra brands,,0.0,160.0,22.0,,7.0,0.0,,0.0,2.0,2.0,100.13,,,,,0.0,,,,,,Branded Foods,Crusts_AND_Dough,3,Packaged
+pork broiled cooked separable lean and fat bonein blade chops loin fresh,0.99,47.6,196.0,0.0,0.09,12.197,0.74,17.0,267.75,20.16,3.688,62.9,3.4,0.416,52.23,2.68,0.056,0.009,0.85,,,,Branded Foods,,4,Keto & Strength
+bread and eggs 80 margarine prepared with 2 milk dry mix cornbread,1.15,68.85,168.0,27.77,0.04,4.886,0.94,8.67,67.83,3.36,1.903,305.49,17.85,0.043,13.83,0.34,0.114,0.113,0.0,,,,Foundation Foods,Tomatoes,5,Unhealthy & Over-indulgent
+chicken cooked meat and skin thigh original seasoning rotisserie broilers or fryers,1.46,12.75,156.0,0.02,0.04,6.953,0.47,22.1,245.65,23.36,1.797,294.95,10.2,0.254,53.97,0.78,0.084,0.014,,0.0,30.0,124.0,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+chicken cooked meat and skin breast original seasoning rotisserie broilers or fryers,1.46,12.75,156.0,0.02,0.04,6.953,0.47,22.1,245.65,23.36,1.797,294.95,10.2,0.254,53.97,0.78,0.084,0.014,,0.0,32.0,100.0,Branded Foods,Canned_Tuna,5,Unhealthy & Over-indulgent
+beverages assorted fruit flavors sweetened bottles water with added vitamins and minerals,0.17,40.29,52.0,13.01,0.02,0.0,0.0,7.11,0.0,0.0,0.0,0.0,75.84,0.199,223.82,0.76,0.0,,0.0,,,,Foundation Foods,Tomatoes,1,Whole Nutrient
+turkey from whole raw with added solution meat and skin light meat,1.48,15.82,166.0,0.16,0.06,8.385,0.61,24.86,248.6,22.62,1.526,220.35,21.47,0.763,81.46,1.38,0.149,0.008,0.34,,,,Branded Foods,,0,Confectionaries
+food should taste good guacamole tortilla chips by general mills sales inc,,40.04,130.0,17.0,,6.0,0.6,,0.0,2.0,1.0,169.96,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+food should taste good cheddar tortilla chips by general mills sales inc,,40.04,130.0,17.0,,6.0,0.6,,0.0,2.0,1.0,169.96,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+doritos tapatio hot sauce tortilla chips 11 ounce bag by frito lay,,0.0,140.0,16.0,,8.0,0.36,,,2.0,1.501,169.96,,0.04,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+chicken batter fried cooked meat and skin dark meat broilers or fryers,1.11,17.85,253.0,7.97,0.07,15.844,1.22,17.0,157.25,18.57,4.207,250.75,26.35,0.212,41.5,1.77,,0.049,,8.0,27.0,134.0,Branded Foods,Canned_Tuna,0,Confectionaries
+turkey from whole roasted cooked with added solution meat only light meat,1.22,11.05,108.0,0.0,0.05,1.768,0.47,25.5,211.65,22.92,0.504,202.3,2.55,0.592,59.65,1.27,0.02,0.009,0.26,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+pork raw separable lean only boneless sirloin chops or roasts loin fresh,1.47,10.17,137.0,0.0,0.08,2.927,0.63,25.99,400.02,25.78,1.024,71.19,2.26,0.69,83.96,1.94,0.008,0.012,0.45,0.0,44.0,146.0,Branded Foods,,4,Keto & Strength
+pork raw separable lean only boneless blade chops or roasts loin fresh,1.47,10.17,137.0,0.0,0.08,2.927,0.63,25.99,400.02,25.78,1.024,71.19,2.26,0.69,83.96,1.94,0.008,0.012,0.45,,,,Branded Foods,,4,Keto & Strength
+motts berry flavored fruit snacks 10 count by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+candies candy bar soft nougats peanut butter milk chocolate reeses fast break,1.29,20.16,277.0,35.78,0.18,12.998,0.36,33.6,143.92,5.0,4.5,179.76,7.84,0.034,0.93,0.81,0.0,0.407,0.0,22.0,16.0,,Branded Foods,Powdered_Drinks,3,Packaged
+pork unheated separable lean and fat boneless whole ham  water added cured,2.99,6.8,103.0,1.21,0.09,4.573,0.72,16.15,265.2,14.5,1.606,957.1,11.05,0.346,61.92,1.5,0.04,0.019,0.51,0.0,42.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork unheated separable lean and fat bonein rump ham  water added cured,2.99,6.8,103.0,1.21,0.09,4.573,0.72,16.15,265.2,14.5,1.606,957.1,11.05,0.346,61.92,1.5,0.04,0.019,0.51,,,,Branded Foods,,2,Frozen & Preserved
+corn with salt drained boiled cooked kernels on cob frozen white sweet,1.02,4.95,155.0,36.84,0.08,1.221,1.01,47.85,414.15,5.13,0.188,396.0,0.0,0.37,120.78,1.04,0.0,0.234,0.0,6.0,48.0,83.0,Branded Foods,Crusts_AND_Dough,5,Unhealthy & Over-indulgent
+pork roasted cooked separable lean and fat shank half leg ham fresh,0.94,12.75,197.0,0.0,0.1,11.407,0.74,18.7,293.25,22.07,3.918,68.85,3.4,0.376,51.31,2.06,0.079,0.014,0.51,0.0,31.0,143.0,Branded Foods,,4,Keto & Strength
+pork unheated separable lean only bonein rump ham with natural juices cured,2.52,7.65,104.0,0.37,0.09,2.95,0.89,17.85,257.55,19.3,0.986,759.05,8.5,0.286,60.18,2.04,0.025,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+chex mix savory snck mx pnt lovers by general mills sales inc,,0.0,150.0,21.0,,6.0,0.36,,,4.0,0.998,200.0,,,,,0.0,,,,,,Branded Foods,Canned_Tuna,0,Confectionaries
+margarine with added vitamin d without salt stick composite 80 fat regular,0.27,0.42,100.0,0.1,0.0,11.299,0.01,0.42,2.52,0.02,2.126,0.28,114.66,0.001,2.31,0.0,,,1.5,,,,Branded Foods,,1,Whole Nutrient
+infant formula not reconstituted liquid concentrate with iron good start supreme nestle,0.22,25.43,40.0,4.46,0.03,2.041,0.6,2.83,43.02,0.88,0.933,10.68,35.8,0.03,23.8,0.32,,,0.6,2.0,53.0,,Branded Foods,,1,Whole Nutrient
+chicken cooked meat and skin thigh original seasoning rotisserie broilers or fryers,1.41,13.35,207.0,0.02,0.07,13.973,0.86,19.58,231.4,20.41,3.669,307.05,18.69,0.15,53.7,1.64,0.167,0.018,,0.0,30.0,124.0,Branded Foods,Canned_Tuna,0,Confectionaries
+chicken cooked meat and skin breast original seasoning rotisserie broilers or fryers,1.41,13.35,207.0,0.02,0.07,13.973,0.86,19.58,231.4,20.41,3.669,307.05,18.69,0.15,53.7,1.64,0.167,0.018,,0.0,32.0,100.0,Branded Foods,Canned_Tuna,0,Confectionaries
+infant formula with ara and dha ready to feed gentlease mead johnson,0.12,16.2,20.0,2.28,0.01,1.05,0.35,1.5,25.2,0.45,0.444,,17.7,0.012,26.1,0.2,,0.003,0.3,,,,Branded Foods,,2,Frozen & Preserved
+pork panbroil heated separable lean only bonein slice ham  water added cured,3.45,9.35,111.0,1.26,0.1,3.655,0.95,17.0,245.65,18.73,1.223,1167.9,10.2,0.392,58.29,1.95,0.03,0.019,,,,,Branded Foods,,2,Frozen & Preserved
+chex mix peanut butter  chocolate muddy buddies by general mills sales inc,,0.0,130.0,20.0,,4.5,0.6,,0.0,2.0,2.5,50.12,,,,,0.0,,,,,,Branded Foods,Canned_Tuna,3,Packaged
+oil high oleic primary safflower oil of commerce salad or cooking safflower,0.0,0.0,120.0,0.0,0.0,13.6,0.0,0.0,0.0,0.0,1.026,0.0,0.0,0.0,0.0,0.0,0.013,0.0,0.0,,,,Branded Foods,,1,Whole Nutrient
+water fruit flavored with corn syrup andor sugar and low calorie sweetener,2.0,34.0,36.0,9.0,0.01,0.0,0.0,6.0,0.0,0.0,0.0,16.0,64.0,0.168,188.88,0.64,0.0,,0.0,,,,Branded Foods,,3,Packaged
+pork braised cooked separable lean and fat boneless sirloin chops loin fresh,1.2,9.35,145.0,0.0,0.07,4.649,0.6,21.25,349.35,24.15,1.59,47.6,1.7,0.445,55.91,1.71,0.007,0.012,0.34,0.0,37.0,145.0,Branded Foods,,4,Keto & Strength
+lays wavy ranch flavored potato chips 95 ounce bag by frito lay,,0.0,160.0,15.0,,9.999,0.36,15.96,330.12,2.0,1.501,140.0,,0.16,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+ice cream added peanuts and chocolate sauce cone no sugar added lowfat,1.48,133.0,265.0,40.01,0.36,9.33,0.48,65.0,213.0,5.33,6.598,113.0,26.0,0.093,43.85,1.06,0.0,0.677,0.2,,,,Branded Foods,,3,Packaged
+pork raw separable lean only composite of trimmed retail cuts loin and shoulder blade fresh,0.3,4.82,41.0,0.0,0.02,1.667,0.25,6.52,108.86,6.02,0.576,15.31,0.57,0.145,20.48,0.56,,0.003,,0.0,41.0,146.0,Branded Foods,,4,Keto & Strength
+betty crocker teenage mutant ninja turtles fruit flavored snacks 20ct by general mills sales inc,,0.0,80.0,19.0,,0.0,0.0,,,0.0,0.0,29.9,,,,,0.0,,,,,,Foundation Foods,Tomatoes,3,Packaged
+infant formula with ara and dha not reconstituted powder with iron prosobee enfamil mead johnson,0.27,46.64,45.0,4.8,0.03,2.376,0.84,3.61,53.68,1.12,0.994,16.1,40.48,0.027,0.23,0.54,,0.011,0.69,3.0,58.0,,Branded Foods,,3,Packaged
+margarinelike with added vitamin d with salt unspecified oils approximately 37 fat vegetable oil spread,0.23,0.89,51.0,0.1,0.0,5.628,0.0,0.15,5.07,0.08,1.287,87.76,193.25,0.0,8.87,0.0,0.251,0.0,1.59,,,,Branded Foods,,5,Unhealthy & Over-indulgent
+lays kettle cooked party size original potato chips 14 ounce plastic bag by frito lay,,5.88,150.0,17.0,,8.999,1.0,,376.88,2.0,1.501,89.88,,,,,0.0,,,,,,Branded Foods,,3,Packaged
+infant formula with ara and dha ready to feed enfamil premature 30 calories mead johnson,0.27,48.49,31.0,3.39,0.04,1.464,0.53,2.75,28.98,0.98,0.671,20.74,122.0,0.044,24.4,0.44,,0.002,2.2,,,,Branded Foods,,3,Packaged
+lays baked sour cream and onion potato crisps 625 ounce plastic bag by frito lay,,19.88,120.0,21.0,,3.5,0.3,,239.96,2.0,0.501,169.96,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+infant formula with dha and ara not reconstituted powder with iron alimentum advance abbott nutrition,0.38,46.46,45.0,4.52,0.03,2.453,0.8,3.31,52.03,1.22,1.243,19.49,39.85,0.027,0.13,0.33,,,0.5,,,,Branded Foods,,3,Packaged
+annies organic bendy berry really peely fruit tape 6 count by general mills sales inc,,0.0,80.0,17.0,,1.0,0.8,,110.04,0.0,0.0,10.08,,,,,0.0,,,,,,,,1,Whole Nutrient
+pork panbroiled cooked with added solution separable lean only boneless top loin chops loin fresh,1.43,8.5,144.0,0.0,0.05,4.25,0.54,23.8,439.45,24.61,1.527,177.65,0.0,0.416,54.82,1.72,0.025,0.0,,,,,Branded Foods,,0,Confectionaries
+infant formula reconstituted with ara and dha liquid concentrate with iron infant enfamil mead johnson,0.1,15.96,21.0,2.46,0.02,1.095,0.37,1.56,22.22,0.41,0.463,5.63,18.47,0.012,27.23,0.21,,0.003,0.31,2.0,55.0,,Branded Foods,,1,Whole Nutrient
+doritos dinamita cjile limon sazonado flavored tortilla chips 4 ounce plastic bag by frito lay,,0.0,140.0,16.0,,8.0,0.0,,,2.0,1.0,199.92,,,,,0.0,,,,,,Branded Foods,Honey,0,Confectionaries
+lays stax hotn spicy barbecue flavored potato chips 55 ounce plastic canister by frito lay,,10.08,140.0,17.0,,7.0,0.3,,180.04,1.0,1.999,190.12,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+pork roasted heated separable lean and fat boneless spiral slice ham with natural juices cured,5.41,5.8,202.0,1.54,0.28,7.395,1.2,31.9,500.25,32.16,1.377,1416.65,18.85,0.612,99.37,2.61,0.014,0.032,1.16,2.0,42.0,134.0,Branded Foods,,2,Frozen & Preserved
+infant formula with ara and dha liquid concentrate not reconstituted with iron nutramigen enfamil mead johnson,0.15,19.59,21.0,2.28,0.02,1.106,0.37,1.58,22.75,0.58,0.468,9.8,18.64,0.012,27.49,0.21,,,0.25,2.0,59.0,,Branded Foods,,3,Packaged
+fruit rollups fruit by the foot gushers 16 count variety pack by general mills sales inc,,0.0,50.0,11.0,,1.0,0.0,,,0.0,0.5,49.98,,,,,0.0,,,,,,Branded Foods,,0,Confectionaries
+lays kettle cooked sea salt  vinegar flavored potato chips 85 ounce plastic bags by frito lay,,0.0,150.0,17.0,,8.999,0.36,15.96,339.92,2.0,1.501,169.96,,0.2,,0.3,0.0,,,,,,Branded Foods,,0,Confectionaries
+pork roasted heated separable lean only boneless meat only spiral slice ham with natural juices cured,3.2,3.4,107.0,0.92,0.16,3.213,0.71,18.7,296.65,19.18,0.419,838.1,11.05,0.364,59.05,1.55,0.009,0.019,0.68,2.0,43.0,134.0,Branded Foods,,2,Frozen & Preserved
+pork raw separable lean and fat composite of trimmed retail cuts leg loin shoulder and spareribs fresh,0.27,5.39,61.0,0.0,0.02,4.238,0.24,5.95,94.97,5.37,1.497,15.59,0.57,0.126,18.46,0.57,,0.003,,0.0,35.0,145.0,Branded Foods,,4,Keto & Strength
+cheetos crunchy cheese flavored snacks 12  1 ounce 12 ounces 12 pack plastic bag by frito lay,,15.0,160.0,15.0,,10.001,0.36,,52.92,2.0,1.5,249.89,,,,,0.0,,,,,,Branded Foods,Other_Condiments,5,Unhealthy & Over-indulgent
+lays kettle cooked sea salt  cracked pepper flavored potato chips 85 ounce plastic bag by frito lay,,0.0,150.0,16.0,,8.999,0.72,15.96,360.08,2.0,1.501,110.04,,0.2,,,0.0,,,,,,Branded Foods,,0,Confectionaries
