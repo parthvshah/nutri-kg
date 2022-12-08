@@ -12,6 +12,10 @@ Build a Nutritional Knowledge Graph (Nutri-KG) to marginally change dietary opti
 - `data` - Contains the raw data from scraping, Python scripts to block and entity link. Additionally, this folder contains Python scripts used to create the KG.
 - `scraping` - This folder contains Pytho scripts used to scrape our 2 data sources. Selenium was used to achieve the same.
 - `service` - This folder contains the Flask application that serves the KG. It exposes endpoints that allow the app to query the KG for reccomendations.
+- `resources` - This folder contains the final report, final presentation and the project proposal for Nutri-KG.
+
+
+A demo of the application can be found on [YouTube](https://www.youtube.com/watch?v=ZyLWSz4kf_c).
 
 ## Credits
 
